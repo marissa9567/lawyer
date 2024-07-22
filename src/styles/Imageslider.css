@@ -1,0 +1,161 @@
+/* Imageslider.css */
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 200px;
+    position: relative;
+    background-color: darkblue;
+    width: 100%;
+  }
+  
+  .quote-container {
+    margin: 0 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #333; /* Dark background for contrast */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px; /* Optional: restrict the width */
+    background-color: rgb(3, 3, 64);
+  }
+  
+  .quote-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 15px; /* Space between quote and details */
+  }
+  
+  .quote-details {
+    display: flex;
+    align-items: center;
+    margin-top: 10px; /* Space between text and image */
+  }
+  
+  .quote-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .quote-info {
+    text-align: left;
+  }
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .quote-meta {
+    margin-top: -5px;
+    color: white; /* White text color */
+  }
+  
+  .prev-button{
+    background-color: yellow; /* Yellow background for the button */
+    border-radius: 50%; /* Rounded shape */
+    padding: 10px; /* Adjust padding to control button size */
+  } 
+  .prev-symbol{
+   
+        font-size: 24px;
+        color: black; /* Yellow color for the circle and arrow */
+      }
+ .prev-button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    outline: none;
+    color: blue;
+      }
+  
+  .next-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: blue;
+  }
+  
+  .next-symbol {
+    font-size: 24px;
+    color: black; /* Yellow color for the circle and arrow */
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -20px;
+  }
+ 
+  
+  .next-button {
+    background-color: yellow; /* Yellow background for the button */
+    border-radius: 50%; /* Rounded shape */
+    padding: 10px; /* Adjust padding to control button size */
+    width:30px;
+    height:30px;
+  }
+  
+  .next-symbol {
+    display: inline-block;
+    line-height: 1;
+    vertical-align: middle;
+    text-align: center;
+    width: 40px; /* Adjust size of the button */
+    height: 40px; /* Adjust size of the button */
+    border-radius: 50%;
+  }
+  
+
+
+  .prev-symbol {
+    font-size: 24px;
+    color: black; /* Yellow color for the circle and arrow */
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -20px;
+  }
+ 
+  
+  .prev-button {
+    background-color: yellow; /* Yellow background for the button */
+    border-radius: 50%; /* Rounded shape */
+    padding: 10px; /* Adjust padding to control button size */
+    width:30px;
+    height:30px;
+  }
+  
+  .prev-symbol {
+    display: inline-block;
+    line-height: 1;
+    vertical-align: middle;
+    text-align: center;
+    width: 40px; /* Adjust size of the button */
+    height: 40px; /* Adjust size of the button */
+    border-radius: 50%;
+  }
+  .title{
+
+    position: absolute;
+    margin-top: -400px;
+    margin-bottom: -50px;
+    color: white;
+    background-color:darkblue;
+
+  }
+  .container{
+    background-color: darkblue;
+    width:100%;
+    position: absolute;
+  }

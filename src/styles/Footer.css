@@ -1,0 +1,26 @@
+/* Footer.css */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+
+.footer-item {
+    padding: 10px;
+}
+
+.privacy-terms {
+    margin-left: 20px;
+}
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -100px;
+}

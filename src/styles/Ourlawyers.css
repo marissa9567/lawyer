@@ -1,0 +1,39 @@
+.lawyers{
+    width:fit-content;
+    height:200%;
+    display: flex;
+    flex-direction: row;
+    background-color: darkblue;
+    gap: 50px;
+    padding-bottom: 20px;
+    margin-left: 25%;
+    position:relative;
+  
+}
+
+.Leftlawyer{
+width:30%;
+height:200%;
+}
+
+
+.Rightlawyer{
+    width:30%;
+    height:200%;
+}
+.rightlawyerimg{
+    position: absolute;
+    height:40%;
+    width:40%;
+}
+.leftlawyerimg{
+    position: absolute;
+    height:40%;
+    width:40%;
+}
+.leftlawyerabout{
+margin-top: 90%;
+}
+.rightlawyerabout{
+    margin-top: 90%;
+}

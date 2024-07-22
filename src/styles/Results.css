@@ -1,0 +1,84 @@
+.main {
+    position: absolute;
+    width: 100%;
+    height: 216%;
+    background-color: rgb(3, 3, 64);
+}
+
+.header-container {
+    background-image: url('../images/results.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 190vh;
+    margin-left: 80px;
+    position: relative; /* Changed to relative */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-top: 100px !important;
+    
+}
+
+.awarded-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 15px;
+    position: absolute; /* Changed to relative */
+    top: 350px;
+    left:-90px;
+    width: 115.7%;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(3, 3, 64);
+}
+
+.card {
+    background-color: darkblue;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center; /* Unified text alignment */
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px; /* Simplified border-radius */
+    width:220px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+.div-three{
+    padding-top: 90px;
+    margin-top: 350px;
+    display: flex;
+    flex-direction: row;
+    background-color: darkblue;
+    width: 100%;
+    height: 140%;
+    position: relative; /* Changed to relative */
+
+}
+.right-div {
+    background-color: rgb(3, 3, 64);
+    width: 650px;
+    height: 350px;
+    margin-left: 300px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative; /* Changed to relative */
+    padding:30px;
+}
+
+.left-div {
+    width: 65px;
+    height: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    position: relative; /* Changed to relative */
+    margin-left: 38px;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2318ccf.css",
+    "main.js": "/static/js/main.996ee05c.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/statueofliberty.jpg": "/static/media/statueofliberty.98d363f9387784c5a257.jpg",
+    "static/media/fallingonstairs.jpg": "/static/media/fallingonstairs.0b4eb5a3da134296765b.jpg",
+    "static/media/lawyer2.png": "/static/media/lawyer2.87f9a4ac19bb6f60a4a0.png",
+    "static/media/rearend-collision.jpg": "/static/media/rearend-collision.c8b1d9239c0859a79f6f.jpg",
+    "static/media/grocery-slip.jpg": "/static/media/grocery-slip.bab83971b9a73536b299.jpg",
+    "static/media/construction-worker-injured.jpg": "/static/media/construction-worker-injured.c5f1b9bffe95b238ec76.jpg",
+    "static/media/Robert.jpg": "/static/media/Robert.8c07de3ce3b9f0f2c3ce.jpg",
+    "index.html": "/index.html",
+    "main.b2318ccf.css.map": "/static/css/main.b2318ccf.css.map",
+    "main.996ee05c.js.map": "/static/js/main.996ee05c.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2318ccf.css",
+    "static/js/main.996ee05c.js"
+  ]
+}
