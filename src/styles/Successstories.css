@@ -1,57 +1,3886 @@
-.Stories-container{
+
+@media (min-width: 320px) and (min-height: 374px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+  .Storiescontainersnonmobile,
+  .oursuccessstorynonmobile,
+  .impactnonmobile,
+  .storiesimgnonmobile,
+  .ulcontainernonmobile,
+  .titleparagraphnonmobile,
+  .individualcontainersnonmobile,
+  .refundnonmobile,
+  .subtitlenonmobile,
+  .descriptionnonmobile,
+  .nonmobileitem {
+    display: none;
+  }
+}
+
+
+/***************************************************************************************************/
+
+@media screen and (min-width: 768px) and (min-height: 300px) {
+  .Storiescontainersnonmobile{
     background-color: rgb(3, 3, 64);
-    padding: 10px;
+  
+    margin-top: 60vh;
+    position: absolute;
+    width: 98%;
+    padding-top: 60vh;
   
 }
-
-.stories-img{
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: -50vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -39vh;
+  font-size: 1.5vw;
+  }
+  
+.storiesimgnonmobile{
 width:100%;
 height:30%;
+margin-top: -20vh;
 }
 
-.ul-container{
+.ulcontainernonmobile{
+ 
   justify-content: space-between;
  display: flex;
+background-color: brown;
 
-margin-left: 10px;
-margin-right: 100px;
-margin-bottom: ;
-}
-.item-container{
-    
-    border-color: black;
-    border-width: 1px;
-    border-style: solid;
-   background-color: darkblue;
-    width:30%;
-    border-top-left-radius:10px ;
-    border-top-right-radius:10px ;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius:10px ;
+margin-right:90px;
 
+width: 94%;
 }
-.title-paragraph{
+
+.titleparagraphnonmobile{
     margin-bottom: -20px;
 padding: 10px;
 color: white;
-}
 
-.refund{
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 0vw;
+margin-left: -3vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:30vw;
+
+
+}
+.refundnonmobile{
     padding: 10px;
     margin-top: -20px;
     font-size: large;
     font-weight: bold;
-    color: yellow;
+    color: blue;
+ 
 }
-.subtitle{
+.subtitlenonmobile{
     padding: 10px;
-    font-size:medium;
-    margin-top: -30px;
-    color: white;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+
 }
-.description{
+.descriptionnonmobile{
     padding: 10px;
-    margin-top: -30px;
-    color: white;
+    margin-top: 0vh;
+    color: black;
+    font-size: 1.8vw;
+
    
 }
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+    
+    margin-top: 157vh;
+   height: 125vh;
+    width: 100%;
+    padding-top: 40vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: -35vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -25vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+height: 118vh;
+margin-right:90px;
+margin-left: 0vw;
+width: 90%;
+
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 0vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+
+
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+    padding: 10px;
+    margin-top: 145vh;
+   height: 80vh;
+    width: 97.5%;
+    padding-top: 40vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: -35vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -25vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+height: 118vh;
+margin-right:90px;
+margin-left: 0vw;
+width: 90%;
+height: 75%;
+
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 0vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height: 96%;
+
+
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.5vw;
+    display: block;
+   
+}
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+    padding: 10px;
+    margin-top: 57vh;
+   height: 120vh;
+    width: 98%;
+    padding-top: 60vh;
+     display: block;
+     margin-left: 0vw;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: -59vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -50vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+margin-left: -2vw;
+margin-right: 100px;
+margin-top: -20vh;
+width: 95%;
+
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: 0vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+  margin-left: -.4vw;
+    margin-top: 145vh;
+   height: 167vh;
+    width: 97.7%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: 0vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 40vh;
+width: 95%;
+
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: 0vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+  
+    margin-top: 58vh;
+   height: 235vh;
+    width: 98.3%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: 0vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 34vw;
+  position: absolute;
+  margin-top: 12vh;
+  font-size: 1.3vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 40vh;
+width: 95%;
+
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: 0vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+   margin-left: -2vw;
+    margin-top: 160vh;
+   height: 180vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: 0vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 34vw;
+  position: absolute;
+  margin-top: 12vh;
+  font-size: 1.3vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 40vh;
+width: 95%;
+height: 55%;
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height: 140vh;
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -5vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+  .Storiescontainersnonmobile{
+    background-color: rgb(3, 3, 64);
+   margin-left: 0vw;
+    margin-top: 149vh;
+   height: 150vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: 0vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 34vw;
+  position: absolute;
+  margin-top: 12vh;
+  font-size: 1.3vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: -20vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 40vh;
+width: 95%;
+height: 110vh;
+}
+
+.titleparagraphnonmobile{
+    margin-bottom: -20px;
+padding: 10px;
+color: white;
+display: block;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height: 100vh;
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -20px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: 0vh;
+    color: black;
+    font-size: 1.8vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 125vh;
+   height:95vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 3vw;
+  margin-top: 3vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:75vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:70vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.3vw;
+    display: block;
+   
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+ 
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 182vh;
+   height:110vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:30%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:95vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:90vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -5vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+ 
+
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 158vh;
+   height:90vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:70vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -5vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 160vh;
+   height:90vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:70vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -5vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+ 
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 153vh;
+   height:90vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 98%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:70vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -5vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+    
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 158vh;
+   height:80vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 7vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:65vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 145vh;
+   height:80vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 7vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:65vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 150vh;
+   height:80vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 7vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:65vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 149vh;
+   height:80vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 7vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:35%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top: 15vh;
+height:65vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: 0px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -3vh;
+    color: black;
+    font-size: 1.2vw;
+    display: block;
+   
+}
+
+
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 87vh;
+   height:30vh;
+    width: 98%;
+    padding-top: 0vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: 1vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: 3vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:40%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:23vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -40px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:20vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -1vh;
+    color: black;
+    font-size: 1vw;
+    display: block;
+   
+}
+
+}
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .Storiescontainersnonmobile{
+      background-color: palegreen;
+      margin-top: 87vh;
+     height:30vh;
+      width: 98%;
+      padding-top: 0vh;
+       display: block;
+  }
+  .nonmobileitem{
+    display: block;
+  }
+  .oursuccessstorynonmobile {
+    font-size: 2.7vw;
+    margin-top: 1vh;
+    color: white;
+    margin-left: 38vw;
+    position: absolute;
+    display: block;
+    }
+    
+    .impactnonmobile {
+    color: white;
+    margin-left: 31vw;
+    position: absolute;
+    margin-top: 3vh;
+    font-size: 1.5vw;
+    display: block;
+    }
+    
+  .storiesimgnonmobile{
+  width:100%;
+  height:40%;
+  margin-top: 0vh;
+  display: block;
+  }
+  
+  .ulcontainernonmobile{
+   
+    justify-content: space-between;
+   display: flex;
+  background-color: brown;
+  width: 95%;
+  margin-left: 1vw;
+  margin-right: 100px;
+  margin-top:5vh;
+  height:23vh;
+  }
+  
+  .titleparagraphnonmobile{
+      margin-top: -55px;
+  padding: 10px;
+  color: white;
+  display: block;
+  padding-top: 3vh;
+  
+  }
+  .individualcontainersnonmobile{
+    background-color: gold;
+    gap: 10vw;
+  margin-left: 4vw;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  width:33vw;
+  display: block;
+  height:20vh;
+  
+  }
+  .refundnonmobile{
+      padding: 10px;
+      margin-top: 0px;
+      font-size: large;
+      font-weight: bold;
+      color: blue;
+      display: block;
+   
+  }
+  .subtitlenonmobile{
+      padding: 10px;
+      font-size:1.5vw;
+      margin-top: -30px;
+      color: brown;
+      display: block;
+  
+  }
+  .descriptionnonmobile{
+      padding: 10px;
+      margin-top: -1vh;
+      color: black;
+      font-size: 1vw;
+      display: block;
+     
+  }
+  
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:142vh;
+   height:69vh;
+    width: 98.6%;
+    padding-top: 10vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -9vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -2vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:40%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:65vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -20px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:60vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -1vh;
+    color: black;
+    font-size: 1vw;
+    display: block;
+   
+}
+
+}  
+
+
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 1100px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 150vh;
+   height:56vh;
+    width: 98%;
+    padding-top: 10vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -9vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -2vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:40%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:50vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:45vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -1vh;
+    color: black;
+    font-size: 1vw;
+    display: block;
+   
+}
+}  
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top: 150vh;
+   height:56vh;
+    width: 98%;
+    padding-top: 10vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -9vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 31vw;
+  position: absolute;
+  margin-top: -2vh;
+  font-size: 1.5vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:40%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:50vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:45vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -1vh;
+    color: black;
+    font-size: 1vw;
+    display: block;
+   
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:157vh;
+   height:76vh;
+    width: 98%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 34vw;
+  position: absolute;
+  margin-top: 0vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:70vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -15px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:65vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -4vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:155vh;
+   height:76vh;
+    width: 98%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 34vw;
+  position: absolute;
+  margin-top: 0vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:70vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:65vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -4vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:149vh;
+   height:60vh;
+    width: 98%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  margin-top: 0vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:5vh;
+height:55vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:50vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -4vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:167.6vh;
+   height:55vh;
+    width: 98%;
+    padding-top: 9vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:55vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:50vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:145vh;
+   height:55vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:55vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:50vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:144vh;
+   height:55vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:55vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:50vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:131vh;
+   height:40vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:38vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:35vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:125vh;
+   height:27vh;
+    width: 100%;
+    padding-top: 6vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2.7vw;
+  margin-top: -5vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -2vh;
+  font-size: 1vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:27vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -80px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:25vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .9vw;
+    display: block;
+   
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:143vh;
+   height:55vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: .7vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:55vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:50vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .7vw;
+    display: block;
+   
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:139vh;
+   height:44vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: .7vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:43vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:40vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .7vw;
+    display: block;
+   
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:140vh;
+   height:44vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 2vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: .7vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:43vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:40vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1.5vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .7vw;
+    display: block;
+   
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:136vh;
+   height:44vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 1.5vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: .6vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:43vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:40vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .6vw;
+    display: block;
+   
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:135vh;
+   height:44vh;
+    width: 100%;
+    padding-top: 8vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 1.5vw;
+  margin-top: -8vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -3vh;
+  font-size: .6vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:43vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:40vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .6vw;
+    display: block;
+   
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .Storiescontainersnonmobile{
+    background-color: palegreen;
+    margin-top:134vh;
+   height:40vh;
+    width: 100%;
+    padding-top: 6vh;
+     display: block;
+}
+.nonmobileitem{
+  display: block;
+}
+.oursuccessstorynonmobile {
+  font-size: 1.5vw;
+  margin-top: -5vh;
+  color: white;
+  margin-left: 38vw;
+  position: absolute;
+  display: block;
+  }
+  
+  .impactnonmobile {
+  color: white;
+  margin-left: 37vw;
+  position: absolute;
+  margin-top: -2vh;
+  font-size: .6vw;
+  display: block;
+  }
+  
+.storiesimgnonmobile{
+width:100%;
+height:50%;
+margin-top: 0vh;
+display: block;
+}
+
+.ulcontainernonmobile{
+ 
+  justify-content: space-between;
+ display: flex;
+background-color: brown;
+width: 95%;
+margin-left: 1vw;
+margin-right: 100px;
+margin-top:0vh;
+height:43vh;
+}
+
+.titleparagraphnonmobile{
+    margin-top: -25px;
+padding: 10px;
+color: white;
+display: block;
+padding-top: 3vh;
+
+}
+.individualcontainersnonmobile{
+  background-color: gold;
+  gap: 10vw;
+margin-left: 4vw;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+width:33vw;
+display: block;
+height:40vh;
+
+}
+.refundnonmobile{
+    padding: 10px;
+    margin-top: 0px;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+    display: block;
+ 
+}
+.subtitlenonmobile{
+    padding: 10px;
+    font-size:1vw;
+    margin-top: -30px;
+    color: brown;
+    display: block;
+
+}
+.descriptionnonmobile{
+    padding: 10px;
+    margin-top: -2vh;
+    color: black;
+    font-size: .6vw;
+    display: block;
+   
+}
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

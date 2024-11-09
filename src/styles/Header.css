@@ -1,34 +1,744 @@
-
+@media (min-width: 320px) {
   .headertitle1{
-    font-size: 40px;
-    color: white;
-    margin-left: -400px;
-    margin-top: -100px;
-    position: absolute;
+
+   display: none;
    
   }
   
   .headertitle2{
-    font-size: 40px;
-    color: yellow !important;
-    margin-left: -400px;
-    margin-top: -50px;
-   position: absolute;
+ 
+    display: none;
   }
 
   .headertitle3{
-    font-size: 40px;
+  
+    display: none;
+  }
+  .background-container {
+  
+    display: none;
+  }
+  .background-overlay {
+  
+    display: none;
+  }
+  .content {
+ 
+    display: none;
+}
+  
+  .content h1,
+  .content p {
+    
+    display: none;
+  }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+  .headertitle1{
+
+    display: none;
+    
+   }
+   
+   .headertitle2{
+  
+     display: none;
+   }
+ 
+   .headertitle3{
+   
+     display: none;
+   }
+   .background-container {
+   
+     display: none;
+   }
+   .background-overlay {
+   
+     display: none;
+   }
+   .content {
+  
+     display: none;
+ }
+   
+   .content h1,
+   .content p {
+     
+     display: none;
+   }
+ 
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
     color:white;
-    margin-left: -400px;
-    margin-top: 0px;
-   position: absolute;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
   }
   .background-container {
     background-image: url('../images/fallingonstairs.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 100vh;
     margin: 0;
     padding: 0;
     display: flex;
@@ -36,22 +746,2693 @@
     align-items: center;
     text-align: center; /* Center text horizontally */
     color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
   }
   .background-overlay {
-    position: absolute;
+
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
   }
-  .content {
+  .content-container {
     z-index: 1; /* Ensure content is above the background */
-    position: absolute;
-    margin-left: -250px;
-}
   
-  .content h1,
-  .content p {
-    color: white; /* Adjust text color */
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -17vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -17vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 10vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 10vh;
+  width: 20vw;
+  margin-left: -30vw;
+}
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
   }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -17vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -17vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 8vh;
+  width: 20vw;
+  margin-left: -30vw;
+}
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -17vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -17vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 8vh;
+  width: 17vw;
+  margin-left: -36vw;
+}
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -17vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -17vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 8vh;
+  width: 17vw;
+  margin-left: -36vw;
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -25vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -25vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 10vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -25vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -25vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 10vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -25vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -25vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 10vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -25vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -25vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 7vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 5vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 76vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -30vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -30vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 9vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 65vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -30vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -30vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 7vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 6vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 6vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 14vw;
+  margin-left: -40vw;
+}
+
+
+
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 10vw;
+  margin-left: -42vw;
+}
+
+
+
+
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 4vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 10vw;
+  margin-left: -42vw;
+}
+
+
+
+
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .header-title1{
+    font-size: 5vw;
+    color: red;
+    margin-left: -10vw;
+    margin-top: 0vh;
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 5vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 5vw;
+    color:white;
+    margin-left: -14vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -32vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -32vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2vh;
+  width: 10vw;
+  margin-left: -42vw;
+}
+
+
+
+
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .header-title1{
+      font-size: 5vw;
+      color: red;
+      margin-left: -10vw;
+      margin-top: 0vh;
+   
+  
+     
+    }
+    
+    .header-title2{
+      font-size: 5vw;
+      color: yellow !important;
+      margin-left: -20vw;
+      margin-top: 0vh;
+  
+    }
+  
+    .header-title3{
+      font-size: 5vw;
+      color:white;
+      margin-left: -14vw;
+      margin-top: 0vh;
+   
+    }
+    .background-container {
+      background-image: url('../images/fallingonstairs.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 20vh;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center; /* Center text horizontally */
+      color: white; /* Text color on top of the background */
+      margin-top: 400vh;
+    
+    }
+    .background-overlay {
+  
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+    }
+    .content-container {
+      z-index: 1; /* Ensure content is above the background */
+    
+      margin-left: -40vw;
+  }
+  .header-paragraph{
+  color: aquamarine;
+  margin-left: -32vw;
+  }
+  .header-paragraph2{
+  color: white;
+  margin-left: -32vw;
+  }
+  .free-consultation-button{
+    color: black;
+    background-color: yellow;
+    margin-top: 1vh;
+    border-top-left-radius:7vw ;
+    border-top-right-radius:7vw ;
+    border-bottom-left-radius: 7vw;
+    border-bottom-right-radius:7vw ;
+    height: 2vh;
+    width: 10vw;
+    margin-left: -42vw;
+  }
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .header-title1{
+    font-size: 3vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 3vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 3vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 5vh;
+  width: 10vw;
+  margin-left: -20vw;
+
+}
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .header-title1{
+    font-size: 3vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 3vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 3vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -40vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 3vh;
+  width: 10vw;
+  margin-left: -20vw;
+
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 4vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 3vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 3vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 27vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 3vh;
+  width: 8vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 23vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2vh;
+  width: 7vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .header-title1{
+    font-size: 2.6vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2.6vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2.6vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+    z-index: 1; /* Ensure content is above the background */
+  text-align: left;
+    margin-left: -50vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 1.5vh;
+  width: 7vw;
+  margin-left: -20vw;
+
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 5vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 5vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 22vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 5vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 27vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 4vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 22vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 4vw;
+  margin-left: -20vw;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .header-title1{
+    font-size: 2vw;
+    color: red;
+    margin-left: -20vw;
+    margin-top: 0vh;
+    
+ 
+
+   
+  }
+  
+  .header-title2{
+    font-size: 2vw;
+    color: yellow !important;
+    margin-left: -20vw;
+    margin-top: 0vh;
+
+  }
+
+  .header-title3{
+    font-size: 2vw;
+    color:white;
+    margin-left: -20vw;
+    margin-top: 0vh;
+ 
+  }
+  .background-container {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 22vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    margin-top: 400vh;
+  
+  }
+  .background-overlay {
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+  }
+  .content-container {
+
+  text-align: left;
+    margin-left: -55vw;
+}
+.header-paragraph{
+color: aquamarine;
+margin-left: -20vw;
+}
+.header-paragraph2{
+color: white;
+margin-left: -20vw;
+}
+.free-consultation-button{
+  color: black;
+  background-color: yellow;
+  margin-top: 1vh;
+  border-top-left-radius:7vw ;
+  border-top-right-radius:7vw ;
+  border-bottom-left-radius: 7vw;
+  border-bottom-right-radius:7vw ;
+  height: 2.5vh;
+  width: 4vw;
+  margin-left: -20vw;
+
+}
+
+}
+/***************************************************************************************************/ 
+
+

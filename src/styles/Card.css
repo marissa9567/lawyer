@@ -1,34 +1,5412 @@
-.card-item{
+
+
+  @media (min-width: 320px) {
+  .Card-Title1{
+
+margin-top: -14.5vh;
+
+  }
+    .cardtitleh2{
+      color:#F8F9FA;
+      margin-top: 27vh;
+      margin-left: 0vw;
+      width:100%;
+      position: absolute;
+      font-size: 4vh;
+      height: 7vh;
+      background-color: rgb(1, 1, 53);
+      padding-top: 1vh;
+       padding-left: 0vw;
+       text-align: center;
     
-    border-color: black ;
-    border-width: 2;
-    border-style: solid;
-    width:26%;
-    justify-content: space-between;
-    height:17%;
-    background-color: darkblue;
-    border-top-left-radius: 10% ;
-    border-top-right-radius: 10%;
-    border-bottom-left-radius: 10%;
-    border-bottom-right-radius:10% ;
+  
+    }
+    .cardtitleh1{
+      color:white;
+      margin-top: 33vh;
+      margin-left: 0vw;
+      padding-bottom: 2.3vh;
+      width:100%;
+      position: absolute;
+      font-size: 5.5vh;
+      background-color: rgb(1, 1, 53);
+      text-align: center;
+      font-weight: bold;
+ 
+     
+    }
+    .card-container{
+      background-color: rgb(1, 1, 53);
+      margin-top: 40vh;
+      position: absolute;
+      width: 100%;
+      height: 105vh;
+  
+    
+    }
+    .card-item{
+      width: 70vw;
+      height: 25vh !important;
+      background-color: rgb(41, 41, 192);
+      margin-left: 14vw;
+    border-top-left-radius: 4vw ;
+      border-top-right-radius: 4vw;
+      border-bottom-left-radius: 4vw;
+      border-bottom-right-radius:4vw ;
+      padding:1vw;
+      margin-top: 5vh;
+  
+    }
+  
+    .card-item-special {
+     margin-left: 14vw;
+     position: absolute;
+     background-color: rgb(41, 41, 192);
+     margin-top: 35vh;
+    }
+  
+    .cardcontainerh1{
+      font-size: 2vh;
+      margin-left: 10vw;
+      color: brown;
+      width: 60vw;
+   
+   }
+    .cardcontainerp{
+      font-size: 2vh;
+       margin-left: 23vw;
+     color:blueviolet;
+     
+   }
+  
+     
+      
+   .logo1 {
+    font-size: 7vh !important;
+    color:  #FFD700;
+    margin-left: 28vw;
+    margin-top: 3vh;
+  
+    }
+  
+  .item-title{
+    text-align: center;
+    font-size: 4vw;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .item-subtitle{
+    font-size: 3vw;
+    text-align: center;
+    margin-top: -2vh;
+    color: white;
+  }
+  
+  
+  } 
+  
+ /***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+  .Card-Title1{
+    background-color: orange;
+    margin-top: -18vh;
+    
+      }
+        .cardtitleh2{
+          color:white;
+          margin-top: 27vh;
+          margin-left: 0vw;
+          width:100%;
+          position: absolute;
+          font-size: 3vh;
+          height: 6vh;
+          background-color: rgb(1, 1, 53);
+          padding-top: 2vh;
+           padding-left: 0vw;
+        
+           text-align: center;
+        
+      
+        }
+        .cardtitleh1{
+          color:white;
+          margin-top: 33vh;
+          margin-left: 0vw;
+          padding-bottom: 2.3vh;
+          width:100%;
+          position: absolute;
+          font-size: 5vh;
+          background-color: rgb(1, 1, 53);
+          text-align: center;
+          font-weight: bold;
+         
+        }
+        .card-container{
+          background-color: rgb(1, 1, 53);
+          margin-top: 40vh;
+          position: absolute;
+          width: 100%;
+          height: 95vh;
+      
+        
+        }
+        .card-item{
+          width: 80vw;
+          height: 25vh !important;
+          background-color: rgb(41, 41, 192);
+          margin-left: 10vw;
+        border-top-left-radius: 4vw ;
+          border-top-right-radius: 4vw;
+          border-bottom-left-radius: 4vw;
+          border-bottom-right-radius:4vw ;
+          padding:1vw;
+          margin-top: 5vh;
+      
+        }
+      
+        .card-item-special {
+         margin-left: 10vw;
+         position: absolute;      
+         background-color: rgb(41, 41, 192);
+         width: 80vw;
+         margin-top: 35vh;
+        }
+      
+        .cardcontainerh1{
+          font-size: 2vh;
+          margin-left: 10vw;
+          color: brown;
+          width: 60vw;
+       
+       }
+        .cardcontainerp{
+          font-size: 2vh;
+           margin-left: 23vw;
+         color:blueviolet;
+         
+       }
+      
+         
+          
+       .logo1 {
+        font-size: 7vh !important;
+        color:  #FFD700;;
+        margin-left: 35vw;
+        margin-top: 3vh;
+      
+        }
+      
+      .item-title{
+        text-align: center;
+        font-size: 4vw;
+        color: white;
+        font-weight: bold;
+      }
+      
+      .item-subtitle{
+        font-size: 3vw;
+        text-align: center;
+        margin-top: 0vh;
+        color: white;
+      }
+      
+      
 }
-.Card-Title{
-    background-color: rgb(3, 3, 64);
-   padding-top: 5px;
-   padding-bottom: 20px;
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+  .Card-Title1{
+   margin-top: -10vh;
+
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    height: 5vh;
+    font-size: 2vh;
+    width: 100%;
+    margin-left: 0vw;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 25vh;
+    margin-left: 0vw;
+
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+
+   text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100.5vw;
+    height: 81vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 20vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 30vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 7vh !important;
+  color:  #FFD700;;
+  margin-left: 27vw;
+  margin-top: 2vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
 }
-.Card-container{
+
+.item-subtitle{
+  font-size: 3vw;
+  text-align: center;
+  margin-top: 0vh;
+  color: white;
+}
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+  .Card-Title1{
+    margin-top: -10vh;
+ 
+   }
+   .cardtitleh2{
+    color:white;
+     margin-top: 20vh;
+     height: 5vh;
+     font-size: 2vh;
+     width: 100%;
+     margin-left: 0vw;
+     background-color: rgb(1, 1, 53);
+     text-align: center;
+ 
+ 
+   }
+   .cardtitleh1{
+    color:white;
+     margin-top: 25vh;
+     margin-left: 0vw;
+ 
+     width:100%;
+     position: absolute;
+     font-size: 3vh;
+     background-color: rgb(1, 1, 53);
+ 
+    text-align: center;
+    
+   }
+   .card-container{
+    background-color: rgb(1, 1, 53);
+     margin-top: 29vh;
+     position: absolute;
+     width: 100.5vw;
+     height: 81vh;
+ 
+   
+   }
+   .card-item{
+     width: 70vw;
+     height: 20vh !important;
+     background-color: rgb(41, 41, 192);
+     margin-left: 14vw;
+   border-top-left-radius: 4vw ;
+     border-top-right-radius: 4vw;
+     border-bottom-left-radius: 4vw;
+     border-bottom-right-radius:4vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+    margin-left: 14vw;
+    position: absolute;
+    background-color: rgb(41, 41, 192);
+    margin-top: 30vh;
+   }
+ 
+   .cardcontainerh1{
+     font-size: 2vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 6vh !important;
+   color:  #FFD700;;
+   margin-left: 27vw;
+   margin-top: 2vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 4vw;
+   font-weight: bold;
+   color: white;
+ }
+ 
+ .item-subtitle{
+   font-size: 3vw;
+   text-align: center;
+   margin-top: 0vh;
+   color: white;
+ }
+ 
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+  .Card-Title1{
+    margin-top: -10vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 19vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2.5vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 25vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+   height: 6vh;
+   text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100vw;
+    height: 70vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 27vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 30vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 2vw;
+  text-align: center;
+  margin-top: -1vh;
+  color: white;
+}
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+   .Card-Title1{
+    margin-top: -10vh;
+   }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 25vh;
+    margin-left: 0vw;
+    text-align: center;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 30vh;
+    position: absolute;
+    width: 100vw;
+    height: 70vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 26vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 29vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+}
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+  .Card-Title1{
+   margin-top: -12vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 22vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2.5vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 28vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 32vh;
+    position: absolute;
+    width: 100vw;
+    height: 80vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 20vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 30vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 30vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 2vw;
+  text-align: center;
+  margin-top: -2vh;
+  color: white;
+}
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+  .Card-Title1{
+    margin-top: -12vh;
+   }
+   .cardtitleh2{
+    color:white;
+     margin-top: 22vh;
+     margin-left: 0vw;
+     width:100%;
+     position: absolute;
+     font-size: 2vh;
+     height: 5vh;
+     background-color: rgb(1, 1, 53);
+     text-align: center;
+   
+ 
+   }
+   .cardtitleh1{
+    color:white; ;
+     margin-top: 28vh;
+     margin-left: 0vw;
+     width:100%;
+     position: absolute;
+     font-size: 3vh;
+     background-color: rgb(1, 1, 53);
+     height: 3vh;
+     text-align: center;
+    
+   }
+   .card-container{
+    background-color: rgb(1, 1, 53);
+     margin-top: 33vh;
+     position: absolute;
+     width: 100vw;
+     height: 80vh;
+ 
+   
+   }
+   .card-item{
+     width: 70vw;
+     height: 20vh !important;
+     background-color: rgb(41, 41, 192);
+     margin-left: 14vw;
+   border-top-left-radius: 4vw ;
+     border-top-right-radius: 4vw;
+     border-bottom-left-radius: 4vw;
+     border-bottom-right-radius:4vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+    margin-left: 14vw;
+    position: absolute;
+    background-color: rgb(41, 41, 192);
+    margin-top: 30vh;
+   }
+ 
+   .cardcontainerh1{
+     font-size: 2vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color:  #FFD700;;
+   margin-left: 30vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 4vw;
+   font-weight: bold;
+   color: white;
+ }
+ 
+ .item-subtitle{
+   font-size: 2vw;
+   text-align: center;
+   margin-top: -1vh;
+   color: white;
+ }
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+  .Card-Title1{
+    margin-top: -12vh;
+   }
+   .cardtitleh2{
+    color:white;
+     margin-top: 23vh;
+     margin-left: 0vw;
+     width:100%;
+     position: absolute;
+     font-size: 2vh;
+     height: 5vh;
+     background-color: rgb(1, 1, 53);
+     text-align: center;
+   
+ 
+   }
+   .cardtitleh1{
+    color:white; 
+     margin-top: 29vh;
+     margin-left: 0vw;
+     width:100%;
+     position: absolute;
+     font-size: 3vh;
+     background-color: rgb(1, 1, 53);
+     height: 3vh;
+     text-align: center;
+    
+   }
+   .card-container{
+    background-color: rgb(1, 1, 53);
+     margin-top: 33vh;
+     position: absolute;
+     width: 100vw;
+     height: 80vh;
+ 
+   
+   }
+   .card-item{
+     width: 70vw;
+     height: 17vh !important;
+     background-color: rgb(41, 41, 192);
+     margin-left: 14vw;
+   border-top-left-radius: 4vw ;
+     border-top-right-radius: 4vw;
+     border-bottom-left-radius: 4vw;
+     border-bottom-right-radius:4vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+    margin-left: 14vw;
+    position: absolute;
+    background-color: rgb(41, 41, 192);
+    margin-top: 29vh;
+    height: 17vh;
+   }
+ 
+   .cardcontainerh1{
+     font-size: 2vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color:  #FFD700;;
+   margin-left: 30vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 4vw;
+   font-weight: bold;
+   color: white;
+ }
+ 
+ .item-subtitle{
+   font-size: 2vw;
+   text-align: center;
+   margin-top: -1vh;
+   color: white;
+ }
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: -12vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 22vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 5vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 28vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 33vh;
+    position: absolute;
+    width: 100vw;
+    height:70vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 26vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 27.8vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 2vw;
+  text-align: center;
+  color: white;
+}
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+  .Card-Title1{
+    margin-top: -12vh;
+  }
+
+
+  .cardtitleh2{
+    color:white;
+    margin-top: 21vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 5vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 28vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 33vh;
+    position: absolute;
+    width: 100vw;
+    height:70vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 14vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 14vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 27vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 27vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 2vw;
+  text-align: center;
+  color: white;
+}
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+ .Card-Title1{
+  margin-top: -12vh;
+ }
+  .cardtitleh2{
+    color:white;
+    margin-top: 22vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 5vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 28vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 2vh;
+    text-align: center;
+    z-index: 7000;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 30vh;
+    position: absolute;
+    width: 100vw;
+    height: 70vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 15vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 15vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 27vh;
+   width: 70vw;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 30vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 3vw;
+}
+
+.item-subtitle{
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: -1vh;
+}
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+  .Card-Title1{
+    margin-top: -4vh;
+   }
+    .cardtitleh2{
+      color:white;
+      margin-top: 13vh;
+      margin-left: 0vw;
+      width:100%;
+      position: absolute;
+      font-size: 2vh;
+      height: 5vh;
+      background-color: rgb(1, 1, 53);
+      text-align: center;
+     
+  
+    }
+    .cardtitleh1{
+      color:white;
+      margin-top: 19vh;
+      margin-left: 0vw;
+      width:100%;
+      position: absolute;
+      font-size: 3vh;
+      background-color: rgb(1, 1, 53);
+      height: 3vh;
+      text-align: center;
+      z-index: 7000;
+     
+    }
+    .card-container{
+      background-color: rgb(1, 1, 53);
+      margin-top: 20vh;
+      position: absolute;
+      width: 100vw;
+      height: 70vh;
+  
+    
+    }
+    .card-item{
+      width: 70vw;
+      height: 15vh !important;
+      background-color: rgb(41, 41, 192);
+      margin-left: 15vw;
+    border-top-left-radius: 4vw ;
+      border-top-right-radius: 4vw;
+      border-bottom-left-radius: 4vw;
+      border-bottom-right-radius:4vw ;
+      padding:1vw;
+      margin-top: 7vh;
+  
+    }
+  
+    .card-item-special {
+     margin-left: 15vw;
+     position: absolute;
+     background-color: rgb(41, 41, 192);
+     margin-top: 30vh;
+     width: 70vw;
+    }
+  
+    .cardcontainerh1{
+      font-size: 2vh;
+      margin-left: 10vw;
+      color: brown;
+      width: 60vw;
+   
+   }
+    .cardcontainerp{
+      font-size: 2vh;
+       margin-left: 23vw;
+     color:blueviolet;
+     
+   }
+  
+     
+      
+   .logo1 {
+    font-size: 5vh !important;
+    color:  #FFD700;;
+    margin-left: 29vw;
+    margin-top: 1vh;
+  
+    }
+  
+  .item-title{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .item-subtitle{
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: -1vh;
+    color: white;
+  }
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+  .Card-Title1{
+   
+   }
+    .cardtitleh2{
+      color:white;
+      margin-top: 13vh;
+      margin-left: 0vw;
+      width:100%;
+      position: absolute;
+      font-size: 2vh;
+      height: 4vh;
+      background-color: rgb(1, 1, 53);
+      text-align: center;
+      z-index: 7000;
+    
+  
+    }
+    .cardtitleh1{
+      color:white;
+      margin-top: 19vh;
+      margin-left: 0vw;
+      width:100%;
+      position: absolute;
+      font-size: 3vh;
+      background-color: rgb(1, 1, 53);
+      height: 2vh;
+      text-align: center;
+     
+    }
+    .card-container{
+      background-color: rgb(1, 1, 53);
+      margin-top: 23vh;
+      position: absolute;
+      width: 100vw;
+      height: 65vh;
+  
+    
+    }
+    .card-item{
+      width: 80vw;
+      height: 14vh !important;
+      background-color: rgb(41, 41, 192);
+      margin-left: 10vw;
+    border-top-left-radius: 4vw ;
+      border-top-right-radius: 4vw;
+      border-bottom-left-radius: 4vw;
+      border-bottom-right-radius:4vw ;
+      padding:1vw;
+      margin-top: 5vh;
+  
+    }
+  
+    .card-item-special {
+     margin-left: 10vw;
+     position: absolute;
+     background-color: rgb(41, 41, 192);
+     margin-top: 26vh;
+    }
+  
+    .cardcontainerh1{
+      font-size: 2vh;
+      margin-left: 10vw;
+      color: brown;
+      width: 60vw;
+   
+   }
+    .cardcontainerp{
+      font-size: 2vh;
+       margin-left: 23vw;
+     color:blueviolet;
+     
+   }
+  
+     
+      
+   .logo1 {
+    font-size: 5vh !important;
+    color:  #FFD700;;
+    margin-left: 34vw;
+    margin-top: 3vh;
+  
+    }
+  
+  .item-title{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .item-subtitle{
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: -1vh;
+    color: white;
+  }
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: -9vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 26vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100vw;
+    height: 75vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 15vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 15vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 28vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 31vw;
+  margin-top: 2vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 3vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: -1vh;
+  color: white;
+}
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+  .Card-Title1{
+    margin-top: -9vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 26vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100vw;
+    height: 75vh;
+
+  
+  }
+  .card-item{
+    width: 70vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 15vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 15vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 28vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 31vw;
+  margin-top: 2vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 3vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: -1vh;
+  color: white;
+}
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+  .Card-Title1{
+    margin-top: -10vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 26vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100vw;
+    height: 75vh;
+
+  
+  }
+  .card-item{
+    width: 75vw;
+    height: 17vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 12vw;
+  border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 12vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 28vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left: 32vw;
+  margin-top: 2vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 3vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: -1vh;
+  color: white;
+}
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+  .Card-Title1{
+    margin-top: -10vh;
+  }
+  .cardtitleh2{
+    color:white;
+    margin-top: 20vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 2vh;
+    height: 4vh;
+    background-color: rgb(1, 1, 53);
+    text-align: center;
+  
+
+  }
+  .cardtitleh1{
+    color:white;
+    margin-top: 26vh;
+    margin-left: 0vw;
+    width:100%;
+    position: absolute;
+    font-size: 3vh;
+    background-color: rgb(1, 1, 53);
+    height: 3vh;
+    text-align: center;
+   
+  }
+  .card-container{
+    background-color: rgb(1, 1, 53);
+    margin-top: 29vh;
+    position: absolute;
+    width: 100vw;
+    height: 70vh;
+
+  
+  }
+  .card-item{
+    width: 75vw;
+    height: 15vh !important;
+    background-color: rgb(41, 41, 192);
+    margin-left: 12vw;
+    border-top-left-radius: 4vw ;
+    border-top-right-radius: 4vw;
+    border-bottom-left-radius: 4vw;
+    border-bottom-right-radius:4vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+   margin-left: 12vw;
+   position: absolute;
+   background-color: rgb(41, 41, 192);
+   margin-top: 25vh;
+  }
+
+  .cardcontainerh1{
+    font-size: 2vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color:  #FFD700;;
+  margin-left:31vw;
+  margin-top: 2vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 3vw;
+  font-weight: bold;
+  color: white;
+}
+
+.item-subtitle{
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: 0vh;
+  color: white;
+}
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+  .Card-Title1{
+    margin-top: 0vh;
+ 
+   }
+   .cardtitleh2{
+    margin-top: 0vh;
+    height: 3.9vw;
+    font-size: 2.5vw;
+    width: 98%;
+   
+  background-color: goldenrod;
+    text-align: center;
+  
+    }
+    .cardtitleh1{
+      margin-top: 10vh;
+    height: 4vw;
+    font-size: 3vw;
+    width: 98%;
+    text-align: center;
+    
+     
+    }
+    .card-container{
+      background-color: purple;
+      margin-top: 20vh;
+      position: absolute;
+      width: 98%;
+      height: 43vh;
+      display: flex;
+    z-index: 9000;
+    }
+    .card-item{
+      width: 25vw;
+      height:28vh !important;
+      background-color: yellowgreen;
+      margin-left: 6vw;
+    border-top-left-radius: 2vw ;
+      border-top-right-radius: 2vw;
+      border-bottom-left-radius: 2vw;
+      border-bottom-right-radius:2vw ;
+      padding:1vw;
+      margin-top: 5vh;
+  
+    }
+    .card-item-special {
+      margin-left: 70vw;
+      position: absolute;
+      background-color: brown;
+      margin-top: 5vh;
+      width: 25vw;
+    
+     }
+  
+    .cardcontainerh1{
+      font-size: 1vh;
+      margin-left: 10vw;
+      color: brown;
+      width: 60vw;
+   
+   }
+    .cardcontainerp{
+      font-size: 2vh;
+       margin-left: 23vw;
+     color:blueviolet;
+     
+   }
+   .logo1 {
+    font-size: 7vh !important;
+    color: yellow !important;
+    margin-left: 11vw;
+    margin-top: 3vh;
+  
+    }
+  
+  .item-title{
+    text-align: center;
+    font-size: 1.5vw;
+   
+  }
+  
+  .item-subtitle{
+    font-size: 1vw;
+    text-align: center;
+  }
+  
+     
+}
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+  .Card-Title1{
+    margin-top: 0vh;
+ 
+   }
+   .cardtitleh2{
+    margin-top: 100vh;
+    height: 3.9vw;
+    font-size: 2.5vw;
+    width: 100%;
+    margin-left: 0vw;
+ 
+  background-color: goldenrod;
+    text-align: center;
+  
+    }
+    .cardtitleh1{
+      margin-top: 106vh;
+    height: 3vw;
+    font-size: 3vw;
+    width: 100%;
+    text-align: center;
+    
+     
+    }
+    .card-container{
+      background-color: purple;
+      margin-top: 114vh;
+      position: absolute;
+      width: 100%;
+      height: 43vh;
+      display: flex;
+    
+    }
+    .card-item{
+      width: 25vw;
+      height:28vh !important;
+      background-color: yellowgreen;
+      margin-left: 6vw;
+    border-top-left-radius: 2vw ;
+      border-top-right-radius: 2vw;
+      border-bottom-left-radius: 2vw;
+      border-bottom-right-radius:2vw ;
+      padding:1vw;
+      margin-top: 5vh;
+  
+    }
+    .card-item-special {
+      margin-left: 70vw;
+      position: absolute;
+      background-color: brown;
+      margin-top: 5vh;
+      width: 25vw;
+    
+     }
+  
+    .cardcontainerh1{
+      font-size: 1vh;
+      margin-left: 10vw;
+      color: brown;
+      width: 60vw;
+   
+   }
+    .cardcontainerp{
+      font-size: 2vh;
+       margin-left: 23vw;
+     color:blueviolet;
+     
+   }
+   .logo1 {
+    font-size: 7vh !important;
+    color: yellow !important;
+    margin-left: 11vw;
+    margin-top: 3vh;
+  
+    }
+  
+  .item-title{
+    text-align: center;
+    font-size: 1.5vw;
+   
+  }
+  
+  .item-subtitle{
+    font-size: 1vw;
+    text-align: center;
+  }
+  
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  .Card-Title1{
+
+ 
+   }
+   .cardtitleh2{
+   margin-top: 97vh;
+   height: 3.9vw;
+   font-size: 2.5vw;
+   width: 100%;
+ background-color: goldenrod;
+   text-align: center;
+ 
+   }
+   .cardtitleh1{
+     margin-top: 102vh;
+   height: 4vw;
+   font-size: 3vw;
+   width: 100%;
+   text-align: center;
+   
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top: 108vh;
+     position: absolute;
+     width: 100vw;
+     height: 38vh;
+     display: flex;
+   
+   }
+   .card-item{
+     width: 25vw;
+     height:23vh !important;
+     background-color: yellowgreen;
+     margin-left: 5vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 69vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 25vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 7vh !important;
+   color: yellow !important;
+   margin-left: 10vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.5vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+ }
+ 
+    
+ 
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+  .Card-Title1{
+   margin-top: -3vh;
+
+  }
+  .cardtitleh2{
+  margin-top: 0vh;
+  height: 5vw;
+  font-size: 2.5vw;
+  width: 98%;
+  margin-left: 0vw;
+  background-color: goldenrod;
+  text-align: center;
+  padding-left: 3vw;
+ 
+  }
+  .cardtitleh1{
+    margin-top: 11vh;
+    height: 4vw;
+    font-size: 2.5vw;
+    width: 98%;
+    margin-left: 0vw;
+    background-color: gray;
+    text-align: center;
+    padding-left: 3vw;
+  
+   
+  }
+  .card-container{
+    background-color: purple;
+    margin-top:22vh;
+    position: absolute;
+    width: 98%;
+    height: 35vh;
     display: flex;
-    width: 85%;
+    margin-left: -2vh;
+    padding-left: 3vw;
+  
+  }
+  .card-item{
+    width: 20vw;
+    height:20vh !important;
+    background-color: yellowgreen;
+    margin-left: 9vw;
+  border-top-left-radius: 2vw ;
+    border-top-right-radius: 2vw;
+    border-bottom-left-radius: 2vw;
+    border-bottom-right-radius:2vw ;
+    padding:1vw;
+    margin-top: 5vh;
+
+  }
+
+  .card-item-special {
+    margin-left: 70vw;
+    position: absolute;
+    background-color: brown;
+    margin-top: 5vh;
+    width: 20vw;
+  
+   }
+
+  .cardcontainerh1{
+    font-size: 1vh;
+    margin-left: 10vw;
+    color: brown;
+    width: 60vw;
+ 
+ }
+  .cardcontainerp{
+    font-size: 2vh;
+     margin-left: 23vw;
+   color:blueviolet;
+   
+ }
+
+   
+    
+ .logo1 {
+  font-size: 5vh !important;
+  color: yellow !important;
+  margin-left: 9vw;
+  margin-top: 3vh;
+
+  }
+
+.item-title{
+  text-align: center;
+  font-size: 1.2vw;
+ 
+}
+
+.item-subtitle{
+  font-size: 1vw;
+  text-align: center;
+  margin-top: -3vh;
+}
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+
+  .Card-Title1{
+  
+ 
+   }
+   .cardtitleh2{
+   margin-top: 102vh;
+   height: 3vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 106.6vh;
+     height: 2.5vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:113vh;
+     position: absolute;
+     width: 97%;
+     height: 32vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:20vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 9vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .Card-Title1{
+    margin-top: 3vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: -3vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 98.4%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 8vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 98.4%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:18vh;
+     position: absolute;
+     width: 98.4%;
+     height: 40vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:24vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 9vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+  .Card-Title1{
+    margin-top: -4vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 98vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: -2vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 108vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: -2vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:117vh;
+     position: absolute;
+     width: 95.8%;
+     height: 43vh;
+     display: flex;
+     margin-left: -2vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:24vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 9vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+  .Card-Title1{
+    margin-top: -9vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 100vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 107vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:114vh;
+     position: absolute;
+     width: 97%;
+     height: 35vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:20vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 9vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: 0vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 87vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: -0.2vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 92vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 96.%;
+     margin-left: -0.2vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:97vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:15vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+ 
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .Card-Title1{
+    margin-top: -30vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 129vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 138vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:147vh;
+     position: absolute;
+     width: 97%;
+     height: 35vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:20vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: -37vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 117vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 123vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:128vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  .Card-Title1{
+    margin-top: -37vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 117vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 123vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:130vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  .Card-Title1{
+    margin-top: -37vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 112vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 118vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:123vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .Card-Title1{
+    margin-top: -38vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 118vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 122vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:128vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+
+  .Card-Title1{
+    margin-top: -40vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 105vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 110vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:115vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+
+  .Card-Title1{
+    margin-top: -39vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 109vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 114vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:120vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+
+  .Card-Title1{
+    margin-top: -38vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 108vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 113vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:119vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+
+
+
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .Card-Title1{
+    margin-top: -48.3vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 74vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 76vh;
+     height: .8vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:78vh;
+     position: absolute;
+     width: 97%;
+     height: 10vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:5vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+     border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 2vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 2vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 2vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 0vh;
+   height: 1vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+   margin-top: 2vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -0.6vh;
+ }
+
+
+  
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .Card-Title1{
+      margin-top: -48.3vh;
+   
+     }
+     .cardtitleh2{
+     margin-top: 74.1vh;
+     height: 4vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: goldenrod;
+     text-align: center;
+  
+    
+     }
+     .cardtitleh1{
+       margin-top: 76vh;
+       height: .8vw;
+       font-size: 2.5vw;
+       width: 97%;
+       margin-left: 0vw;
+       background-color: gray;
+       text-align: center;
+  
+      
+     }
+     .card-container{
+       background-color: purple;
+       margin-top:78vh;
+       position: absolute;
+       width: 97%;
+       height: 10vh;
+       display: flex;
+       margin-left: -.3vh;  
+     }
+     .card-item{
+       width: 20vw;
+       height:5vh !important;
+       background-color: yellowgreen;
+       margin-left: 9vw;
+       border-top-left-radius: 2vw ;
+       border-top-right-radius: 2vw;
+       border-bottom-left-radius: 2vw;
+       border-bottom-right-radius:2vw ;
+       padding:1vw;
+       margin-top: 2vh;
+   
+     }
+   
+     .card-item-special {
+       margin-left: 70vw;
+       position: absolute;
+       background-color: brown;
+       margin-top: 2vh;
+       width: 20vw;
+     
+      }
+   
+     .cardcontainerh1{
+       font-size: 1vh;
+       margin-left: 10vw;
+       color: brown;
+       width: 60vw;
+    
+    }
+     .cardcontainerp{
+       font-size: 2vh;
+        margin-left: 23vw;
+      color:blueviolet;
+      
+    }
+   
+      
+       
+    .logo1 {
+     font-size: 2vh !important;
+     color: yellow !important;
+     margin-left: 8vw;
+     margin-top: 0vh;
+     height: 1vh;
+   
+     }
+   
+   .item-title{
+     text-align: center;
+     font-size: 1.2vw;
+     margin-top: 2vh;
+    
+   }
+   
+   .item-subtitle{
+     font-size: 1vw;
+     text-align: center;
+     margin-top: -0.6vh;
+   }
+  
+  
+    
+  
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: -30vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 100vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 106vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:112vh;
+     position: absolute;
+     width: 97%;
+     height: 30vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:17vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 9vw;
+   margin-top: 3vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -2vh;
+ }
+}  
+/********************************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1100px) {
+  .Card-Title1{
+    margin-top: -45vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 115vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 120vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:126vh;
+     position: absolute;
+     width: 97%;
+     height: 25vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:14vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}  
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .Card-Title1{
+    margin-top: -45vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 115vh;
+   height: 4vw;
+   font-size: 2.5vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 120vh;
+     height: 3vw;
+     font-size: 2.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:126vh;
+     position: absolute;
+     width: 97%;
+     height: 25vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 20vw;
+     height:14vh !important;
+     background-color: yellowgreen;
+     margin-left: 9vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 70vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 20vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 5vh !important;
+   color: yellow !important;
+   margin-left: 8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: 1.2vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: 1vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .Card-Title1{
+    margin-top: -42vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 117vh;
+   height: 2.5vw;
+   font-size: 2vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 123vh;
+     height: 2.5vw;
+     font-size: 2.3vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:130vh;
+     position: absolute;
+     width: 97%;
+     height: 27vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 14vw;
+     height:14vh !important;
+     background-color: yellowgreen;
+     margin-left: 13vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 17vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 6vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .9vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .7vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+
+  .Card-Title1{
+    margin-top: -42vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 117vh;
+   height: 2.5vw;
+   font-size: 2vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 121vh;
+     height: 2.5vw;
+     font-size: 2.3vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:128vh;
+     position: absolute;
+     width: 97%;
+     height: 27vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 14vw;
+     height:14vh !important;
+     background-color: yellowgreen;
+     margin-left: 13vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 17vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 6vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .9vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .7vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+  .Card-Title1{
+    margin-top: -42vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 112vh;
+   height: 2.5vw;
+   font-size: 2vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 116vh;
+     height: 2.5vw;
+     font-size: 2.3vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:122vh;
+     position: absolute;
+     width: 97%;
+     height: 27vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 14vw;
+     height:10vh !important;
+     background-color: yellowgreen;
+     margin-left: 13vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 17vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 6vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .9vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .7vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+  .Card-Title1{
+    margin-top: -69.5vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 139.3vh;
+   height: 3vw;
+   font-size: 2vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 143vh;
+     height: 2.4vw;
+     font-size: 2.3vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:148vh;
+     position: absolute;
+     width: 97%;
+     height: 20vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 14vw;
+     height:10vh !important;
+     background-color: yellowgreen;
+     margin-left: 13vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 14vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 6vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .9vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .7vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .Card-Title1{
+    margin-top: -69.9vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 116vh;
+   height: 2.8vw;
+   font-size: 1.6vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 120vh;
+     height: 1.7vw;
+     font-size: 2vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:125vh;
+     position: absolute;
+     width: 97%;
+     height: 20vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 10vw;
+     height:10vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 10vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 4vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .7vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .6vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .Card-Title1{
+    margin-top: -69.9vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 116vh;
+   height: 2.8vw;
+   font-size: 1.6vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 120vh;
+     height: 1.7vw;
+     font-size: 2vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:124vh;
+     position: absolute;
+     width: 97%;
+     height: 20vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 10vw;
+     height:10vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 5vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 5vh;
+     width: 10vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 3.5vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .7vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .6vw;
+   text-align: center;
+   margin-top: 0vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .Card-Title1{
+    margin-top: -83vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 113vh;
+   height: 2.9vw;
+   font-size: 1.6vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 116vh;
+     height: 1.2vw;
+     font-size: 2vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:119.7vh;
+     position: absolute;
+     width: 97%;
+     height: 12vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 10vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 2vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 2vh;
+     width: 10vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 2vh !important;
+   color: yellow !important;
+   margin-left: 4vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .7vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .6vw;
+   text-align: center;
+   margin-top: -0.3vh;
+ }
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .Card-Title1{
+    margin-top: -85.7vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 112.5vh;
+   height: 2.9vw;
+   font-size: 1.6vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 114.7vh;
+     height: .5vw;
+     font-size: 2vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:117vh;
+     position: absolute;
+     width: 97%;
+     height: 8vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 10vw;
+     height:3vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 2vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 2vh;
+     width: 10vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 1.4vh !important;
+   color: yellow !important;
+   margin-left: 4vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .7vw;
+   margin-left: 0vh;
+   margin-top: 1vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .5vw;
+   text-align: center;
+   margin-top: -0.4vh;
+ }
+  }
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .Card-Title1{
+    margin-top: -69vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 114vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 118vh;
+     height: 1.4vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:123vh;
+     position: absolute;
+     width: 97%;
+     height: 20vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 10vw;
+     height:10vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 4vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 73vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 10vw;
+   
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 4vh !important;
+   color: yellow !important;
+   margin-left: 4vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .7vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .6vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .Card-Title1{
+    margin-top: -72vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 117vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 120vh;
+     height: 1.4vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:124vh;
+     position: absolute;
+     width: 97%;
+     height: 15vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 7vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 4vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 67vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 7.2vw;
+     height:6vh !important;
+     
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 3vh !important;
+   color: yellow !important;
+   margin-left: 2.8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .5vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .4vw;
+   text-align: center;
+   margin-top: 0vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+ 
+  .Card-Title1{
+    margin-top: -72vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 118vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 121vh;
+     height: 1.4vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:125vh;
+     position: absolute;
+     width: 97%;
+     height: 15vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 7vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 4vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 67vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 7.2vw;
+     height:6vh !important;
+     
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 3vh !important;
+   color: yellow !important;
+   margin-left: 2.8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .5vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .4vw;
+   text-align: center;
+   margin-top: 0vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+ 
+  .Card-Title1{
+    margin-top: -73vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 113vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 117vh;
+     height: 1vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:121vh;
+     position: absolute;
+     width: 97%;
+     height: 15vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 7vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 3vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 67vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 7.2vw;
+     height:6vh !important;
+     
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 3vh !important;
+   color: yellow !important;
+   margin-left: 2.8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .5vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .4vw;
+   text-align: center;
+   margin-top: -1vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .Card-Title1{
+    margin-top: -73vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 113vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 116vh;
+     height: 1vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:120vh;
+     position: absolute;
+     width: 97%;
+     height: 15vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 7vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 3vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 67vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 7.2vw;
+     height:6vh !important;
+     
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 3vh !important;
+   color: yellow !important;
+   margin-left: 2.8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .5vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .4vw;
+   text-align: center;
+   margin-top: 0vh;
+ }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .Card-Title1{
+    margin-top: -73vh;
+ 
+   }
+   .cardtitleh2{
+   margin-top: 113vh;
+   height: 2vw;
+   font-size: 1.3vw;
+   width: 97%;
+   margin-left: 0vw;
+   background-color: goldenrod;
+   text-align: center;
+
+  
+   }
+   .cardtitleh1{
+     margin-top: 116vh;
+     height: 1vw;
+     font-size: 1.5vw;
+     width: 97%;
+     margin-left: 0vw;
+     background-color: gray;
+     text-align: center;
+
+    
+   }
+   .card-container{
+     background-color: purple;
+     margin-top:119vh;
+     position: absolute;
+     width: 97%;
+     height: 15vh;
+     display: flex;
+     margin-left: -.3vh;  
+   }
+   .card-item{
+     width: 7vw;
+     height:6vh !important;
+     background-color: yellowgreen;
+     margin-left: 16vw;
+   border-top-left-radius: 2vw ;
+     border-top-right-radius: 2vw;
+     border-bottom-left-radius: 2vw;
+     border-bottom-right-radius:2vw ;
+     padding:1vw;
+     margin-top: 3vh;
+ 
+   }
+ 
+   .card-item-special {
+     margin-left: 67vw;
+     position: absolute;
+     background-color: brown;
+     margin-top: 4vh;
+     width: 7.2vw;
+     height:6vh !important;
+     
+    }
+ 
+   .cardcontainerh1{
+     font-size: 1vh;
+     margin-left: 10vw;
+     color: brown;
+     width: 60vw;
+  
+  }
+   .cardcontainerp{
+     font-size: 2vh;
+      margin-left: 23vw;
+    color:blueviolet;
+    
+  }
+ 
+    
+     
+  .logo1 {
+   font-size: 3vh !important;
+   color: yellow !important;
+   margin-left: 2.8vw;
+   margin-top: 0vh;
+ 
+   }
+ 
+ .item-title{
+   text-align: center;
+   font-size: .5vw;
+   margin-left: 0vh;
+  
+ }
+ 
+ .item-subtitle{
+   font-size: .4vw;
+   text-align: center;
+   margin-top: 0vh;
+ }
+
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
     
 
-   gap:30px;
-    margin-left: 10%;
-}
 
-.logo{
-    margin-left: 45%;
-    padding-top: 10%;
-    color: yellow;
 
-}
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

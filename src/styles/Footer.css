@@ -1,26 +1,7007 @@
-/* Footer.css */
-.footer {
-    background-color: #333;
+@media (min-width: 320px) {
+  /* Footer Styles */
+  .footer {
+    background-color: rgb(3, 3, 64);
     color: white;
-    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 64vh; /* Let the height adjust based on content */
+    margin-top: 530vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+   
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: 8vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 3vh;
+  margin-top: -3vh;
+  margin-bottom: 0.9vh;
+  text-decoration: none;
+  color: white;
+}
+.about{
+    font-size: 3vh;
+    margin-top: -3vh;
+    margin-bottom: 0.9vh;
+}
+
+.third-contact{
+ 
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -46vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 2vw;
+margin-top: .1vh;
+}
+.contact-phone{
+  font-size: 2vw;
+margin-top: .1vh;
+}
+.contact-address{
+  font-size: 2vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+  font-size: 2vw;
+margin-top: .1vh;
+text-decoration: none;
+color: white;
+}
+.about-focus{
+  font-size: 2vw;
+margin-top: 2vh;
+}
+.about-results{
+  font-size: 2vw;
+margin-top: .1vh;
+text-decoration: none;
+color: white;
+}
+
+
+.privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 60vh; /* Let the height adjust based on content */
+    margin-top: 420vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+   
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: 8vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 2vh;
+  margin-top: -3vh;
+  margin-bottom: 0.9vh;
+}
+.about{
+    font-size: 2.5vh;
+    margin-top: -3vh;
+    margin-bottom: 0.9vh;
+}
+
+.third-contact{
+ 
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -46vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-phone{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-address{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-focus{
+font-size: 3vw;
+margin-top: 1vh;
+}
+.about-results{
+font-size: 3vw;
+margin-top: .1vh;
+}
+
+
+.privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+   
+
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 50vh; /* Let the height adjust based on content */
+    margin-top: 380vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+   
+}
+.privacy-terms {
+  /* Reduced margin and removed negative margin */
+ text-align: center; /* Center the text */
+ position: relative; /* Changed from absolute */
+ background-color: aqua;
+ margin-left: 10vw;
+ margin-top: -7vh;
+}
+
+.footer-app {
+ margin-top: 5vh; /* Adjusted margin */
+ display: none; /* Hide if not needed */
+}
+
+.logo {
+
+ width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+ height: 15%; /* Maintain aspect ratio */
+ position: absolute; /* Changed from absolute */
+margin-top: -20vh;
+margin-left:-15vw;
+color: black;
+
+}
+
+.second-third{
+background-color: chartreuse;
+position: absolute;
+font-size: 1vh;
+}
+.contacts{
+font-size: 1.7vh;
+margin-top: -2vh;
+margin-bottom: 0.5vh;
+font-weight: bold;
+}
+.about{
+ font-size: 2vh;
+ margin-top: -2vh;
+ margin-bottom: 0.5vh;
+}
+
+.third-contact{
+
+margin-left: -46vw;
+position: absolute;
+margin-top: 3vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+}
+
+.second-about{
+margin-left: -46vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 2.3vw;
+margin-top: .1vh;
+}
+.contact-phone{
+  font-size: 2.3vw;
+margin-top: .1vh;
+}
+.contact-address{
+  font-size: 2.3vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+  font-size: 2.3vw;
+margin-top: .1vh;
+}
+.about-focus{
+  font-size: 2.3vw;
+margin-top: 1vh;
+}
+.about-results{
+font-size: 2.3vw;
+margin-top: .1vh;
+}
+
+
+.privacy{
+margin-left: -106vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 40vh; /* Let the height adjust based on content */
+    margin-top: 373vh; /* A smaller, more manageable margin */
+    width: 100%;
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -7vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 1.6vh;
+  margin-top: -2vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 3vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -46vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-phone{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-address{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-focus{
+font-size: 3vw;
+margin-top: 1vh;
+}
+.about-results{
+font-size: 3vw;
+margin-top: .1vh;
+}
+
+
+.privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+}
+
+
+
+/***************************************************************************************************/
+
+@media screen and (min-width: 390px) and (min-height: 750px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 50vh; /* Let the height adjust based on content */
+    margin-top: 380vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -3vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 2vh;
+  margin-top: -2vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -46vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-phone{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-address{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-focus{
+font-size: 3vw;
+margin-top: 1vh;
+}
+.about-results{
+font-size: 3vw;
+margin-top: .1vh;
+}
+
+
+.privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: absolute; /* Changed from absolute */
+    height: 50vh; /* Let the height adjust based on content */
+    margin-top: 380vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 12vw;
+    margin-top: -3vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 2vh;
+  margin-top: -2vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: -45vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -45vw;
+position: absolute;
+margin-top: -9vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-phone{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.contact-address{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-lawyers{
+font-size: 3vw;
+margin-top: .1vh;
+}
+.about-focus{
+font-size: 3vw;
+margin-top: 1vh;
+}
+.about-results{
+font-size: 3vw;
+margin-top: .1vh;
+}
+
+
+.privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -102.5vw;
+position: absolute;
+margin-top: 23vh;
+width:120vw;
+font-size: 3vw;
+font-weight: bold;
+}
+
+}
+
+/***************************************************************************************************/
+
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding-left: 3vw;
+    text-align: center;
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 40vh; /* Let the height adjust based on content */
+    margin-top: 393vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -7vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-15vw;
+  color: black;
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 2vh;
+  margin-top: -2vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 3vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.5vw;
+  margin-top: 1.5vh;
+  }
+  .about-results{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -102.6vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 412px) and (min-height: 800px) {
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      margin-left:0vw;
+      width: 100%;
+      flex-direction: column;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 393vh; /* A smaller, more manageable margin */
+    }
+    
+    
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 5vw;
+      margin-top: -7vh;
+    }
+    
+ 
+    
+    .logo {
+    
+      width: 20% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -17vh;
+    margin-left:-20vw;
+    color: black;
+
+    }
+
+    .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+
+    }
+    .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+     
+      margin-bottom: 0.5vh;
+    }
+    
+    .third-contact{
+     
+    margin-left: -48vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:15vh;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .second-about{
+    margin-left: -48vw;
+    position: absolute;
+    margin-top: -9vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+   
+    
+    }
+    
+    
+    
+    .contact-email{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+ 
+    }
+    .contact-phone{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+    }
+    .contact-address{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+    }
+    .about-lawyers{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+    }
+    .about-focus{
+    font-size: 2.5vw;
+    margin-top: 1.5vh;
+    }
+    .about-results{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+    }
+    
+    
+    .privacy{
+    margin-left: -53.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:15vw;
+    font-size: 3vw;
+    font-weight: bold;
+ 
+    }
+    .termsuse{
+    margin-left: -52.6vw;
+    position: absolute;
+    margin-top: 23vh;
+    width:20vw;
+    font-size: 3vw;
+    font-weight: bold;
+ 
+    }
+    
+  
+  
+  }
+  
+  /***************************************************************************************************/
+  
+  @media screen and (min-width: 412px) and (min-height: 900px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 38vh; /* Let the height adjust based on content */
+    margin-top: 382vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -7vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -16vh;
+  margin-left:-15vw;
+  color: black;
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 1.8vh;
+  margin-top: -2vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: 3vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.5vw;
+  margin-top: 1.5vh;
+  }
+  .about-results{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -106vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -102.5vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  /***************************************************************************************************/
+
+  @media screen and (min-width: 428px) and (min-height: 800px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 97%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 383vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -7vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.5vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -106vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -102.5vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  
+  /***************************************************************************************************/
+  
+  @media screen and (min-width: 428px) and (min-height: 900px) {
+  
+      .footer {
+        background-color: rgb(3, 3, 64);
+        color: white;
+     
+        text-align: center;
+        width: 97%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute; /* Changed from absolute */
+        height: 40vh; /* Let the height adjust based on content */
+        margin-top: 368vh; /* A smaller, more manageable margin */
+    }
+    
+    
+      .privacy-terms {
+         /* Reduced margin and removed negative margin */
+        text-align: center; /* Center the text */
+        position: relative; /* Changed from absolute */
+        background-color: aqua;
+        margin-left: 10vw;
+        margin-top: -7vh;
+      }
+    
+      .footer-app {
+        margin-top: 5vh; /* Adjusted margin */
+        display: none; /* Hide if not needed */
+      }
+    
+      .logo {
+      
+        width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+        height: 15%; /* Maintain aspect ratio */
+        position: absolute; /* Changed from absolute */
+      margin-top: -20vh;
+      margin-left:-15vw;
+      color: black;
+   
+      }
+  
+    .second-third{
+      background-color: chartreuse;
+      position: absolute;
+      font-size: 1vh;
+    }
+    .contacts{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+    }
+    .about{
+        font-size: 2vh;
+        margin-top: -2vh;
+        margin-bottom: 0.5vh;
+    }
+  
+  .third-contact{
+     
+      margin-left: -46vw;
+      position: absolute;
+      margin-top: 3vh;
+      text-align: left;
+      font-size: 1vw;
+      width: 20vw;
+      height:20vh;
+      display: flex;
+      flex-direction: column;
+  }
+  
+  .second-about{
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: -9vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+   
+  }
+  
+  
+  
+  .contact-email{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+  }
+  .contact-phone{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+  }
+  .contact-address{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+  }
+  .about-lawyers{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+  }
+  .about-focus{
+    font-size: 2.5vw;
+    margin-top: 1vh;
+  }
+  .about-results{
+    font-size: 2.5vw;
+    margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+      margin-left: -106vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-size: 3vw;
+      font-weight: bold;
+  }
+  .termsuse{
+    margin-left: -102.6vw;
+    position: absolute;
+    margin-top: 23vh;
+    width:120vw;
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  
+  
+    }
+  
+  
+  /***************************************************************************************************/
+
+  @media screen and (min-width: 480px) and (min-height: 800px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 97%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 377vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -6vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -107.6vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -105.3vw;
+  position: absolute;
+  margin-top: 22vh;
+  width:120vw;
+  font-size: 2vw;
+  font-weight: bold;
+  }
+  
+  
+  
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 480px) and (min-height: 900px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 97%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 367vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -7vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.5vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -106vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -102.6vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  
+  /**********************************************************************************************************/
+  
+  @media screen and (min-width: 480px) and (min-height: 1000px) {
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 97%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 365vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -7vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.5vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2.5vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -106vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -102.7vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 3vw;
+  font-weight: bold;
+  }
+  
+    }
+  
+  /***********************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 800px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 50vh; /* Let the height adjust based on content */
+      margin-top: 400vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -2vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -108vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -105.7vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 2vw;
+  font-weight: bold;
+  }
+  
+  
+  
+  
+  }
+  /*****************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 900px) {
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 47vh; /* Let the height adjust based on content */
+      margin-top: 400vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -2vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -108vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -105.8vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 2vw;
+  font-weight: bold;
+  }
+  
+  
+  
+  
+  }
+  /******************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 1000px) {
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 410vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -7vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.2vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -108vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -105.5vw;
+  position: absolute;
+  margin-top: 23vh;
+  width:120vw;
+  font-size: 2vw;
+  font-weight: bold;
+  }
+  
+  
+  
+  }
+  
+  /***********************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 1200px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 357vh; /* A smaller, more manageable margin */
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -7vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -20vh;
+    margin-left:-15vw;
+    color: black;
+  
+    }
+  
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 2vh;
+      margin-top: -2vh;
+      margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+   
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: 3vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -46vw;
+  position: absolute;
+  margin-top: -9vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .contact-phone{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .contact-address{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .about-lawyers{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  .about-focus{
+  font-size: 2.2vw;
+  margin-top: 1vh;
+  }
+  .about-results{
+  font-size: 2.2vw;
+  margin-top: 0vh;
+  }
+  
+  
+  .privacy{
+    margin-left: -108vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -105.5vw;
+  position: absolute;
+  margin-top: 22vh;
+  width:120vw;
+  font-size: 2vw;
+  font-weight: bold;
+  }
+  
+  
+  
+  
+  }
+  
+  
+  /**********************************************************************************************/
+
+ 
+
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+  
+  .footer {
+      background-color:goldenrod;
+      background-color: rgb(3, 3, 64);  color: white;
+      text-align: center;
+      width: 98%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 40vh; /* Let the height adjust based on content */
+      margin-top: 458vh; /* A smaller, more manageable margin */
+      margin-left: 0vw;
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 11vw;
+      margin-top: -8vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -17vh;
+    margin-left:-43vw;
+    color: black;
+ 
+    }
+
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 3.9vh;
+    margin-top: -9vh;
+    margin-bottom: 0.8vh;
+  }
+  .about{
+      font-size: 3.9vh;
+      margin-top: -9vh;
+      margin-bottom: 0.8vh;
+  }
+
+.third-contact{
+   
+    margin-left: 15vw;
+    position: absolute;
+    margin-top: 0vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-about{
+  margin-left: -20vw;
+  position: absolute;
+  margin-top: 0vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+
+
+.contact-email{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.contact-phone{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.contact-address{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.about-lawyers{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.about-focus{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.about-results{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+
+
+.privacy{
+    margin-left: -109.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .9vw;
+    font-weight: bold;
+}
+.termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+
+
+}
+/*************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+ 
+  .footer {
+    background-color: rgb(3, 3, 64); background-color:crimson;
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 30vh; /* Let the height adjust based on content */
+    margin-top: 490vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 12vw;
+    margin-top: -13vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -14vh;
+  margin-left:-42vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 3vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 3vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 1vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -20vw;
+position: absolute;
+margin-top: 1vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 2vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+}
+/*********************************************************************************************************/
+
+
+
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 30vh; /* Let the height adjust based on content */
+    margin-top: 386vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 14vw;
+    margin-top: -15vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -11vh;
+  margin-left:-40vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 3vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 3vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 1vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -20vw;
+position: absolute;
+margin-top: 1vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 2vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+
+
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: #ffffff;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 30vh; /* Let the height adjust based on content */
+      margin-top: 386vh; /* A smaller, more manageable margin */
+      margin-left: 0vw;
+  }
+  
+  
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -13vh;
+    }
+  
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+  
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -15vh;
+    margin-left:-43vw;
+    color: black;
+ 
+    }
+
+  .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+  }
+  .contacts{
+    font-size: 3vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+  }
+  .about{
+      font-size: 3vh;
+      margin-top: -9vh;
+      margin-bottom: 0.5vh;
+  }
+
+.third-contact{
+   
+    margin-left: 15vw;
+    position: absolute;
+    margin-top: 1vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-about{
+  margin-left: -20vw;
+  position: absolute;
+  margin-top: 1vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+
+
+.contact-email{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.contact-phone{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.contact-address{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.about-lawyers{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+.about-focus{
+  font-size: 1vw;
+  margin-top: 2vh;
+}
+.about-results{
+  font-size: 1vw;
+  margin-top: 1vh;
+}
+
+
+.privacy{
+    margin-left: -109.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .9vw;
+    font-weight: bold;
+}
+.termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+
+
+}
+/**************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 30vh; /* Let the height adjust based on content */
+    margin-top: 450vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -13vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -15vh;
+  margin-left:-43vw;
+  color: black;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 3vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 3vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 1vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -20vw;
+position: absolute;
+margin-top: 1vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 2vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+}
+/******************************************************************************************************/
+
+
+
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 97.4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 39vh; /* Let the height adjust based on content */
+    margin-top: 468vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -10vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% ; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -20vh;
+  margin-left:-42vw;
+  color: black;
+  z-index: 5000;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 5vh;
+  margin-top: -9vh;
+  margin-bottom: 2vh;
+}
+.about{
+    font-size: 5vh;
+    margin-top: -9vh;
+    margin-bottom: 2vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: -5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: -5vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 3vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+
+
+}
+/************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 98.7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 35vh; /* Let the height adjust based on content */
+    margin-top: 508vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 13vw;
+    margin-top: -10vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% ; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -14vh;
+  margin-left:-39vw;
+  color: black;
+
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  margin-top: -3vh;
+}
+.contacts{
+  font-size: 5vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 5vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: -2vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: -2vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 3vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+
+}
+/**********************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 30vh; /* Let the height adjust based on content */
+    margin-top: 450vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 13vw;
+    margin-top: -10vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% ; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -14vh;
+  margin-left:-39vw;
+  color: black;
+
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  margin-top: -3vh;
+}
+.contacts{
+  font-size: 5vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 5vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: -2vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: -2vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 3vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+
+
+
+}
+/*******************************************************************************************************/
+
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 30vh; /* Let the height adjust based on content */
+    margin-top: 335vh; /* A smaller, more manageable margin */
+    margin-left: 0vw;
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 13vw;
+    margin-top: -15vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% ; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -14vh;
+  margin-left:-39vw;
+  color: black;
+
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  margin-top: -3vh;
+}
+.contacts{
+  font-size: 4vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 4vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: -2vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: -2vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-phone{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.contact-address{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+font-size: 1vw;
+margin-top: 1vh;
+}
+.about-focus{
+font-size: 1vw;
+margin-top: 3vh;
+}
+.about-results{
+font-size: 1vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -109.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .9vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .9vw;
+font-weight: bold;
+}
+
+
+
+
+
+}
+
+/*****************************************************************************************************/
+
+
+
+
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 40vh; /* Let the height adjust based on content */
+    margin-top: 425vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 10vw;
+    margin-top: -13vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -10vh;
+  margin-left:-41vw;
+  color: black;
+  z-index: 5000;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 3vh;
+  margin-top: -10vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 3vh;
+    margin-top: -10vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: 5vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: .7vw;
+margin-top: 1vh;
+}
+.contact-phone{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.contact-address{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.about-focus{
+  font-size: .7vw;
+margin-top: 3vh;
+}
+.about-results{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .7vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .7vw;
+font-weight: bold;
+}
+
+
+ }
+
+/**************************************************************************************************/
+ @media screen and (min-width: 1280px) and (min-height: 800px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 20vh; /* Let the height adjust based on content */
+    margin-top: 352vh; /* A smaller, more manageable margin */
+}
+
+
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 5vw;
+    margin-top: -15vh;
+  }
+
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -7vh;
+  margin-left:-46vw;
+  color: black;
+  z-index: 5000;
+
+  }
+
+.second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+}
+.contacts{
+  font-size: 2vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+}
+.about{
+    font-size: 2vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+}
+
+.third-contact{
+ 
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-about{
+margin-left: -15vw;
+position: absolute;
+margin-top: 5vh;
+text-align: left;
+font-size: 1vw;
+width: 20vw;
+height:20vh;
+display: flex;
+flex-direction: column;
+
+}
+
+
+
+.contact-email{
+font-size: .7vw;
+margin-top: 1vh;
+}
+.contact-phone{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.contact-address{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.about-lawyers{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+.about-focus{
+  font-size: .7vw;
+margin-top: 2vh;
+}
+.about-results{
+  font-size: .7vw;
+margin-top: 1vh;
+}
+
+
+.privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+}
+.termsuse{
+margin-left: -103.5vw;
+position: absolute;
+margin-top: 20vh;
+width:120vw;
+font-size: .6vw;
+font-weight: bold;
+}
+
+
+}
+
+      
+ /***************************************************************************************************/
+ 
+
+
+
+ 
+
+/* For laptop screens with width 1366px and height 768px */
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+  color: white;
+  
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute; /* Changed from absolute */
+  height: 20vh; /* Let the height adjust based on content */
+  margin-top: 350vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+   /* Reduced margin and removed negative margin */
+  text-align: center; /* Center the text */
+  position: relative; /* Changed from absolute */
+  background-color: aqua;
+  margin-left: 10vw;
+  margin-top: -15vh;
+  }
+  
+  .footer-app {
+  margin-top: 5vh; /* Adjusted margin */
+  display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+  width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+  height: 15%; /* Maintain aspect ratio */
+  position: absolute; /* Changed from absolute */
+  margin-top: -7vh;
+  margin-left:-41vw;
+  color: black;
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 2vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+  font-size: 2vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -13vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .contact-phone{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .contact-address{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .about-lawyers{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .about-focus{
+  font-size: .7vw;
+  margin-top: 2vh;
+  }
+  .about-results{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  
+  /*********************************************************************************************************/
+  @media screen and (min-width: 1366px) and (min-height: 850px) {
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 20vh; /* Let the height adjust based on content */
+      margin-top: 343vh; /* A smaller, more manageable margin */
+    }
+    
+    
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 10vw;
+      margin-top: -15vh;
+    }
+    
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+    
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -5vh;
+    margin-left:-41vw;
+    color: black;
+    
+    
+    }
+    
+    .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+    }
+    .contacts{
+    font-size: 2vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+    }
+    .about{
+      font-size: 2vh;
+      margin-top: -9vh;
+      margin-bottom: 0.5vh;
+    }
+    
+    .third-contact{
+    
+    margin-left: 15vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .second-about{
+    margin-left: -13vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    
+    }
+    
+    
+    
+    .contact-email{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-phone{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-address{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-lawyers{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-focus{
+    font-size: .7vw;
+    margin-top: 2vh;
+    }
+    .about-results{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    
+    
+    .privacy{
+    margin-left: -107.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    .termsuse{
+    margin-left: -103.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    
+  
+  }
+  
+  
+  /*********************************************************************************************************************/
+  /* For 1366px width devices in portrait orientation (like iPads) */
+  @media screen and (min-width: 1366px) and (min-height: 1000px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 20vh; /* Let the height adjust based on content */
+    margin-top: 340vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 5vw;
+    margin-top: -15vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top: -6vh;
+  margin-left:-45.5vw;
+  color: black;
+  
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 2vh;
+  margin-top: -9vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 2vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -13vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .contact-phone{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .contact-address{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .about-lawyers{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  .about-focus{
+  font-size: .7vw;
+  margin-top: 2vh;
+  }
+  .about-results{
+  font-size: .7vw;
+  margin-top: 1vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  
+  
+  }
+  
+  /********************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 900px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 30vh; /* Let the height adjust based on content */
+      margin-top: 334vh; /* A smaller, more manageable margin */
+    }
+    
+    
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 0vw;
+      margin-top: -15vh;
+    }
+    
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+    
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -6vh;
+    margin-left:-51vw;
+    color: black;
+  
+    
+    }
+    
+    .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+    }
+    .contacts{
+    font-size: 2vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+    }
+    .about{
+      font-size: 2vh;
+      margin-top: -9vh;
+      margin-bottom: 0.5vh;
+    }
+    
+    .third-contact{
+    
+    margin-left: 15vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .second-about{
+    margin-left: -13vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    
+    }
+    
+    
+    
+    .contact-email{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-phone{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-address{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-lawyers{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-focus{
+    font-size: .7vw;
+    margin-top: 2vh;
+    }
+    .about-results{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    
+    
+    .privacy{
+    margin-left: -107.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    .termsuse{
+    margin-left: -103.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    
+  
+  
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: absolute; /* Changed from absolute */
+      height: 20vh; /* Let the height adjust based on content */
+      margin-top: 333vh; /* A smaller, more manageable margin */
+    }
+    
+    
+    .privacy-terms {
+       /* Reduced margin and removed negative margin */
+      text-align: center; /* Center the text */
+      position: relative; /* Changed from absolute */
+      background-color: aqua;
+      margin-left: 5vw;
+      margin-top: -15vh;
+    }
+    
+    .footer-app {
+      margin-top: 5vh; /* Adjusted margin */
+      display: none; /* Hide if not needed */
+    }
+    
+    .logo {
+    
+      width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+      height: 15%; /* Maintain aspect ratio */
+      position: absolute; /* Changed from absolute */
+    margin-top: -5.7vh;
+    margin-left:-45.5vw;
+    color: black;
+   
+    
+    }
+    
+    .second-third{
+    background-color: chartreuse;
+    position: absolute;
+    font-size: 1vh;
+    }
+    .contacts{
+    font-size: 2vh;
+    margin-top: -9vh;
+    margin-bottom: 0.5vh;
+    }
+    .about{
+      font-size: 2vh;
+      margin-top: -9vh;
+      margin-bottom: 0.5vh;
+    }
+    
+    .third-contact{
+    
+    margin-left: 15vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .second-about{
+    margin-left: -13vw;
+    position: absolute;
+    margin-top: 5vh;
+    text-align: left;
+    font-size: 1vw;
+    width: 20vw;
+    height:20vh;
+    display: flex;
+    flex-direction: column;
+    
+    }
+    
+    
+    
+    .contact-email{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-phone{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .contact-address{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-lawyers{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    .about-focus{
+    font-size: .7vw;
+    margin-top: 2vh;
+    }
+    .about-results{
+    font-size: .7vw;
+    margin-top: 1vh;
+    }
+    
+    
+    .privacy{
+    margin-left: -107.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    .termsuse{
+    margin-left: -103.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-size: .6vw;
+    font-weight: bold;
+    }
+    
+  
+  
+  }
+  
+  
+  /***********************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      padding: 2vw 0;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      position: absolute;
+      margin-top: 165vh;
+      height:10vh;
+      overflow: hidden;
+  }
+  
+  .footer-item {
+      padding: 10px;
+      position: absolute;
+  }
+  
+  .privacy-terms {
+  margin-left: 11.5vh;
+  margin-top: -17vh;
+  position: absolute;
+  align-items: flex-start;
+  font-size: .9vh;
+  
+  }
+  
+  .termsuse{
+      margin-left: -116.5vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: 1vw;
+  
+  }
+  
+  .privacy{
+      margin-left: -123vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: 1vw;
+  }
+  
+  .footer-app{
+      margin-top: 206%;
+  }
+  .logo{
+      margin-left: -45vw;
+      position: absolute;
+      margin-top: -3vh;
+  }
+  
+  .about{
+      font-size: 2vw;
+      margin-top: -1.5vh;
+  position: absolute;
+         }
+      
+         .contacts{
+          font-size: 2vw;
+      margin-top: -1.5vh;
+  position: absolute;
+         }
+      
+     
+      .second-third{
+          display: flex;
+          flex-direction: row;
+          margin-left: 100vw;
+          
+      }
+  
+      .second-about{
+          margin-left: -70vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         
+          
+  
+      }
+         .third-contact{
+          margin-left: -35vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         }
+      .contact-email{
+          font-size: 1vw;
+        
+      }
+      .contact-phone{
+        font-size: 1vw;
+      }
+      .contact-address{
+        font-size: 1vw;
+      }
+      .about-lawyers{
+        font-size: 1vw;
+  
+      }
+      .about-focus{
+        font-size: 1vw;
+        margin-top: 1.5vh;
+         
+      }
+      .about-results{
+        font-size: 1vw;
+          
+      }
+  
+  }
+  
+  
+  
+  
+  
+  
+  /******************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+  
+  
+    .footer {
+      background-color: rgb(3, 3, 64);
+      color: white;
+      padding: 2vw 0;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      position: absolute;
+      margin-top: 165vh;
+      height:10vh;
+      overflow: hidden;
+  }
+  
+  .footer-item {
+      padding: 10px;
+      position: absolute;
+  }
+  
+  .privacy-terms {
+  margin-left: 9.5vh;
+  margin-top: -17vh;
+  position: absolute;
+  align-items: flex-start;
+  font-size: .9vh;
+  
+  }
+  
+  .termsuse{
+      margin-left: -116.5vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: 1vw;
+  
+  }
+  
+  .privacy{
+      margin-left: -123vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: 1vw;
+  }
+  
+  .footer-app{
+      margin-top: 206%;
+  }
+  .logo{
+      margin-left: -45vw;
+      position: absolute;
+      margin-top: -3vh;
+  }
+  
+  .about{
+      font-size: 2vw;
+      margin-top: -1.5vh;
+  position: absolute;
+         }
+      
+         .contacts{
+          font-size: 2vw;
+      margin-top: -1.5vh;
+  position: absolute;
+         }
+      
+     
+      .second-third{
+          display: flex;
+          flex-direction: row;
+          margin-left: 100vw;
+          
+      }
+  
+      .second-about{
+          margin-left: -70vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         
+          
+  
+      }
+         .third-contact{
+          margin-left: -35vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         }
+      .contact-email{
+          font-size: 1vw;
+        
+      }
+      .contact-phone{
+        font-size: 1vw;
+      }
+      .contact-address{
+        font-size: 1vw;
+      }
+      .about-lawyers{
+        font-size: 1vw;
+  
+      }
+      .about-focus{
+        font-size: 1vw;
+         
+      }
+      .about-results{
+        font-size: 1vw;
+          
+      }
+  }
+  
+  /******************************************************************************************************/
+
+  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+  
+    text-align: center;
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 20vh; /* Let the height adjust based on content */
+    margin-top: 332vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 5vw;
+    margin-top: -13vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top:-5vh;
+  margin-left:-45.5vw;
+  color: black;
+  
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 2vh;
+  margin-top: -7vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 2vh;
+    margin-top: -7vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -13vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: .7vw;
+  margin-top: .5vh;
+  }
+  .contact-phone{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .contact-address{ font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-lawyers{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-focus{
+    font-size: .7vw;
+    margin-top: 2vh;
+  }
+  .about-results{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+
+
+
+}  
+/*****************************************************************************************************/
+
+ @media screen and (min-width: 1536px) and (min-height: 1100px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 17vh; /* Let the height adjust based on content */
+    margin-top: 302vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 15vw;
+    margin-top: -15.5vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top:-4vh;
+  margin-left:-35vw;
+  color: black;
+  
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 1.5vh;
+  margin-top: -7vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 1.5vh;
+    margin-top: -7vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -13vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: .7vw;
+  margin-top: .5vh;
+  }
+  .contact-phone{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .contact-address{ font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-lawyers{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-focus{
+    font-size: .7vw;
+    margin-top: 1.6vh;
+  }
+  .about-results{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  
+
+      
+ }
+ /********************************************************************************************************/
+  @media screen and (min-width: 1536px) and (min-height: 1200px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Changed from absolute */
+    height: 16vh; /* Let the height adjust based on content */
+    margin-top: 302vh; /* A smaller, more manageable margin */
+  }
+  
+  
+  .privacy-terms {
+     /* Reduced margin and removed negative margin */
+    text-align: center; /* Center the text */
+    position: relative; /* Changed from absolute */
+    background-color: aqua;
+    margin-left: 15vw;
+    margin-top: -15vh;
+  }
+  
+  .footer-app {
+    margin-top: 5vh; /* Adjusted margin */
+    display: none; /* Hide if not needed */
+  }
+  
+  .logo {
+  
+    width: 25% !important; /* Adjusted logo size for better visibility on small screens */
+    height: 15%; /* Maintain aspect ratio */
+    position: absolute; /* Changed from absolute */
+  margin-top:-4vh;
+  margin-left:-35vw;
+  color: black;
+  
+  
+  }
+  
+  .second-third{
+  background-color: chartreuse;
+  position: absolute;
+  font-size: 1vh;
+  }
+  .contacts{
+  font-size: 1.5vh;
+  margin-top: -7vh;
+  margin-bottom: 0.5vh;
+  }
+  .about{
+    font-size: 1.5vh;
+    margin-top: -7vh;
+    margin-bottom: 0.5vh;
+  }
+  
+  .third-contact{
+  
+  margin-left: 15vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .second-about{
+  margin-left: -13vw;
+  position: absolute;
+  margin-top: 5vh;
+  text-align: left;
+  font-size: 1vw;
+  width: 20vw;
+  height:20vh;
+  display: flex;
+  flex-direction: column;
+  
+  }
+  
+  
+  
+  .contact-email{
+  font-size: .7vw;
+  margin-top: .5vh;
+  }
+  .contact-phone{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .contact-address{ font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-lawyers{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  .about-focus{
+    font-size: .7vw;
+    margin-top: 1.5vh;
+  }
+  .about-results{
+    font-size: .7vw;
+    margin-top: .5vh;
+  }
+  
+  
+  .privacy{
+  margin-left: -107.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  .termsuse{
+  margin-left: -103.5vw;
+  position: absolute;
+  margin-top: 20vh;
+  width:120vw;
+  font-size: .6vw;
+  font-weight: bold;
+  }
+  
+
+      
+}
+
+ /***********************************************************************************************/
+
+ @media screen and (min-width: 1920px) and (min-height: 800px) {
+ 
+  
+  
+   
+  .footer {
+    background-color: rgb(3, 3, 64);
+      color: white;
+      padding: 2vw 0;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      position: absolute;
+      margin-top: 349vh;
+      height:25vh;
+  }
+  
+  .footer-item {
+      padding: 10px;
+
+      position: absolute;
+  }
+  
+  .privacy-terms {
+  margin-left: -49vh;
+  margin-top: 0vh;
+  position: absolute;
+  align-items: flex-start;
+  font-size: 1vh;
+  z-index: 5000;
+  
+  }
+
+  .termsuse{
+    margin-left: -77vw;
+      position: absolute;
+      margin-top: 10vh;
+      width:120vw;
+      font-weight: bold;
+  
+  
+  }
+
+  .privacy{
+      margin-left: -82vw;
+      position: absolute;
+      margin-top: 10vh;
+      width:120vw;
+      font-weight: bold;
+  }
+
+  .footer-app{
+      margin-top: 206%;
+  }
+  .logo{
+      margin-left: -45vw;
+      position: absolute;
+      margin-top: -5vh;
+  }
+
+  .about{
+      font-size: 1.4vw;
+      margin-top: -6vh;
+position: absolute;
+         }
+      
+         .contacts{
+          font-size: 1.4vw;
+      margin-top: -6vh;
+position: absolute;
+         }
+      
+     
+      .second-third{
+          display: flex;
+          flex-direction: row;
+          margin-left: 100vw;
+          
+      }
+
+      .second-about{
+          margin-left: -70vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         
+          
+
+      }
+         .third-contact{
+          margin-left: -40vw;
+        
+          margin-top: 0vh;
+          text-align: left;
+          font-size: 5vw;
+         }
+      .contact-email{
+          font-size: 1vw;
+        
+      }
+      .contact-phone{
+          font-size: 1vw;
+      }
+      .contact-address{
+          font-size: 1vw;
+      }
+      .about-lawyers{
+          font-size: 1vw;
+
+      }
+      .about-focus{
+          font-size: 1vw;
+          margin-top: 2.5vh;
+         
+      }
+      .about-results{
+          font-size: 1vw;
+          
+      }
+      
+ }
+ /***********************************************************************************************/
+ @media screen and (min-width: 1920px) and (min-height: 1000px) {
+ 
+  
+  
+ 
+   
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
     text-align: center;
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    position: relative;
+    position: absolute;
+    margin-top: 349vh;
+    height:20vh;
 }
 
 .footer-item {
     padding: 10px;
+
+    position: absolute;
 }
 
 .privacy-terms {
-    margin-left: 20px;
+margin-left: -40vh;
+margin-top: -3vh;
+position: absolute;
+align-items: flex-start;
+font-size: 1vh;
+
+
 }
+
+.termsuse{
+  margin-left: -77vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+
+
+}
+
+.privacy{
+    margin-left: -82vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+}
+
 .footer-app{
     margin-top: 206%;
 }
 .logo{
-    margin-left: -100px;
+    margin-left: -45vw;
+    position: absolute;
+    margin-top: -6vh;
 }
+
+.about{
+    font-size: 1.4vw;
+    margin-top: -5vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1.4vw;
+    margin-top: -5vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -40vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: 1vw;
+      
+    }
+    .contact-phone{
+        font-size: 1vw;
+    }
+    .contact-address{
+        font-size: 1vw;
+    }
+    .about-lawyers{
+        font-size: 1vw;
+
+    }
+    .about-focus{
+        font-size: 1vw;
+        margin-top: 2vh;
+       
+    }
+    .about-results{
+        font-size: 1vw;
+        
+    }
+    
+}
+
+  /***********************************************************************************************/
+ @media screen and (min-width: 1920px) and (min-height: 1200px) {
+ 
+  
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 310vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: -30vh;
+margin-top: -4vh;
+position: absolute;
+align-items: flex-start;
+font-size: 1vh;
+
+
+}
+
+.termsuse{
+  margin-left: -77vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+
+
+}
+
+.privacy{
+    margin-left: -82vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -43vw;
+    position: absolute;
+    margin-top: -6vh;
+}
+
+.about{
+    font-size: 1.4vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1.4vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -40vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: 1vw;
+      
+    }
+    .contact-phone{
+        font-size: 1vw;
+    }
+    .contact-address{
+        font-size: 1vw;
+    }
+    .about-lawyers{
+        font-size: 1vw;
+
+    }
+    .about-focus{
+        font-size: 1vw;
+       margin-top:2vh ;
+    }
+    .about-results{
+        font-size: 1vw;
+        
+    }
+    
+ }
+ /***********************************************************************************************/
+ @media screen and (min-width: 1920px) and (min-height: 1450px) {
+ 
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 320vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: -30vh;
+margin-top: -4vh;
+position: absolute;
+align-items: flex-start;
+font-size: 1vh;
+
+
+}
+
+.termsuse{
+  margin-left: -75vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+
+
+}
+
+.privacy{
+    margin-left: -80vw;
+    position: absolute;
+    margin-top: 10vh;
+    width:120vw;
+    font-weight: bold;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -45vw;
+    position: absolute;
+    margin-top: -5vh;
+}
+
+.about{
+    font-size: 1.4vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1.4vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -40vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: 1vw;
+      
+    }
+    .contact-phone{
+        font-size: 1vw;
+    }
+    .contact-address{
+        font-size: 1vw;
+    }
+    .about-lawyers{
+        font-size: 1vw;
+
+    }
+    .about-focus{
+        font-size: 1vw;
+        margin-top: 2vh;
+       
+    }
+    .about-results{
+        font-size: 1vw;
+        
+    }
+    
+ }
+/***************************************************************************************************/
+
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+      color: white;
+      padding: 2vw 0;
+      text-align: center;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      position: absolute;
+      margin-top: 300vh;
+      height:24vh;
+  }
+  
+  .footer-item {
+      padding: 10px;
+
+      position: absolute;
+  }
+  
+  .privacy-terms {
+  margin-left: 33vh;
+  margin-top: -14vh;
+  position: absolute;
+  align-items: flex-start;
+  font-size: .9vh;
+  
+  }
+
+  .termsuse{
+      margin-left: -116.5vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: .9vw;
+  
+  }
+
+  .privacy{
+      margin-left: -123vw;
+      position: absolute;
+      margin-top: 20vh;
+      width:120vw;
+      font-weight: bold;
+      font-size: .9vw;
+  }
+
+  .footer-app{
+      margin-top: 206%;
+  }
+  .logo{
+      margin-left: -45vw;
+      position: absolute;
+      margin-top: -5vh;
+  }
+
+  .about{
+      font-size: 1.2vw;
+      margin-top: -4vh;
+position: absolute;
+         }
+      
+         .contacts{
+          font-size: 1.2vw;
+      margin-top: -4vh;
+position: absolute;
+         }
+      
+     
+      .second-third{
+          display: flex;
+          flex-direction: row;
+          margin-left: 100vw;
+          
+      }
+
+      .second-about{
+          margin-left: -70vw;
+        
+          margin-top: -1vh;
+          text-align: left;
+          font-size: 5vw;
+         
+          
+
+      }
+         .third-contact{
+          margin-left: -35vw;
+        
+          margin-top: -1vh;
+          text-align: left;
+          font-size: 5vw;
+         }
+      .contact-email{
+          font-size: 1vw;
+        
+      }
+      .contact-phone{
+          font-size: 1vw;
+      }
+      .contact-address{
+          font-size: 1vw;
+      }
+      .about-lawyers{
+          font-size: 1vw;
+
+      }
+      .about-focus{
+          font-size: 1vw;
+         
+      }
+      .about-results{
+          font-size: 1vw;
+          
+      }
+      
+ }
+
+/*************************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  
+  
+.footer {
+  background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 300vh;
+    height:24vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 33vh;
+margin-top: -14vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+}
+
+.termsuse{
+    margin-left: -116.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .9vw;
+
+}
+
+.privacy{
+    margin-left: -123vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .9vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -43vw;
+    position: absolute;
+    margin-top: -5vh;
+}
+
+.about{
+    font-size: 1.2vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1.2vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: -1vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: -1vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: 1vw;
+      
+    }
+    .contact-phone{
+        font-size: 1vw;
+    }
+    .contact-address{
+        font-size: 1vw;
+    }
+    .about-lawyers{
+        font-size: 1vw;
+
+    }
+    .about-focus{
+        font-size: 1vw;
+       
+    }
+    .about-results{
+        font-size: 1vw;
+        
+    }
+    
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  
+  
+.footer {
+  background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 268vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 28vh;
+margin-top: -16vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+}
+
+.termsuse{
+    margin-left: -116.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .9vw;
+
+}
+
+.privacy{
+    margin-left: -124vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .9vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -43vw;
+    position: absolute;
+    margin-top: -5vh;
+}
+
+.about{
+    font-size: 1.2vw;
+    margin-top: -3vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1.2vw;
+    margin-top: -3vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: -1vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: -1vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: 1vw;
+      
+    }
+    .contact-phone{
+        font-size: 1vw;
+    }
+    .contact-address{
+        font-size: 1vw;
+    }
+    .about-lawyers{
+        font-size: 1vw;
+
+    }
+    .about-focus{
+        font-size: 1vw;
+        margin-top: 1vh;
+       
+    }
+    .about-results{
+        font-size: 1vw;
+        
+    }
+    
+}
+
+
+
+
+/*****************************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  
+  
+.footer {
+  background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 215vh;
+    height:10vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 20vh;
+margin-top: -17vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+}
+
+.termsuse{
+    margin-left: -118.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .8vw;
+
+}
+
+.privacy{
+    margin-left: -123vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .8vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -41vw;
+    position: absolute;
+    margin-top: -2vh;
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -1.5vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -1.5vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 1vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 1vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+    }
+    .contact-address{
+      font-size: .7vw;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 1vh;
+       
+    }
+    .about-results{
+      font-size: .7vw;
+        
+    }
+    
+}
+
+/*****************************************************************************************************/
+
+
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 306vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 40vh;
+margin-top: -12vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -116.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -121vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: -5vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .contact-address{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+ }
+ /*********************************************************************************************/
+ @media screen and (min-width: 2880px) and (min-height: 1620px) {
+  
+   
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 270vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 30vh;
+margin-top: -13vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -116.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -121vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: -5vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .contact-address{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+      
+ }
+ /**********************************************************************************************/
+ @media screen and (min-width: 2880px) and (min-height: 1800px) {
+  
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 270vh;
+    height:18vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 27vh;
+margin-top: -13vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -116.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -121vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: -4vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .contact-address{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+      
+      
+ }
+ /*********************************************************************************************/
+ @media screen and (min-width: 3840px) and (min-height: 1600px) {
+  
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 280vh;
+    height:20vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 41vh;
+margin-top: -13vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -117.9vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -121.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -46vw;
+    position: absolute;
+    margin-top: -3vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 2vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 2vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+      margin-top: .2vh;
+    }
+    .contact-address{
+      font-size: .7vw;
+      margin-top: .2vh;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .7vw;
+      margin-top: .2vh;
+    }
+      
+ }
+/*********************************************************************************************************/
+ @media screen and (min-width: 3840px) and (min-height: 2100px) {
+  
+      
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 270vh;
+    height:17vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 34vh;
+margin-top: -13vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -117.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -121.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -44vw;
+    position: absolute;
+    margin-top: -1vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -3vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -3vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 3vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 3vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .5vw;
+      
+    }
+    .contact-phone{
+      font-size: .5vw;
+      margin-top: 1vh;
+    }
+    .contact-address{
+      font-size: .5vw;
+      margin-top: 1vh;
+    }
+    .about-lawyers{
+      font-size: .5vw;
+
+    }
+    .about-focus{
+      font-size: .5vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .5vw;
+      margin-top: 1vh;
+    }
+      
+ }
+/***********************************************************************************************************/
+ @media screen and (min-width: 3840px) and (min-height: 2400px) {
+  
+  .footer {
+    background-color: rgb(3, 3, 64);
+    color: white;
+    padding: 2vw 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin-top: 285vh;
+    height:15vh;
+}
+
+.footer-item {
+    padding: 10px;
+
+    position: absolute;
+}
+
+.privacy-terms {
+margin-left: 30vh;
+margin-top: -14vh;
+position: absolute;
+align-items: flex-start;
+font-size: .9vh;
+
+
+}
+
+.termsuse{
+    margin-left: -117.5vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+
+}
+
+.privacy{
+    margin-left: -122vw;
+    position: absolute;
+    margin-top: 20vh;
+    width:120vw;
+    font-weight: bold;
+    font-size: .5vw;
+}
+
+.footer-app{
+    margin-top: 206%;
+}
+.logo{
+    margin-left: -44vw;
+    position: absolute;
+    margin-top: -3vh;
+
+ 
+}
+
+.about{
+    font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+       .contacts{
+        font-size: 1vw;
+    margin-top: -4vh;
+position: absolute;
+       }
+    
+   
+    .second-third{
+        display: flex;
+        flex-direction: row;
+        margin-left: 100vw;
+        
+    }
+
+    .second-about{
+        margin-left: -70vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       
+        
+
+    }
+       .third-contact{
+        margin-left: -35vw;
+      
+        margin-top: 0vh;
+        text-align: left;
+        font-size: 5vw;
+       }
+    .contact-email{
+        font-size: .7vw;
+      
+    }
+    .contact-phone{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .contact-address{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+    .about-lawyers{
+      font-size: .7vw;
+
+    }
+    .about-focus{
+      font-size: .7vw;
+      margin-top: 2vh;
+    }
+    .about-results{
+      font-size: .7vw;
+      margin-top: 1vh;
+    }
+      
+ }
+
+
+ 
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+
+
+
+  
+  

@@ -1,161 +1,7318 @@
+
+
+  @media (min-width: 320px)and (min-height: 374px) { 
 /* Imageslider.css */
 
+
+.h1title1{
+  margin-left: -22vw;
+  width:59vw;
+  font-size: 5.5vw;
+ position: absolute;
+ margin-top: 11vh;
+ text-align: center;
+ color: white;
+ font-weight: bold;
+  
+}
+.ptitle1{
+padding: 7vw;
+margin-top: 13vh;
+  width: 60vw;
+font-size: 3vw;
+margin-left: -30vw;
+position: absolute;
+color: white;
+text-align: center;
+
+
+}
+.dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+ position: absolute;
+align-items: center;
+
+width: 50vw;
+margin-left: 14vw;
+height: 0vh;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 5px;
+  background-color: rgb(41, 41, 192);
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top:120vh;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.dot.active {
+  background-color:  #FFD700;
+}
+
+
+
+.quote-text {
+  font-size: 4vw;
+  font-weight: bold;
+  color: white; /* White text color */
+  margin-bottom: 3vh; /* Space between quote and details */
+  position: absolute;
+  margin-left: -30vw;
+margin-top: 30vh;
+background-color: rgb(1, 1, 53);
+width: 65vw;
+text-align: left;
+padding: 3vw;
+padding-bottom: 11vh;
+
+border-top-left-radius: 5vw;
+border-top-right-radius:5vw ;
+border-bottom-left-radius: 5vw;
+border-bottom-right-radius:5vw ;
+
+}
 .slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top:0vh;
+  position: absolute;
+  width: 0vw;
+  margin-left: 45vw;
+ 
+ 
+}
+.container{
+  background-color: rgb(41, 41, 192);
+  width: 100vw;
+  height: 75vh;
+  z-index: 20000;
+  margin-top: 380vh;
+  position: absolute;
+}
+
+.quote-image {
+  width: 10vw;
+  height: 6vh;
+  border-radius: 50vw;
+  margin-right: 8vh;
+  position: absolute;
+  margin-top: 47vh;
+  margin-left: -20vw;
+
+ 
+}
+
+
+.quote-author {
+ color:  #FFD700;
+  
+  font-weight: bold;
+  font-weight: bold;
+  margin-left: -4vh;
+  margin-top:46vh;
+  position: absolute;
+  width: 40vw;
+  height:10vh;
+  font-size: 4vw;
+}
+
+.quote-meta {
+  margin-top: 50vh;
+  color: white;
+  font-size: 2.5vw;
+  position: absolute;
+  width: 40vw;
+  margin-left: -4vw;
+  height: 3vh;
+}
+
+
+  
+}
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 375px) and (min-height: 650px) {
+  
+    .h1title1{
+      margin-left: -22vw;
+      width:59vw;
+      font-size: 5.5vw;
+     position: absolute;
+     margin-top: 12vh;
+     text-align: center;
+     color: white;
+     font-weight: bold;
+      
+    }
+
+    .container{
+      background-color: rgb(41, 41, 192);
+      width: 100vw;
+      height: 46vh;
+      z-index: 20000;
+      margin-top: 300vh;
+      position: absolute;
+    }
+    .ptitle1{
+    padding: 7vw;
+    margin-top: 13vh;
+      width: 60vw;
+    font-size: 3vw;
+    margin-left: -30vw;
+    position: absolute;
+    color: white;
+    text-align: center;
+   
+  
+    }
+    .dots {
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+     position: absolute;
+    align-items: center;
+    
+    width: 50vw;
+    margin-left: 14vw;
+    height: 0vh;
+    }
+    
+    .dot {
+      height: 15px;
+      width: 15px;
+      margin: 0 5px;
+      background-color: rgb(41, 41, 192);
+      border-radius: 50%;
+      display: inline-block;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin-top:90vh;
+      border-color: white;
+      border-width: 1px;
+      border-style: solid;
+    }
+    
+    .dot.active {
+      background-color:  #FFD700;
+    }
+    
+    
+    
+    .quote-text {
+      font-size: 4vw;
+      font-weight: bold;
+      color: white; /* White text color */
+      margin-bottom: 3vh; /* Space between quote and details */
+      position: absolute;
+      margin-left: -30vw;
+    margin-top: 22vh;
+    background-color: rgb(1, 1, 53);
+    width: 65vw;
+    text-align: left;
+    padding: 3vw;
+    padding-bottom: 11vh;
+    
+    border-top-left-radius: 5vw;
+    border-top-right-radius:5vw ;
+    border-bottom-left-radius: 5vw;
+    border-bottom-right-radius:5vw ;
+    
+    }
+    .slider {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      margin-top:-10vh;
+      position: absolute;
+      width: 0vw;
+      margin-left: 45vw;
+     
+    }
+  
+    
+    .quote-image {
+      width: 13vw;
+      height: 6vh;
+      border-radius: 50vw;
+      margin-right: 8vh;
+      position: absolute;
+      margin-top: 36vh;
+      margin-left: -20vw;
+  
+     
+    }
+    
+  
+    .quote-author {
+      color:  #FFD700;
+      font-weight: bold;
+      margin-left: -1vh;
+      margin-top:36vh;
+      position: absolute;
+      width: 40vw;
+      height:10vh;
+      font-size: 4vw;
+    }
+    
+    .quote-meta {
+      margin-top: 39vh;
+      color: white;
+      font-size: 2.5vw;
+      position: absolute;
+      width: 40vw;
+      margin-left: -2vw;
+      height: 3vh;
+    }
+
+  
+
+    
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+   
+   
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+    
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 285vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
-    margin-top: 200px;
-    position: relative;
-    background-color: darkblue;
-    width: 100%;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 32vh;
+    margin-left: -20vw;
+
+   
   }
   
-  .quote-container {
-    margin: 0 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #333; /* Dark background for contrast */
-    text-align: center;
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:33vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 35vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+   
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+   font-weight: bold;
+   color: white;
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 275vh;
+    position: absolute;
+  }
+  .dots {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
     align-items: center;
-    max-width: 500px; /* Optional: restrict the width */
-    background-color: rgb(3, 3, 64);
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 32vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:33vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 35vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+  
+
+
+
+}
+/***************************************************************************************************/
+
+@media screen and (min-width: 390px) and (min-height: 750px) {
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 285vh;
+    position: absolute;
+  }
+
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: black; /* White text color */
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+  
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+   font-weight: bold;
+   color: white;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 285vh;
+    position: absolute;
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+  
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 840px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 285vh;
+    position: absolute;
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: black; /* White text color */
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+  
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 50vh;
+    z-index: 20000;
+    margin-top: 285vh;
+    position: absolute;
+
+  }
+
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+
+
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 45vh;
+    z-index: 20000;
+    margin-top: 290vh;
+    position: absolute;
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+  
+
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 45vh;
+    z-index: 20000;
+    margin-top: 280vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    
+  
+    height: 3vh;
+  }
+  
+
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 45vh;
+    z-index: 20000;
+    margin-top: 280vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+
+  
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 12vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 38vh;
+    z-index: 20000;
+    margin-top: 273vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 13vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:34vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+  
+
+  
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+ 
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 10vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 48vh;
+    z-index: 20000;
+    margin-top: 270vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 10vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -5vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+ 
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 36vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:37vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+   
+  }
+  
+  .quote-meta {
+    margin-top: 40vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+  
+
+  
+
+
+  }
+
+  /***************************************************************************************************/
+
+
+
+
+@media screen and (min-width: 480px) and (min-height: 900px) {
+  
+
+  .h1title1{
+    margin-left: -23vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 10vh;
+  font-weight: bold;
+  color: white;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 11vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  
+  
+  }
+  
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 40vh;
+    z-index: 20000;
+    margin-top: 268vh;
+    position: absolute;
   }
   
   .quote-text {
-    font-size: 18px;
+    font-size: 4vw;
     font-weight: bold;
     color: white; /* White text color */
-    margin-bottom: 15px; /* Space between quote and details */
-  }
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
   
-  .quote-details {
+  }
+  .slider {
     display: flex;
     align-items: center;
-    margin-top: 10px; /* Space between text and image */
+    justify-content: center;
+    gap: 10px;
+    margin-top: -8vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
   }
+
   
   .quote-image {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    margin-right: 20px;
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 33vh;
+    margin-left: -20vw;
+
+   
   }
   
-  .quote-info {
-    text-align: left;
+
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:35vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
   }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+}
+
+/****************************************************************************************************/
+
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+  
+  .h1title1{
+    margin-left: -23vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 10vh;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 11vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  
+  
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 50vh;
+    z-index: 20000;
+    margin-top: 255vh;
+    position: absolute;
+  }
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -5vh;
+    position: absolute;
+  
+    /*background-color: rgb(3, 3, 64);*/
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 13vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 33vh;
+    margin-left: -20vw;
+
+   
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -1vh;
+    margin-top:35vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 4vw;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2.5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -2vw;
+    height: 3vh;
+  }
+  
+  
+
+
+}
+/********************************************************************************************************************/
+
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 10vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 10vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height:50vh;
+    z-index: 20000;
+    margin-top: 300vh;
+    position: absolute;
+  }
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -5vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 12vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 38vh;
+    margin-left: -27vw;
+
+   
+  }
+  
+
+  
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -8.6vh;
+    margin-top:39vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 3vw;
+     z-index: 9000;
+  }
+  
+  .quote-meta {
+    margin-top: 42vh;
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -12vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:100vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+  
+
+  
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+  
+  .h1title1{
+    margin-left: -22vw;
+    width:59vw;
+    font-size: 5.5vw;
+   position: absolute;
+   margin-top: 10vh;
+   text-align: center;
+  font-weight: bold;
+  color: white;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 10vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  color: white;
+  text-align: center;
+ 
+
+  }
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 48vh;
+    z-index: 20000;
+    margin-top: 300vh;
+    position: absolute;
+  }
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -9vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 12vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 38vh;
+    margin-left: -27vw;
+
+   
+  }
+  
+
+  
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -8.6vh;
+    margin-top:39vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 3vw;
+     z-index: 9000;
+  }
+  
+  .quote-meta {
+    margin-top: 42vh;
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -12vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:100vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+  .h1title1{
+    margin-left: -23vw;
+    width:59vw;
+    font-size: 5.3vw;
+   position: absolute;
+   margin-top: 11vh;
+  font-weight: bold;
+  color: white;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 12vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -30vw;
+  position: absolute;
+  text-align: center;
+  color: white;
+  
+  
+  }
+  
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 47vh;
+    z-index: 20000;
+    margin-top: 310vh;
+    position: absolute;
+  }
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -10vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 12vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 36vh;
+    margin-left: -27vw;
+
+   
+  }
+  
+
+  
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -7vh;
+    margin-top:37vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 3vw;
+     z-index: 9000;
+  }
+  
+  .quote-meta {
+    margin-top: 40vh;
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -12vw;
+    height: 3vh;
+  }
+  
+ 
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:100vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+  
+  
+  .h1title1{
+    margin-left: -23vw;
+    width:59vw;
+    font-size: 5.3vw;
+   position: absolute;
+   margin-top: 11vh;
+  font-weight: bold;
+  color: white;
+  }
+
+  .container{
+    background-color: rgb(41, 41, 192);
+    width: 100vw;
+    height: 45vh;
+    z-index: 20000;
+    margin-top:260vh;
+    position: absolute;
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 12vh;
+    width: 60vw;
+  font-size: 3vw;
+  margin-left: -29vw;
+  position: absolute;
+  color: white;
+  
+  
+  }
+  
+  
+  .quote-text {
+    font-size: 4vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: -30vw;
+  margin-top: 22vh;
+  background-color: rgb(1, 1, 53);
+  width: 65vw;
+  text-align: left;
+  padding: 3vw;
+  padding-bottom: 11vh;
+  border-top-left-radius: 5vw;
+  border-top-right-radius:5vw ;
+  border-bottom-left-radius: 5vw;
+  border-bottom-right-radius:5vw ;
+  
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -5vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 45vw;
+   
+  }
+
+  
+  .quote-image {
+    width: 12vw;
+    height: 6vh;
+    border-radius: 50vw;
+    margin-right: 8vh;
+    position: absolute;
+    margin-top: 33vh;
+    margin-left: -27vw;
+
+   
+  }
+  
+
+  
+  .quote-author {
+    color:  #FFD700;
+    font-weight: bold;
+    margin-left: -6vh;
+    margin-top:35vh;
+    position: absolute;
+    width: 40vw;
+    height:10vh;
+    font-size: 3vw;
+     z-index: 9000;
+  }
+  
+  .quote-meta {
+    margin-top: 37vh;
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: -12vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   position: absolute;
+  align-items: center;
+  
+  width: 50vw;
+  margin-left: 14vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgb(41, 41, 192);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+  }
+  
+  .dot.active {
+    background-color:  #FFD700;
+  }
+  
+  
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+  .ptitle2{
+    padding: 1vw;
+    margin-top: 405vh;
+    width: 2vw;
+  font-size: .8vw;
+  margin-left: 28vw;
+  position: absolute;
+  color: black;
+  height: 1vh;
+  }
+  .h1title1{
+    margin-left: 21vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 385vh;
+    width: 85vw;
+  font-size: .8vw;
+  margin-left: 15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.6vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 20vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -90vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 427vh;
+    margin-left: 3vw;
+
+   
+  }
+  
   
   .quote-author {
     color: yellow;
     font-weight: bold;
-    margin: 0;
+    margin-left: 19.6vh;
+    margin-top:428vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
   }
   
   .quote-meta {
-    margin-top: -5px;
+    margin-top: 432vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+}
+
+
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+  .h1title1{
+    margin-left: 5vw;
+    width:59vw;
+    font-size: 3vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -3vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.6vw;
+    font-weight: bold;
     color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 16vh;
   }
-  
-  .prev-button{
-    background-color: yellow; /* Yellow background for the button */
-    border-radius: 50%; /* Rounded shape */
-    padding: 10px; /* Adjust padding to control button size */
-  } 
-  .prev-symbol{
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -60vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
    
-        font-size: 24px;
-        color: black; /* Yellow color for the circle and arrow */
-      }
- .prev-button{
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    background-color: yellow;
-    border: none;
-    outline: none;
-    color: blue;
-      }
-  
-  .next-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    background-color: transparent;
-    border: none;
-    outline: none;
-    color: blue;
-  }
-  
-  .next-symbol {
-    font-size: 24px;
-    color: black; /* Yellow color for the circle and arrow */
-    position: absolute;
-    margin-top: -15px;
-    margin-left: -20px;
   }
  
   
-  .next-button {
-    background-color: yellow; /* Yellow background for the button */
-    border-radius: 50%; /* Rounded shape */
-    padding: 10px; /* Adjust padding to control button size */
-    width:30px;
-    height:30px;
-  }
-  
-  .next-symbol {
-    display: inline-block;
-    line-height: 1;
-    vertical-align: middle;
-    text-align: center;
-    width: 40px; /* Adjust size of the button */
-    height: 40px; /* Adjust size of the button */
-    border-radius: 50%;
-  }
-  
-
-
-  .prev-symbol {
-    font-size: 24px;
-    color: black; /* Yellow color for the circle and arrow */
+  .quote-image {
+    width: 5vw;
+    height: 8vh;
+    border-radius: 50vw;
     position: absolute;
-    margin-top: -15px;
-    margin-left: -20px;
+    margin-top: 423vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 16.6vh;
+    margin-top:425vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 428vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  }
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 4vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 395vh;
+    width: 50vw;
+  font-size: 2vw;
+  margin-left: 0vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.6vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 415vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 16vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -125vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
   }
  
   
-  .prev-button {
-    background-color: yellow; /* Yellow background for the button */
-    border-radius: 50%; /* Rounded shape */
-    padding: 10px; /* Adjust padding to control button size */
-    width:30px;
-    height:30px;
+  .quote-image {
+    width: 5vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 425vh;
+    margin-left: 3vw;
+
+   
   }
   
-  .prev-symbol {
-    display: inline-block;
-    line-height: 1;
-    vertical-align: middle;
-    text-align: center;
-    width: 40px; /* Adjust size of the button */
-    height: 40px; /* Adjust size of the button */
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 12.5vh;
+    margin-top:428vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 430vh;
+    color: black; /* White text color */
+    font-size: 1vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
     border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
   }
-  .title{
+  
+  .dot.active {
+    background-color: gray;
+  }
 
-    position: absolute;
-    margin-top: -400px;
-    margin-bottom: -50px;
-    color: white;
-    background-color:darkblue;
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+
+  .h1title1{
+    margin-left: 21vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 396vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 387vh;
+    width: 30vw;
+  font-size: 1vw;
+  margin-left: 10vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
 
   }
-  .container{
-    background-color: darkblue;
-    width:100%;
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
     position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 16vh;
   }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -135vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 10vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 420vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 20vh;
+    margin-top:425vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 428vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  
+}
+/******************************************************************************************************/
+
+
+
+
+@media screen and (min-width: 800px) and (min-height: 450px) {
+
+  .h1title1{
+    margin-left: 3vw;
+    width:59vw;
+    font-size: 2.5vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 391vh;
+    width: 30vw;
+  font-size: 1.5vw;
+  margin-left: 10vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 16vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -80vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 10vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 420vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 15vh;
+    margin-top:425vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 428vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+
+
+  .ptitle2{
+    padding: 1vw;
+    margin-top: 400vh;
+    width: 2vw;
+  font-size: .8vw;
+  margin-left: 28vw;
+  position: absolute;
+  color: black;
+  height: 1vh;
+  }
+  .h1title1{
+    margin-left: 21vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 387vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 375vh;
+    width: 85vw;
+  font-size: .8vw;
+  margin-left: 15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 16vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -80vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 14vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 424vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 29vh;
+    margin-top:427vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 432vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  
+  
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 387vh;
+    width:50vw;
+  font-size: 1.5vw;
+  margin-left: 0vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 12vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -40vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 422vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 22.5vh;
+    margin-top:422vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 427vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:90vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+   
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 50vw;
+  font-size: 1.5vw;
+  margin-left: 0vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 12vh;
+  }
+
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -80vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 419vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 16.5vh;
+    margin-top:420vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 424vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:80vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  
+
+  
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 400vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 395vh;
+    width: 50vw;
+  font-size: 1.5vw;
+  margin-left: 0vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 9vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -170vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 6vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 416vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 14.5vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: 1vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 10.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+  
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+
+ 
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 388vh;
+    width: 50vw;
+  font-size: 1.5vw;
+  margin-left: 0vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 9vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -95vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 8vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 419vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 17.5vh;
+    margin-top:421vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 425vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:70vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 392vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 13.3vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 392vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 13.3vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -155vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 12vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+}
+
+
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 415vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 11.7vh;
+    margin-top:416vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 418vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}
+/********************************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+ 
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 415vh;
+    margin-left: 3vw;
+    z-index: 13000;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 11.7vh;
+    margin-top:417vh;
+    position: absolute;
+    width: 70000vw;
+    height:30000vh;
+    font-size: .9vw;
+
+   
+  }
+  
+  .quote-meta {
+    margin-top: 419vh;
+    color: black; /* White text color */
+    font-size: .7vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 900px) {
+    
+    .h1title1{
+      margin-left: 0vw;
+      width:59vw;
+      font-size: 2vw;
+     position: absolute;
+     margin-top: 398vh;
+    
+      
+    }
+    .ptitle1{
+    padding: 7vw;
+    margin-top: 393vh;
+      width: 60vw;
+    font-size: 1.5vw;
+    margin-left: -5vw;
+    position: absolute;
+    color: blueviolet;
+    
+    
+    }
+    
+    .quote-details{
+  
+    }
+    
+    .quote-text {
+      font-size: 1.2vw;
+      font-weight: bold;
+      color: white; /* White text color */
+      margin-bottom: 3vh; /* Space between quote and details */
+      position: absolute;
+      margin-left: 0vw;
+    margin-top: 410vh;
+    background-color: brown;
+    width: 60vw;
+    text-align: left;
+    padding: 2vw;
+    border-top-left-radius: 1vw;
+    border-top-right-radius:1vw ;
+    border-bottom-left-radius: 1vw;
+    border-bottom-right-radius:1vw ;
+    height: 8vh;
+    }
+    .slider {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      margin-top: -160vh;
+      position: absolute;
+      width: 0vw;
+      margin-left: 20vw;
+     
+    }
+   
+    
+    .quote-image {
+      width: 4vw;
+      height: 6vh;
+      border-radius: 50vw;
+      position: absolute;
+      margin-top: 417vh;
+      margin-left: 3vw;
+  
+     
+    }
+    
+    
+    .quote-author {
+      color: yellow;
+      font-weight: bold;
+      margin-left: 11.7vh;
+      margin-top:419vh;
+      position: absolute;
+      width: 7vw;
+      height:3vh;
+      font-size: .9vw;
+     
+     
+    }
+    
+    .quote-meta {
+      margin-top: 421vh;
+      color: black; /* White text color */
+      font-size: .5vw;
+      position: absolute;
+      width: 40vw;
+      margin-left: 7.3vw;
+      height: 3vh;
+      z-index: 9000;
+    }
+    
+    .dots {
+      display: flex;
+      justify-content: center;
+      margin-top: 800vh;
+     position: absolute;
+    align-items: center;
+    z-index: 20000;
+    width: 50vw;
+    margin-left: 60vw;
+    height: 0vh;
+    }
+    
+    .dot {
+      height: 15px;
+      width: 15px;
+      margin: 0 5px;
+      background-color: lightgray;
+      border-radius: 50%;
+      display: inline-block;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin-top:55vh;
+   
+    }
+    
+    .dot.active {
+      background-color: gray;
+    }
+
+}
+
+
+/***************************************************************************************************/  
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -160vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 11.7vh;
+    margin-top:419vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 421vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+    z-index: 9000;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}
+/***********************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 405vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 403vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+
+  
+  .quote-text {
+    font-size: 1.7vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 5vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -285vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 2.5vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 414vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 5.5vh;
+    margin-top:414.6vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 415.5vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 9.3vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:40vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  
+
+
+}
+
+/******************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2900px) {
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 405vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 403vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-text {
+    font-size: 1.7vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 5vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -285vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 5vw;
+    height: 2.5vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 414vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 4.7vh;
+    margin-top:414.5vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 415.4vh;
+    color: black; /* White text color */
+    font-size: .8vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 9.3vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 785vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+  
+
+  
+ 
+}
+
+/******************************************************************************************************/
+
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -160vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 418vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 14.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 421vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.7vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1100px) {
+  
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -182vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 10.7vh;
+    margin-top:419vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 421vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.7vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 60vw;
+  font-size: 1.5vw;
+  margin-left: -5vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -180vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  .quote-image {
+    width: 4vw;
+    height: 5vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 10vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+   
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.7vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:50vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 387vh;
+    width: 85vw;
+  font-size: .8vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 419vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 18.7vh;
+    margin-top:419vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 422vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.6vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:65vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+  
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 85vw;
+  font-size: .8vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -150vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 418vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 14.7vh;
+    margin-top:419vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 422vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.6vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 805vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:50vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 392vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -170vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 416vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 12.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 421vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.8vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+
+
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+ 
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 400vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 395vh;
+    width: 60vw;
+  font-size: 1vw;
+  margin-left: -7vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -160vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 416vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 10.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.9vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:50vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+
+
+
+
+}
+/***************************************************************************************************/
+
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -180vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 13.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.9vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 399vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 393vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -185vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 13.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 8.5vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:55vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+}
+/*****************************************************************************************************************/
+
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 398vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 395vh;
+    width: 85vw;
+  font-size: 1.5vw;
+  margin-left: -17vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -216vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 416vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 9.9vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.9vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:50vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+
+}
+
+/*************************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+ 
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 403vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 400vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -244vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 20vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 4vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 415vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 6.5vh;
+    margin-top:417vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 418vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.9vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:50vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .h1title1{
+    margin-left: 0vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 397vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -20vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -185vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 4vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 13.7vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.9vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+  
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+
+  .h1title1{
+    margin-left: 4vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 400vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 392vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -205vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 3vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 11.9vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 6.8vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+  
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .h1title1{
+    margin-left: 4vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 400vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 392vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -205vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 3vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 417vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 11.9vh;
+    margin-top:418vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 420vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 6.8vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+
+  .h1title1{
+    margin-left: 4vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 388vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -200vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 3vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 420vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 15.9vh;
+    margin-top:420vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 423vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 6.8vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .h1title1{
+    margin-left: 4vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 388vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -205vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 3vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 418vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 12vh;
+    margin-top:420vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 423vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 6.8vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .h1title1{
+    margin-left: 4vw;
+    width:59vw;
+    font-size: 2vw;
+   position: absolute;
+   margin-top: 395vh;
+  
+    
+  }
+  .ptitle1{
+  padding: 7vw;
+  margin-top: 390vh;
+    width: 85vw;
+  font-size: 1vw;
+  margin-left: -15vw;
+  position: absolute;
+  color: blueviolet;
+  
+  
+  }
+  
+  .quote-details{
+
+  }
+  
+  .quote-text {
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white; /* White text color */
+    margin-bottom: 3vh; /* Space between quote and details */
+    position: absolute;
+    margin-left: 0vw;
+  margin-top: 410vh;
+  background-color: brown;
+  width: 60vw;
+  text-align: left;
+  padding: 2vw;
+  border-top-left-radius: 1vw;
+  border-top-right-radius:1vw ;
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius:1vw ;
+  height: 8vh;
+  }
+  .slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -205vh;
+    position: absolute;
+    width: 0vw;
+    margin-left: 15vw;
+   
+  }
+ 
+  
+  .quote-image {
+    width: 3vw;
+    height: 6vh;
+    border-radius: 50vw;
+    position: absolute;
+    margin-top: 418vh;
+    margin-left: 3vw;
+    z-index: 9000;
+   
+  }
+  
+  
+  .quote-author {
+    color: yellow;
+    font-weight: bold;
+    margin-left: 12vh;
+    margin-top:420vh;
+    position: absolute;
+    width: 7vw;
+    height:3vh;
+    font-size: .9vw;
+    
+   
+  }
+  
+  .quote-meta {
+    margin-top: 423vh;
+    color: black; /* White text color */
+    font-size: .5vw;
+    position: absolute;
+    width: 40vw;
+    margin-left: 7.5vw;
+    height: 3vh;
+  }
+  
+  .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 800vh;
+   position: absolute;
+  align-items: center;
+  z-index: 20000;
+  width: 50vw;
+  margin-left: 60vw;
+  height: 0vh;
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:60vh;
+ 
+  }
+  
+  .dot.active {
+    background-color: gray;
+  }
+
+  
+
+
+
+
+ 
+
+
+
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

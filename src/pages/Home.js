@@ -1,24 +1,32 @@
 import "../styles/Home.css";
-import Header from "../components/Header";
 
+import Header1 from "../components/Header1"
 import Card from "../pages/Card";
 import Successstories from '../pages/Successstories';
 import Imageslider from "../components/Imageslider";
-import Askedquestions from "../components/Askedquestions";
+import Question from "../components/Question";
+import Footer from "../components/Footer";
+import Mobilesuccessstories from "../pages/Mobilesuccessstories";
+import Navbar from "../components/Navbar";
+import "../styles/Home.css";
 
 
 function Home(){
 
     return (
-        <div style={{height:100}}>
-         <Header/>
-         <Card/>
-         <Successstories/>
-         <Imageslider/>
-         <Askedquestions/>
-         
-        </div>
-       
+        <div className="homecontainer">
+      <Navbar/>
+     <Header1/>
+     <Card/>
+     <Mobilesuccessstories/>
+     <Successstories/>
+     <Imageslider/>
+     <Question/>
+     <div className="homefooter">
+     <Footer/>  
+     </div>
+    
+       </div>
     )
 }
 

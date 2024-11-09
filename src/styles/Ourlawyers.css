@@ -1,39 +1,7739 @@
-.lawyers{
-    width:fit-content;
-    height:200%;
-    display: flex;
-    flex-direction: row;
-    background-color: darkblue;
-    gap: 50px;
-    padding-bottom: 20px;
-    margin-left: 25%;
-    position:relative;
+
+@media (min-width: 320px) and (min-height: 374px) {
+    .navcontainer{
+        margin-top: 100vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -94.5vh;
+        height: 10vh;
+        padding-bottom: 5vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 18vh;
+        padding-bottom:120vh;
+        justify-content: center;
+        align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: -2vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
   
-}
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 3.3vw;
+      margin-top: -2vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 3.3vw;
+      margin-top: -2vh;
+        color: aqua;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
 
-.Leftlawyer{
-width:30%;
-height:200%;
-}
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
 
 
-.Rightlawyer{
-    width:30%;
-    height:200%;
-}
-.rightlawyerimg{
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -720vh;
     position: absolute;
-    height:40%;
-    width:40%;
+    width: 100%;
 }
-.leftlawyerimg{
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+    .navcontainer{
+        margin-top: 70vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -70vh;
+        height: 10vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:140vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 100vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 1vw;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 25vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 3.3vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 3.3vw;
+      margin-top: -1vh;
+        color: aqua;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -590vh;
     position: absolute;
-    height:40%;
-    width:40%;
+    margin-left: 0vw;
+    width: 100%;
 }
-.leftlawyerabout{
-margin-top: 90%;
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
 }
-.rightlawyerabout{
-    margin-top: 90%;
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+
+    .navcontainer{
+        margin-top: 30vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 10vh;
+        padding-bottom: 0vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:50vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
 }
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+   .footercontainer1{
+    margin-top: -580vh;
+    position: absolute;
+    margin-left: 0vw;
+}
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
+}
+
+
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+    .navcontainer{
+        margin-top: 0vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -90vh;
+        height: 7vh;
+        padding-bottom: 2vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:20vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 20vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -620vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+    .navcontainer{
+        margin-top: 45vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 7vh;
+        padding-bottom: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:65vh;
+        justify-content: center;
+        align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+      height: 3vh;
+   }
+
+.footercontainer1{
+    margin-top: -550vh;
+    position: absolute;
+    width: 100%;
+}
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+    .navcontainer{
+        margin-top: 35vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -83vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:45vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -570vh;
+    position: absolute;
+   width: 100%;
+   margin-left: 0vw;
+}
+.active {
+    color: red; /* Change color for active link */
+    font-weight: bold; /* Highlight active link */
+  }
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+
+    .navcontainer{
+        margin-top: 50vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:65vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -560vh;
+    position: absolute;
+    margin-left: 0vh;
+    width: 100%;
+}
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+    .navcontainer{
+        margin-top: 50vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:60vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -575vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+
+    .navcontainer{
+        margin-top: 30vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -81vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:38vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -590vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+    .navcontainer{
+        margin-top: 45vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -81vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:56vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -560vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+    .navcontainer{
+        margin-top: 30vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:65vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 20vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -560vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+    .navcontainer{
+        margin-top: 60vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -81vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:75vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 25vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 10vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -510vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+    .navcontainer{
+        margin-top: 35vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -83vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:60vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top:20vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -540vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+    .navcontainer{
+        margin-top: 25vh;
+        margin-left: -100vw;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -83vh;
+        height: 7vh;
+        padding-bottom: 3vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:40vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 25vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 6vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 4vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -550vh;
+    position: absolute;
+    margin-left: 0vw;
+    width: 100%;
+}
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+    .navcontainer{
+        margin-top: -140vh;
+        margin-left: -100vw;
+        width: 100%;
+        margin-left: 0vw;
+        position: absolute;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -108vh;
+        height: 7vh;
+        padding-bottom: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:70vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 70vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 6vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 5vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 3vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -555vh;
+    position: absolute;
+    margin-left: -3vw;
+    width: 97%;
+    height: 5vh;
+}
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+    .navcontainer{
+        margin-top: -140vh;
+        margin-left: -100vw;
+        width: 100%;
+        margin-left: 0vw;
+        position: absolute;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -108vh;
+        height: 7vh;
+        padding-bottom: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:70vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 70vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 6vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 5vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 3vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -560vh;
+    position: absolute;
+    margin-left: -3vw;
+    width: 97%;
+    height: 5vh;
+}
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+    .navcontainer{
+        margin-top: -140vh;
+        width: 100%;
+   margin-left: 0vw;
+   position: absolute;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -110vh;
+        height: 7vh;
+        padding-bottom: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:30vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 5vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 3vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -655vh;
+    position: absolute;
+    margin-left: -3vw;
+    width:97%;
+    height: 5vh;
+}
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+
+
+
+    .navcontainer{
+        margin-top: -114vh;
+        width: 100%;
+        margin-left: 0vw;
+        position: absolute;
+
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -89vh;
+        height: 5vh;
+        padding-bottom: 1vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: column;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 5vh;
+        padding-bottom:40vh;
+         justify-content: center;
+         align-items: center;
+    }
+    
+   .Leftlawyer{
+    width:90%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding-bottom: 0vh;
+   
+
+   }
+
+    
+   .Rightlawyer{
+    width: 90%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    margin-left: 0vh;
+    padding-bottom: 0vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1.7vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1.7vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 90vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 0%;
+        margin-top: 0vh;
+    }
+    .position-left{
+      font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 2vw;
+      margin-left: 4vw;
+      margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+    .rightlawyerabout{
+        background-color: chocolate;
+        margin-top:0vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 3vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 0vh;
+         font-size: 5vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 3vw;
+      margin-top: -2vh;
+   }
+
+.footercontainer1{
+    margin-top: -540vh;
+    position: absolute;
+    margin-left: -3vw;
+    width: 97%;
+    height: 5vh;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+    .footercontainer1{
+        margin-top: -328vh;
+        margin-left: 0vw;
+        width: 97vw;
+        position: absolute;
+      
+    }
+    .navcontainer{
+        margin-top: -15vh;
+       width: 97vw;
+      margin-left: 0vw;
+      position: absolute;
+      
+       
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: 3vh;
+        height: 23vh;
+      
+       
+    }
+    .lawyerscontainer{
+        width:95%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: -1%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 20vh;
+    margin-left: 5vw;
+    position: absolute;
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding-bottom: 20vh;
+    margin-left: 50vw;
+    position: absolute;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3.5vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3.5vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 36vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .leftlawyerimg{
+        width: 36vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .position-left{
+      font-size: 1vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+    .rightlawyerabout{
+       
+        margin-top: -2vh;
+        width: 97%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+    .footercontainer1{
+        margin-top: -820vh;
+        margin-left: 0vw;
+        width: 100%;
+        position: absolute;
+      
+    }
+    .navcontainer{
+        margin-top: -128vh;
+   margin-left: 0vw;
+   width: 100%;
+     
+       
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -70vh;
+        height: 15vh;
+      
+       
+    }
+    .lawyerscontainer{
+        width:95%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: -1%;
+        position: absolute;
+        margin-top: 14vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 33%;
+    background-color: darkgray;
+    height: 50vh;
+    margin-top: 40vh;
+    text-align: left;
+   position: absolute;
+    padding-bottom: 30vh;
+    margin-left: -40vw;
+
+   }
+
+    
+   .Rightlawyer{
+    width: 33%;
+    background-color: burlywood;
+    height: 50vh;
+    margin-top: 40vh;
+    text-align: left;
+position: absolute;
+    padding-bottom: 30vh;
+    margin-left: 40vw;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3.5vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3.5vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .position-left{
+      font-size: 1vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 85%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+    .rightlawyerabout{
+       
+        margin-top: -2vh;
+        width: 85%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+        background-color: blue;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+    .footercontainer1{
+        margin-top: -630vh;
+        margin-left: 0vw;
+        width: 100%;
+        position: absolute;
+      
+    }
+    .navcontainer{
+        margin-top: -128vh;
+   margin-left: 0vw;
+   width: 100%;
+     
+       
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80vh;
+        height: 10vh;
+      
+       
+    }
+    .lawyerscontainer{
+        width:95%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: -1%;
+        position: absolute;
+        margin-top: 14vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 33%;
+    background-color: darkgray;
+    height: 50vh;
+    margin-top: 30vh;
+    text-align: left;
+   position: absolute;
+    padding-bottom: 30vh;
+    margin-left: -40vw;
+
+   }
+
+    
+   .Rightlawyer{
+    width: 33%;
+    background-color: burlywood;
+    height: 50vh;
+    margin-top: 30vh;
+    text-align: left;
+position: absolute;
+    padding-bottom: 30vh;
+    margin-left: 40vw;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 4vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 4vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .position-left{
+      font-size: 1.5vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.5vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+    .rightlawyerabout{
+       
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+
+    .footercontainer1{
+        margin-top: -236vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+    }
+    .navcontainer{
+        margin-top: -20vh;
+        margin-left: 0vw;
+        width: 100%;
+    
+       
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -2vh;
+        height: 20vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 25vh;
+        padding-bottom:50vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 80vh;
+    margin-top: 22vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+    padding-bottom: 35vh;
+    margin-left: 3vh;
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 80vh;
+    margin-top: 22vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 120vh;
+    padding-bottom: 35vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3.5vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3.5vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: -1%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .position-left{
+      font-size: 1.5vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.5vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+    .footercontainer1{
+        margin-top: -720vh;
+        margin-left: 0vw;
+        width: 100%;
+        position: absolute;
+      
+    }
+    .navcontainer{
+        margin-top: -160vh;
+        margin-left: 0vw;
+    
+       
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -110vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 25vh;
+        padding-bottom:40vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 80vh;
+    margin-top: 50vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+    padding-bottom: 35vh;
+    margin-left: -90vh;
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 80vh;
+    margin-top: 50vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 90vh;
+    padding-bottom: 35vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 5vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 5vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: -1%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 10%;
+    }
+    .position-left{
+      font-size: 1.5vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.5vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width:87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+    .navcontainer{
+        margin-top: -25vh;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -250vh;
+        margin-left: 0vw;
+        width: 102.7vw;
+        position: absolute;
+      
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: 14vh;
+        height: 25vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 25vh;
+        padding-bottom:120vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 80vh;
+    margin-top: 50vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+    padding-bottom: 63vh;
+    margin-left: 4vw;
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 80vh;
+    margin-top: 50vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 180vh;
+    padding-bottom: 63vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 10vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 10vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 90%;
+        padding-top: 5%;
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 0%;
+        height: 90%;
+        padding-top: 5%;
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.6vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.6vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -5vh;
+   }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+    .navcontainer{
+        margin-top: -150vh;
+    }
+    .footercontainer1{
+        margin-top: -800vh;
+        margin-left: 1.2vw;
+        width: 101.4vw;
+        position: absolute;
+      
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -82vh;
+        height: 15vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:100%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 25vh;
+        padding-bottom:70vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 80vh;
+    margin-top: 95vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+    padding-bottom: 30vh;
+    margin-left: -50vw;
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 80vh;
+    margin-top: 95vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 120vh;
+    padding-bottom: 30vh;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 8vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 8vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 0%;
+        height: 70%;
+        padding-top: 5%;
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 3.3vw;
+      margin-top: -4vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 3.3vw;
+        margin-top: -4vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.6vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.6vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 3vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -5vh;
+   }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+    .navcontainer{
+        margin-top: -160vh;
+    }
+    .footercontainer1{
+        margin-top: -740vh;
+        margin-left: 0vw;
+        width: 100%;
+        position: absolute;
+      
+    }
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -100vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 30vh;
+        padding-bottom:40vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 80vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+   
+
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 80vh;
+    margin-top: 30vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+    margin-left: 50vw;
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 60%;
+        padding-top: 5%;
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 0%;
+        height: 60%;
+        padding-top: 5%;
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+    .navcontainer{
+        margin-top: -100vh;
+    }
+    .footercontainer1{
+        margin-top: -540vh;
+        margin-left: -3vw;
+        width: 97%;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -65vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:20vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 4vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 4vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 0%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+
+    .navcontainer{
+        margin-top: -100vh;
+    }
+    .footercontainer1{
+        margin-top: -645vh;
+        margin-left: 0vw;
+        width: 100%;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -41vh;
+        height: 13vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:60vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 40%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 3vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 40%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 120vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 40vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 40vw;
+        margin-left: 0%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 3.3vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 3.3vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 87%;
+        margin-left: 3.1vw;
+        height: 10%;
+        font-size: 1.2vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+    .navcontainer{
+        margin-top: -100vh;
+    }
+    .footercontainer1{
+        margin-top: -494vh;
+        margin-left: -3vw;
+        width: 97%;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -42.5vh;
+        height: 13vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:60vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 80vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 0%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+    .navcontainer{
+        margin-top: -100vh;
+    }
+    .footercontainer1{
+        margin-top: -495vh;
+        margin-left: -3vw;
+        width: 97%;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -43.5vh;
+        height: 13vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:60vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 80vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 0%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+    .navcontainer{
+        margin-top: -100vh;
+    }
+    .footercontainer1{
+        margin-top: -495vh;
+        margin-left: -3vw;
+        width: 97%;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -43.5vh;
+        height: 13vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:60vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    margin-left: 80vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 0%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -2vw;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -520vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -47.5vh;
+        height: 8vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:35vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 70vh;
+    margin-top: 60vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 70vh;
+    margin-top: 60vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -550vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -63.5vh;
+        height: 8vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:20vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: 0vw;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -538vh;
+        margin-left: -3vw;
+        width: 97vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -63.5vh;
+        height: 8vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:20vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -538vh;
+        margin-left: -3vw;
+        width: 97vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -63.5vh;
+        height: 8vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:20vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 70vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .navcontainer{
+        margin-top: -64vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -285vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -45vh;
+        height: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:40%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 30vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -40vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 30vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 30vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 40%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 40%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: 0vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: 0vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -1vh;
+   }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .navcontainer{
+        margin-top: -50vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -295vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -33vh;
+        height: 4vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:30%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 20vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -40vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 20vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 25vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 45%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 45%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: 0vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: 0vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -1vh;
+   }
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: 0vw;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -520vh;
+        margin-left: 1vw;
+        width: 101vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -60.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 80vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}  
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 1100px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: 0vw;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: -3vw;
+        width: 97vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -58.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+
+}  
+
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: -3vw;
+        width: 97vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -58.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:30vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 78vh;
+    margin-top: 45vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 2.6vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 2.6vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: 0vw;
+        width: 100vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -58.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:80vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 110vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 4vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 4vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -5vh;
+   }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -58.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:80vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 110vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 4vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 4vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -4vh;
+   }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+    .navcontainer{
+        margin-top: -100vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -420vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -58.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:80vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 100vh;
+    margin-top: 80vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 90vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -550vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 8vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 38%;
+    background-color: darkgray;
+    height: 50vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 38%;
+    background-color: burlywood;
+    height: 50vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+        
+    }
+    .leftlawyerimg{
+        width: 35vw;
+        margin-left: 2%;
+        height: 60%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 83%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -520vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -520vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .navcontainer{
+        margin-top: -110vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -450vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -80.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .navcontainer{
+        margin-top: -75vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -375vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -55.5vh;
+        height: 5vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:50%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 10vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 40vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -50vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 40vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 40vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 1.5vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 1.5vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -1vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -1vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: 0vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: 0vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -2vh;
+   }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -88vh;
+        height: 15vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:50vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 35vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 35vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 90vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: -10vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: -10vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -460vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:0vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 60vh;
+    margin-top: 0vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 70vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -400vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:40vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 100vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -380vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:40vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 100vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+    .navcontainer{
+        margin-top: -130vh;
+        margin-left: -1vw;
+        width: 99vw;
+    }
+    .footercontainer1{
+        margin-top: -400vh;
+        margin-left: 0vw;
+        width: 100vw;
+        position: absolute;
+      
+
+    }
+
+    .introductioncontainer{
+        background-color: darkred;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: -91.5vh;
+        height: 10vh;
+        
+       
+    }
+    .lawyerscontainer{
+        width:100%;
+        height:85%;
+        display: flex;
+        flex-direction: row;
+        background-color: green;
+        gap:5vw;
+        margin-left: 0%;
+        position: absolute;
+        margin-top: 20vh;
+        padding-bottom:40vh;
+   
+    }
+    
+   .Leftlawyer{
+
+    width: 34%;
+    background-color: darkgray;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: -45vw;
+ 
+
+   }
+
+    
+   .Rightlawyer{
+    width: 34%;
+    background-color: burlywood;
+    height: 90vh;
+    margin-top: 40vh;
+    text-align: left;
+    padding: 2vw;
+    padding-right: 0vw;
+    margin-left: 95vh;
+
+
+   }
+
+
+   .Samnameright{
+    background-color: peru;
+    margin-left: 3vh;
+    font-size: 2vw;
+    width: 25vw;
+    margin-top: 0vh;
+
+}
+
+    .Samnameleft{
+     background-color: darkmagenta;
+     margin-left: 3vh;
+     font-size: 2vw;
+     width: 15vw;
+     margin-top: 0vh;
+ 
+    }
+  
+    .rightlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+    }
+    .leftlawyerimg{
+        width: 30vw;
+        margin-left: 2%;
+        height: 50%;
+        margin-top: 0vh;
+       
+    }
+    .position-left{
+      font-size: 1.3vw;
+      margin-left: 2vw;
+      margin-top: -3vh;
+    }
+    .position-right{
+        font-size: 1.3vw;
+        margin-left: 2vw;
+        margin-top: -3vh;
+    }
+    
+   
+    .leftlawyerabout{
+        background-color: chartreuse;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+    .rightlawyerabout{
+        background-color: orangered;
+        margin-top: -2vh;
+        width: 75%;
+        margin-left: 2vw;
+        height: 10%;
+        font-size: 1.5vw;
+    }
+
+
+
+    .intro{
+         background-color: palevioletred;
+         margin-top: 1vh;
+         font-size: 3vw;
+         font-weight: bold;
+    }
+   .intro2{
+      font-size: 1.7vw;
+      margin-top: -3vh;
+   }
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+

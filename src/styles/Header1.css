@@ -1,0 +1,5552 @@
+
+
+@media (min-width: 320px) and (min-height: 374px) {
+  .headertitle11{
+    font-size: 7vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: 14vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 7vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: 22vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 7vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 32vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 140vh;
+margin-top: 250vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top:60vh;
+  position: absolute;
+  height: 10vh;
+  font-size: 3vh;
+  margin-left: -24vw;
+  width: 50vw;
+  padding-bottom: 1vh;
+}
+
+.header1-paragraph{
+margin-top: 44vh;
+position: absolute;
+margin-left: -40vw;
+color: white;
+}
+.header1-paragraph2{
+margin-top: 50vh;
+position: absolute;
+margin-left: -40vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -55vh;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -88vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -88vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 205vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 2vh;
+  margin-left: -20vw;
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 205vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+overflow: hidden;
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1.5vh;
+  margin-left: -19vw;
+ 
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -37vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -37vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -45vh;
+
+}
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.3vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -35vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -35vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -50vh;
+
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 197vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1.6vh;
+  margin-left: -21vw;
+ padding-bottom: 1vh;
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+ 
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4.5vh;
+  font-size: 1.6vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1.6vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 40vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 205vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.3vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -33vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -33vw;
+color: white;
+}
+
+.content11{
+   margin-top: -40vh;
+
+}
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -33vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -33vw;
+color: white;
+}
+
+
+.content11{
+   margin-top: -40vh;
+
+}
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 190vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 190vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -15vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+.content11{
+   margin-top: -43vh;
+
+}
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top:180vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -10vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -4vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 2vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 190vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -19vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -30vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 14vh;
+position: absolute;
+margin-left: -30vw;
+color: white;
+}
+
+
+.content11{
+   margin-top: -40vh;
+
+}
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -15vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -9vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: -3vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 175vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 15vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -15vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 5vh;
+  position: absolute;
+  margin-left: -25vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 8vh;
+position: absolute;
+margin-left: -25vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: 5vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: 10vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 15vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 35vh;
+  position: absolute;
+  height: 5vh;
+  font-size: 1.6vh;
+  margin-left: -10vw;
+ padding-bottom: 2vh;
+  width: 25vw;
+}
+
+.header1-paragraph{
+  margin-top: 25vh;
+  position: absolute;
+  margin-left: -20vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 30vh;
+position: absolute;
+margin-left: -20vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: 0vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: 5vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 10vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 195vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 30vh;
+  position: absolute;
+  height: 3vh;
+  font-size: 1.2vh;
+  margin-left: -10vw;
+text-align: center;
+  width: 25vw;
+padding-bottom: 2.5vh;
+
+}
+
+.header1-paragraph{
+  margin-top: 20vh;
+  position: absolute;
+  margin-left: -20vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 25vh;
+position: absolute;
+margin-left: -20vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -5vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: 0vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: 5vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 210vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 5vh;
+  font-size: 1.6vh;
+  margin-left: -15vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -20vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 20vh;
+position: absolute;
+margin-left: -20vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: white;
+    margin-left: -90vw !important;
+    margin-top: -15vh !important;
+    position: absolute !important;
+    width:180vw;
+}
+.headertitle21{
+font-size: 4vh !important;
+color: yellow !important;
+margin-left: -90vw !important;
+margin-top: -10vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-overlay1 {
+display: none;
+}
+.headertitle31{
+font-size: 4vh !important;
+color: white;
+margin-left: -90vw !important;
+margin-top: -5vh !important;
+position: absolute !important;
+width:180vw;
+}
+.background-container1{
+background-image: url('../images/fallingonstairs.jpg');
+position: absolute;
+background-size: contain;
+height: 130vh;
+margin-top: 180vh;
+background-repeat: no-repeat;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center; /* Center text horizontally */
+margin-left: 0vw;
+width:100vw;
+
+
+}
+.freeconsultation1 {
+  background-color:  #FFD700;
+  color: black;
+  font-weight: bold;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 10vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 1.2vh;
+  margin-left: -15vw;
+ padding-bottom: 1vh;
+  width: 30vw;
+}
+
+.header1-paragraph{
+  margin-top: 3vh;
+  position: absolute;
+  margin-left: -20vw;
+  color: white;
+
+}
+.header1-paragraph2{
+margin-top: 6vh;
+position: absolute;
+margin-left: -20vw;
+color: white;
+}
+
+
+
+.content11{
+   margin-top: -30vh;
+
+}
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -107vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -112vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -110vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+ margin-left: 0vw;
+  margin-top: 19vh;
+  z-index: 500;
+  width: 98vw;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 2.4vh;
+  margin-left: -32vw;
+ padding-bottom: 6vh;
+  width: 13vw;
+  padding-top: 1vh;
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -32vw;
+z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 14vh;
+  position: absolute;
+  margin-left: -32vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -220px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -105.5vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -110.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -108.5vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  width: 100vw;
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  padding: 3vw;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 2.4vh;
+  margin-left: -34vw;
+ padding-bottom: 6vh;
+  width: 13vw;
+  padding-top: 1vh;
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -34vw;
+z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 14vh;
+  position: absolute;
+  margin-left: -34vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  margin-top: -10vh;
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -220px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -104vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -110vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -108vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 17vh;
+  z-index: 500;
+  margin-left: 0vw;
+  width: 100vw;
+}
+.freeconsultation1 {
+  background-color: yellow;
+ 
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 2.4vh;
+  margin-left: -39vw;
+  text-align: center;
+  width: 14vw;
+
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -38vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 14vh;
+  position: absolute;
+  margin-left: -38vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -100px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -108vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -112vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -110vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+margin-left: 0vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 18vh;
+  z-index: 500;
+  width: 100%;
+
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 2.4vh;
+  margin-left: -32vw;
+  text-align: center;
+  width: 14vw;
+
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -33vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 14vh;
+  position: absolute;
+  margin-left: -33vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -200px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -105vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -111vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -109vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 19vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 4vh;
+  font-size: 2.4vh;
+  margin-left: -32vw;
+  text-align: center;
+  width: 14vw;
+
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -35vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 14vh;
+  position: absolute;
+  margin-left: -35vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -200px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -107vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -110vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -109vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 28vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 30vh;
+  position: absolute;
+  height: 12vh;
+  font-size: 3vh;
+  margin-left: -28vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+  font-weight: bold;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -28vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -28vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -360px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -30vh;
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -106vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -110vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -108vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 24vh;
+  z-index: 500;
+  width: 100%;
+  margin-left: -2vw;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 10vh;
+  font-size: 2.8vh;
+  margin-left: -29vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -30vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -30vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -300px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -5vh;
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -106vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -111vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -109vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 71vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 8vh;
+  font-size: 2vh;
+  margin-left: -33vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -33vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -33vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -260px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -104vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -111vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -108vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 7vh;
+  z-index: 500;
+  margin-left: 0vw;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 20vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1.3vh;
+  margin-left: -40vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+  padding-bottom: 0vh;
+  padding-top: 0vh;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -40vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -40vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -160px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .headertitle11{
+    font-size: 8vh !important;
+    color: green!important;
+    margin-left: -106vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 7vh !important;
+  color: yellow !important;
+  margin-left: -110vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 7vh !important;
+  color:red !important;
+  margin-left: -108vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 25vh;
+  position: absolute;
+  height: 8vh;
+  font-size: 1.6vh;
+  margin-left: -31vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+  padding-bottom: 0vh;
+  padding-top: 0vh;
+}
+
+.header1-paragraph{
+  margin-top: 9vh;
+  position: absolute;
+  margin-left: -31vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -31vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  margin-top: 5vh;
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -360px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+}
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+ 
+  .headertitle11{
+    font-size: 6vh !important;
+    color: green!important;
+    margin-left: -114vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 6vh !important;
+  color: yellow !important;
+  margin-left: -117.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 6vh !important;
+  color:red !important;
+  margin-left: -115vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -40vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -39vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -39vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -170px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  .headertitle11{
+    font-size: 6vh !important;
+    color: green!important;
+    margin-left: -114vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 6vh !important;
+  color: yellow !important;
+  margin-left: -116.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 6vh !important;
+  color:red !important;
+  margin-left: -115vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -40vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -39vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -39vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -170px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  .headertitle11{
+    font-size: 6vh !important;
+    color: green!important;
+    margin-left: -112vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 6vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 6vh !important;
+  color:red !important;
+  margin-left: -113vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top:15vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -40vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -39vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -39vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -170px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .headertitle11{
+    font-size: 6vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 6vh !important;
+  color: yellow !important;
+  margin-left: -116.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 6vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 20vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -42vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -42vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -42vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -170px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+  .headertitle11{
+    font-size: 6vh !important;
+    color: green!important;
+    margin-left: -110vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 6vh !important;
+  color: yellow !important;
+  margin-left: -113.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 6vh !important;
+  color:red !important;
+  margin-left: -111vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 5vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 5vh;
+  font-size: 1vw;
+  margin-left: -40vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -40vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -40vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.5vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -170px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+  .headertitle11{
+    font-size: 5vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 5vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 5vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 10vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -37vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -36vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -36vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -270px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .headertitle11{
+    font-size: 5vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 5vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 5vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 10vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -37vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -38vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -38vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -270px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .headertitle11{
+    font-size: 2vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 2vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-17vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 2vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: -14vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 20vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 5.7vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: -8vh;
+  position: absolute;
+  height: 2vh;
+  font-size: 1vw;
+  margin-left: -37vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: -11vh;
+  position: absolute;
+  margin-left: -37vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: -9.5vh;
+  position: absolute;
+  margin-left: -37vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -270px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top:25vh;
+ 
+}
+
+
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .headertitle11{
+      font-size: 2vh !important;
+      color: green!important;
+      margin-left: -109vw !important;
+      margin-top: -20vh !important;
+      position: absolute !important;
+      width:180vw;
+      z-index: 2000;
+  }
+  .headertitle21{
+    font-size: 2vh !important;
+    color: yellow !important;
+    margin-left: -112.5vw !important;
+    margin-top:-17vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+  
+  }
+  .background-overlay1 {
+    position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: red;
+      filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+      z-index: 1000;
+  }
+  .headertitle31{
+    font-size: 2vh !important;
+    color:red !important;
+    margin-left: -110vw !important;
+    margin-top: -14vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+  }
+  .background-container1{
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 6vh;
+    z-index: 500;
+  }
+  .freeconsultation1 {
+    background-color: yellow;
+    border-top-left-radius: 9vw;
+    border-top-right-radius: 9vw;
+    border-bottom-left-radius: 9vw;
+    border-bottom-right-radius: 9vw;
+    margin-top: -8vh;
+    position: absolute;
+    height: 2vh;
+    font-size: 1.4vw;
+    margin-left: -37vw;
+    text-align: center;
+    width: 12vw;
+    z-index: 3000;
+  ;
+  }
+  
+  .header1-paragraph{
+    margin-top: -11vh;
+    position: absolute;
+    margin-left: -37vw;
+   z-index: 3000;
+   width: 30vw;
+   font-size: 1.2vw;
+   text-align: left;
+   color: black;
+  
+  }
+  .header1-paragraph2{
+    margin-top: -9.5vh;
+    position: absolute;
+    margin-left: -37vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+   width: 30vw;
+   font-size: 1.2vw;
+   text-align: left;
+   color: black;
+   z-index: 3000;
+  }
+  
+  
+  
+  .content11{
+    z-index: 4000; /* Ensure content is above the background */
+    position: absolute;
+    margin-left: -270px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top:25vh;
+   
+  }
+  
+  
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .headertitle11{
+    font-size: 5vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 5vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-10vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 5vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: 0vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 10vh;
+  z-index: 500;
+  width: 100%;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 19vh;
+  position: absolute;
+  height: 6vh;
+  font-weight: bold;
+  font-size: 1vw;
+  margin-left: -35vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -34vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 15vh;
+  position: absolute;
+  margin-left: -34vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -370px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+}  
+
+
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 1100px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 4vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-12vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 4vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: -3vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 10vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 15vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -35vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 5vh;
+  position: absolute;
+  margin-left: -35vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -35vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -370px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+}  
+
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .headertitle11{
+    font-size: 4vh !important;
+    color: green!important;
+    margin-left: -113vw !important;
+    margin-top: -20vh !important;
+    position: absolute !important;
+    width:180vw;
+    z-index: 2000;
+}
+.headertitle21{
+  font-size: 4vh !important;
+  color: yellow !important;
+  margin-left: -115.5vw !important;
+  margin-top:-12vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+
+}
+.background-overlay1 {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000;
+}
+.headertitle31{
+  font-size: 4vh !important;
+  color:red !important;
+  margin-left: -114vw !important;
+  margin-top: -3vh !important;
+  position: absolute !important;
+  width:180vw;
+  z-index: 2000;
+}
+.background-container1{
+  background-image: url('../images/fallingonstairs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center text horizontally */
+  color: white; /* Text color on top of the background */
+  filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: 10vh;
+  z-index: 500;
+}
+.freeconsultation1 {
+  background-color: yellow;
+  border-top-left-radius: 9vw;
+  border-top-right-radius: 9vw;
+  border-bottom-left-radius: 9vw;
+  border-bottom-right-radius: 9vw;
+  margin-top: 15vh;
+  position: absolute;
+  height: 6vh;
+  font-size: 1vw;
+  margin-left: -35vw;
+  text-align: center;
+  width: 11vw;
+  z-index: 3000;
+;
+}
+
+.header1-paragraph{
+  margin-top: 5vh;
+  position: absolute;
+  margin-left: -35vw;
+ z-index: 3000;
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+
+}
+.header1-paragraph2{
+  margin-top: 10vh;
+  position: absolute;
+  margin-left: -35vw;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+ width: 30vw;
+ font-size: 1.2vw;
+ text-align: left;
+ color: black;
+ z-index: 3000;
+}
+
+
+
+.content11{
+  z-index: 4000; /* Ensure content is above the background */
+  position: absolute;
+  margin-left: -370px;
+  filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+  margin-top: -2vh;
+ 
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .headertitle11 {
+    font-size: 6vh !important;
+    color: green !important;
+    margin-left: -113vw !important;
+    margin-top: -13vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 6vh !important;
+    color: yellow !important;
+    margin-left: -115.3vw !important;
+    margin-top: -3vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 6vh !important;
+  color: red !important;
+  margin-left: -114vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 30vh;
+    position: absolute;
+    height: 7vh;
+    font-size: 1.6vh;
+    margin-left: -33vw;
+    padding-left: 0vw;
+    width: 7vw;
+     padding-right: 0vw;
+    text-align:center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+
+}
+
+.header1-paragraph {
+    margin-top: 18vh;
+    position: absolute;
+    margin-left: -33.7vw;
+    color: black;
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 23vh;
+    position: absolute;
+    margin-left: -33.7vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -19vh;
+    position: absolute;
+    margin-left: -540px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+  .headertitle11 {
+    font-size: 6vh !important;
+    color: green !important;
+    margin-left: -113vw !important;
+    margin-top: -13vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 6vh !important;
+    color: yellow !important;
+    margin-left: -115.3vw !important;
+    margin-top: -3vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 6vh !important;
+  color: red !important;
+  margin-left: -114vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 30vh;
+    position: absolute;
+    height: 7vh;
+    font-size: 1.6vh;
+    margin-left: -33vw;
+    padding-left: 0vw;
+    width: 7vw;
+     padding-right: 0vw;
+    text-align:center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+
+}
+
+.header1-paragraph {
+    margin-top: 18vh;
+    position: absolute;
+    margin-left: -33.7vw;
+    color: black;
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 23vh;
+    position: absolute;
+    margin-left: -33.7vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -19vh;
+    position: absolute;
+    margin-left: -400px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+  .headertitle11 {
+    font-size: 5vh !important;
+    color: green !important;
+    margin-left: -110vw !important;
+    margin-top: -13vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 5vh !important;
+    color: yellow !important;
+    margin-left: -113vw !important;
+    margin-top: -3vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 5vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 10vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    
+    border-radius: 9vw;
+    margin-top: 28vh;
+    position: absolute;
+    height: 6vh;
+    font-size: 1.3vh;
+    margin-left: -33vw;
+    padding-bottom: 1vh;
+    width: 7vw;
+    padding-top: 1vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 18vh;
+    position: absolute;
+    margin-left: -33vw;
+    color: black;
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 23vh;
+    position: absolute;
+    margin-left: -33vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+    position: absolute;
+    margin-left: -440px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+  .headertitle11 {
+    font-size: 5vh !important;
+    color: green !important;
+    margin-left: -110vw !important;
+    margin-top: -13vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 5vh !important;
+    color: yellow !important;
+    margin-left: -113vw !important;
+    margin-top: -3vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 5vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 10vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    
+    border-radius: 9vw;
+    margin-top: 28vh;
+    position: absolute;
+    height: 6vh;
+    font-size: 1.3vh;
+    margin-left: -33vw;
+    padding-bottom: 1vh;
+    width: 9vw;
+    padding-top: 1vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 18vh;
+    position: absolute;
+    margin-left: -36vw;
+    color: black;
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 23vh;
+    position: absolute;
+    margin-left: -36vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: 1vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+    position: absolute;
+    margin-left: -440px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .headertitle11 {
+    font-size: 4vh !important;
+    color: green !important;
+    margin-left: -110vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 4vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 4vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 16.5vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 20vh;
+    position: absolute;
+    height: 4vh;
+    font-size: 1vh;
+    margin-left: -30vw;
+    padding-bottom: 1vh;
+    width: 7vw;
+    padding-top: 1vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -30vw;
+    color: black;
+    width: 30vw;
+    font-size: .8vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 17vh;
+    position: absolute;
+    margin-left: -30vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .8vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -900px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .headertitle11 {
+    font-size: 4vh !important;
+    color: green !important;
+    margin-left: -110vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 4vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 4vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 32vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 14.5vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 20vh;
+    position: absolute;
+    height: 4vh;
+    font-size: 1vh;
+    margin-left: -30vw;
+    padding-bottom: 1vh;
+    width: 7vw;
+    padding-top: 1vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -30vw;
+    color: black;
+    width: 30vw;
+    font-size: .8vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 17vh;
+    position: absolute;
+    margin-left: -30vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .8vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -900px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .headertitle11 {
+    font-size: 2vh !important;
+    color: green !important;
+    margin-left: -110.6vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 2vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 6vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 2vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 10vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 10vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 2vh;
+    font-size: .6vh;
+    margin-left: -27vw;
+    padding-bottom: 1.4vh;
+    width: 5.9vw;
+    padding-top: .7vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 13vh;
+    position: absolute;
+    margin-left: -27vw;
+    color: black;
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -27vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -1000px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+
+
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .headertitle11 {
+    font-size: 2vh !important;
+    color: green !important;
+    margin-left: -110vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 2vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 6vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 2vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 10vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 7vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 1vh;
+    font-size: .5vh;
+    margin-left: -30vw;
+    padding-bottom: 1.4vh;
+    width: 5.9vw;
+    padding-top: .3vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.header1-paragraph {
+    margin-top: 13vh;
+    position: absolute;
+    margin-left: -30vw;
+    color: black;
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -30vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -900px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .headertitle11 {
+    font-size: 4vh !important;
+    color: green !important;
+    margin-left: -110.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 4vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 4vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 20vh;
+    position: absolute;
+    height: 4vh;
+    font-size: 1vh;
+    margin-left: -28vw;
+    padding-bottom: 1vh;
+    width: 4vw;
+    padding-top: 1vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -27.9vw;
+    color: black;
+    width: 30vw;
+    font-size: .6vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 17vh;
+    position: absolute;
+    margin-left: -27.9vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .6vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -1180px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .headertitle11 {
+    font-size: 3vh !important;
+    color: green !important;
+    margin-left: -110.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 3vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 3vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 3vh;
+    font-size: .7vh;
+    margin-left: -27vw;
+    padding-bottom: .5vh;
+    width: 4vw;
+    padding-top: .5vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 12vh;
+    position: absolute;
+    margin-left: -27.6vw;
+    color: black;
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -27.6vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -1180px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .headertitle11 {
+    font-size: 3vh !important;
+    color: green !important;
+    margin-left: -110.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 3vh !important;
+    color: yellow !important;
+    margin-left: -112vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 3vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 32vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 14vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 3vh;
+    font-size: .7vh;
+    margin-left: -27vw;
+    padding-bottom: .5vh;
+    width: 4vw;
+    padding-top: .5vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 12vh;
+    position: absolute;
+    margin-left: -27.6vw;
+    color: black;
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -27.6vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .5vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -20vh;
+    position: absolute;
+    margin-left: -1180px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+  .headertitle11 {
+    font-size: 3vh !important;
+    color: green !important;
+    margin-left: -110.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 3vh !important;
+    color: yellow !important;
+    margin-left: -111.7vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 3vh !important;
+  color: red !important;
+  margin-left: -111vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 3vh;
+    font-size: .7vh;
+    margin-left: -26vw;
+    padding-bottom: .5vh;
+    width: 4vw;
+    padding-top: .5vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 12vh;
+    position: absolute;
+    margin-left: -25.8vw;
+    color: black;
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -25.8vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -15vh;
+    position: absolute;
+    margin-left: -1800px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .headertitle11 {
+    font-size: 3vh !important;
+    color: green !important;
+    margin-left: -106.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 3vh !important;
+    color: yellow !important;
+    margin-left: -107.7vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 3vh !important;
+  color: red !important;
+  margin-left: -106.7vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 3vh;
+    font-size: .7vh;
+    margin-left: -24vw;
+    padding-bottom: .5vh;
+    width: 4vw;
+    padding-top: .5vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 12vh;
+    position: absolute;
+    margin-left: -23.8vw;
+    color: black;
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -23.8vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -15vh;
+    position: absolute;
+    margin-left: -1800px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .headertitle11 {
+    font-size: 3vh !important;
+    color: green !important;
+    margin-left: -106.5vw !important;
+    margin-top: -4vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.headertitle21 {
+    font-size: 3vh !important;
+    color: yellow !important;
+    margin-left: -107.7vw !important;
+    margin-top: 2vh !important;
+    position: absolute !important;
+    width: 180vw;
+    z-index: 2000; /* Ensure this is on top of the background */
+}
+.headertitle31 {
+  font-size: 3vh !important;
+  color: red !important;
+  margin-left: -106.7vw !important;
+  margin-top: 7vh !important;
+  position: absolute !important;
+  width: 180vw;
+  z-index: 2000; /* Ensure this is on top of the background */
+}
+
+.background-overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 1000; /* Lower z-index so it’s beneath the titles */
+}
+
+
+.background-container1 {
+    background-image: url('../images/fallingonstairs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text horizontally */
+    color: white; /* Text color on top of the background */
+    filter: brightness(1); /* 0.8 makes the image darker, values >1 make it lighter */
+    margin-top: 15vh;
+    z-index: 500; /* Ensure this is beneath the overlay */
+}
+
+.freeconsultation1 {
+    background-color: yellow;
+    border-radius: 9vw;
+    margin-top: 16vh;
+    position: absolute;
+    height: 3vh;
+    font-size: .7vh;
+    margin-left: -24vw;
+    padding-bottom: .5vh;
+    width: 4vw;
+    padding-top: .5vh;
+    text-align: center;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+    padding-left: .8vw;
+    padding-right: .8vw;
+}
+
+.header1-paragraph {
+    margin-top: 12vh;
+    position: absolute;
+    margin-left: -23.8vw;
+    color: black;
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.header1-paragraph2 {
+
+    margin-top: 14vh;
+    position: absolute;
+    margin-left: -23.8vw;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    width: 30vw;
+    font-size: .4vw;
+    text-align: left;
+    color: black;
+    z-index: 3000; /* Ensure this is on top of the background and titles */
+}
+
+.content11 {
+  margin-top: -15vh;
+    position: absolute;
+    margin-left: -1800px;
+    filter: brightness(6); /* 0.8 makes the image darker, values >1 make it lighter */
+    z-index: 4000; /* Ensure this is on top of the background and titles */
+}
+
+
+}
+/***************************************************************************************************/ 
+
+

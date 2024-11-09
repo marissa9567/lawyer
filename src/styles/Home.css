@@ -1,0 +1,571 @@
+@media (min-width: 320px) {
+
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+    }
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+
+    }
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+
+}
+}
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+
+    }
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+    .homecontainer{
+        height:180vh;
+        width: 100vw;
+        background-color: rgb(1, 1, 53);
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+
+/***************************************************************************************************/
+
+@media screen and (min-width: 600px) and (min-height: 800px) {
+   .homecontainer{
+       height:180vh;
+       width: 100vw;
+       background-color: rgb(1, 1, 53);
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+
+@media screen and (min-width: 600px) and (min-height: 900px) {
+   .homecontainer{
+       height:180vh;
+       width: 100vw;
+       background-color: rgb(1, 1, 53);
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+   .homecontainer{
+       height:140vh;
+       width: 100vw;
+       background-color: rgb(1, 1, 53);
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+   .homecontainer{
+       height:100vh;
+       width: 100vw;
+       background-color: rgb(1, 1, 53);
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+
+@media screen and (min-width: 768px) and (min-height: 300px) {
+   .homecontainer{
+       height:100vh;
+       width: 100vw;
+       background-color: aqua !important;
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+@media screen and (min-width: 768px) and (min-height: 400px) {
+   .homecontainer{
+       height:100vh;
+       width: 100vw;
+       background-color: aqua !important;
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+@media screen and (min-width: 768px) and (min-height: 541px) {
+   .homecontainer{
+       height:100vh;
+       width: 100vw;
+       background-color: aqua !important;
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+   
+   }
+
+@media screen and (min-width: 800px) and (min-height: 350px) {
+   .homecontainer{
+       height:100vh;
+       width: 100vw;
+       background-color: aqua !important;
+       position: absolute;
+       overflow-x: hidden;
+   
+   }
+
+   
+   }
+@media screen and (min-width: 800px) and (min-height: 450px) {
+    .homecontainer{
+   
+        height:100vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+
+}
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+    .homecontainer{
+   
+        height:90vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1024px) and (min-height: 800px) {
+    .homecontainer{
+   
+        height:70vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+    .homecontainer{
+   
+        height:63vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+    .homecontainer{
+   
+        height:63vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+@media screen and (min-width: 1366px) and (min-height:768px) {
+    .homecontainer{
+   
+        height:63vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+@media screen and (min-width: 1440px) and (min-height:900px) {
+    .homecontainer{
+   
+        height:63vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+@media screen and (min-width: 1440px) and (min-height:1050px) {
+    .homecontainer{
+   
+        height:63vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+
+@media screen and (min-width: 1440px) and (min-height:2500px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1440px) and (min-height:2900px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1536px) and (min-height:800px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1536px) and (min-height:1100px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1536px) and (min-height:1200px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1920px) and (min-height:800px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1920px) and (min-height:1000px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1920px) and (min-height:1200px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+@media screen and (min-width: 1920px) and (min-height:1450px) {
+    .homecontainer{
+   
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  
+        .homecontainer{
+       
+            height:51vh;
+            width: 100vw;
+            background-color: aqua !important;
+            position: absolute;
+            overflow-x: hidden;
+    }
+    
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+    .homecontainer{
+       
+        height:51vh;
+        width: 100vw;
+        background-color: aqua !important;
+        position: absolute;
+        overflow-x: hidden;
+}
+
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+

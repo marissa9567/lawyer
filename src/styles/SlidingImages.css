@@ -1,0 +1,33 @@
+.sliding-images {
+    position: absolute;
+    width: 150vw;
+    height: 100vh; /* Ensure it's large enough to see the sliding effect */
+    overflow: hidden;
+    background-color: aqua;
+    margin-left: 0vw;
+    margin-top: 20vh;
+  }
+  
+  .slide-image {
+    position: absolute;
+    width: 70vw; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+  
+    background-color: brown;
+  }
+  
+  .left {
+    margin-top: 20vh;
+    left: 100vw; /* Start off-screen to the left */
+    position: absolute;
+    transition: transform 4s ease;
+
+  }
+  
+  .right {
+    margin-top: 60vh;
+    right: 150vw; /* Start off-screen to the right */
+    position: absolute;
+    transition: transform 3s ease;
+  }
+  

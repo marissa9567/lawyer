@@ -1,31 +1,41 @@
 import "../styles/Footer.css";
 import Logo from "../components/Logo";
+import { Link } from 'react-router-dom';
 
 function Footer() {
     return (
-        <footer className="footer">
+        <div className="footer">
             <div className="first">
                 <div className="logo">
                     <Logo />
                 </div>
                 <div className="privacy-terms">
-                    <p style={{ marginRight: "20px" }}>Privacy</p>
-                    <p>Terms of Use</p>
+                    <p className="privacy">Privacy</p>
+                    <p className="termsuse">Terms of Use</p>
                 </div>
             </div>
-            <div className="second">
-                <h5>About</h5>
-                <p style={{ fontSize: "10px" }}>Our Lawyers</p>
-                <p style={{ fontSize: "10px" }}>Areas of Focus</p>
-                <p style={{ fontSize: "10px" }}>Our Results</p>
+            <div className="second-third">
+            <div className="second-about">
+                <h5 className="about">About</h5>
+               
+
+                <Link to="/ourlawyers" className="about-lawyers">Our Lawyers</Link>
+
+              
+                <p className="about-focus">Areas of Focus</p>
+                <Link to="/ourresults" className="about-results">Results</Link>
             </div>
-            <div className="third">
-                <h5>Contact</h5>
-                <p style={{ fontSize: "10px" }}>Email</p>
-                <p style={{ fontSize: "10px" }}>Phone</p>
-                <p style={{ fontSize: "10px" }}>Address</p>
+            <div className="third-contact">
+         
+                <Link to="/contactus" className="contacts">Contact Us</Link>
+
+
+                <p className="contact-email">Email</p>
+                <p className="contact-phone">Phone</p>
+                <p className="contact-address">Address</p>
             </div>
-        </footer>
+            </div>
+        </div>
     );
 }
 

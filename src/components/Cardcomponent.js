@@ -1,15 +1,19 @@
-// Cardcomponent.js
 import "../styles/Card.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Cardcomponent({ items }) {
   return (
-    <div className="Card-container">
-      {items.map((item, index) => (
-        <div key={index} className="card-item">
-          {item.Logo && <FontAwesomeIcon icon={item.Logo} size="2x" className="logo"/>} {/* Render the icon if it exists */}
-          <h1 style= {{fontSize:"15px", marginLeft:"40px",color:"white"}}>{item.Title}</h1>
-          <p style= {{fontSize:"10px", marginLeft:"100px", color:"white"}}>{item.Subtitle}</p>
+    <div className="card-container">
+      {items.map(item => (
+        <div
+          key={item.id}
+          className={`card-item ${item.id === 2 ? 'card-item-special' : ''}`}
+        >
+          <div className="logo1">
+            <FontAwesomeIcon icon={item.Logo} />
+          </div>
+          <h3 className="item-title">{item.Title}</h3>
+          <p className="item-subtitle">{item.Subtitle}</p>
         </div>
       ))}
     </div>

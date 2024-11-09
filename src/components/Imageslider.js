@@ -1,16 +1,28 @@
 import React, { useState } from 'react';
 import "../styles/Imageslider.css";
 import Robert from "../images/Robert.jpg";
+import Person from "../images/person.jpeg";
 
 // Sample quotes array
 const quotes = [
   {
     quote: "'NYLitigation handled my case with utmost professionalism and secured the best outcome for me'",
     author: "Robert Johnson",
-    settlement: "Settlement Amount",
+    settlement: "Settlement Amount: $3 million",
     image: Robert
   },
-  {quote:"ff"}
+  { 
+    quote: "'NYLitigation handled my case with utmost professionalism and secured the best outcome for me'",
+    author: "Robert DiNero",
+    settlement: "Settlement Amount: $3 million",
+    image: Person
+  },
+  {
+    quote: "'NYLitigation handled my case with utmost professionalism and secured the best outcome for me'",
+    author: "Robert Johnson",
+    settlement: "Settlement Amount: $3 million",
+    image: Robert
+  }
 ];
 
 const ImageSlider = () => {
@@ -28,32 +40,46 @@ const ImageSlider = () => {
     setCurrentIndex(newIndex);
   };
 
+  // Function to go to specific slide by clicking the dot
+  const goToSlide = (index) => {
+    setCurrentIndex(index);
+  };
+
   return (
-  <div className='container'>
-    <div className="slider">
-      <div className='title'>
-          <h1 style={{marginLeft:"30px"}}>Whats Our Clients Say</h1>
-          <p style={{marginTop:"-15px", width:"400px"}}>Hear from those who have experienced the NYLitigation </p>
-          <p style={{marginLeft:"150px"}}>difference.</p>
-      </div>
-    
-      <button className="prev-button" onClick={goToPrevious}> <span className="prev-symbol">&lt;</span></button>
+    <div className='container'>
+      <div className="slider">
+        <div>
+          <h1 className="h1title1">Whats Our Clients Say</h1>
+          <p className="ptitle1">Hear from those who have experienced the NYLitigation difference</p>
+        
+        </div>
+
      
-      <div className="quote-container">
-        <div className="quote-text">{quotes[currentIndex].quote}</div>
-        <div className="quote-details">
-          <img src={quotes[currentIndex].image} alt={quotes[currentIndex].author} className='quote-image'/>
-          <div className="quote-info">
-            <p className="quote-author">{quotes[currentIndex].author}</p>
-            <p className="quote-meta">{quotes[currentIndex].settlement}</p>
+
+        <div className="quote-container">
+          <div className="quote-text">{quotes[currentIndex].quote}</div>
+          <div className="quote-details">
+            <img src={quotes[currentIndex].image} alt={quotes[currentIndex].author} className='quote-image'/>
+            <div className="quote-info">
+              <p className="quote-author">{quotes[currentIndex].author}</p>
+              <p className="quote-meta">{quotes[currentIndex].settlement}</p>
+            </div>
           </div>
         </div>
+
+    
+
+        {/* Dots for slide navigation */}
+        <div className="dots">
+          {quotes.map((_, index) => (
+            <span
+              key={index}
+              className={`dot ${index === currentIndex ? 'active' : ''}`}
+              onClick={() => goToSlide(index)}
+            ></span>
+          ))}
+        </div>
       </div>
-   
-      <button className="next-button" onClick={goToNext}>
-        <span className="next-symbol">&gt;</span> {/* Unicode character for right-pointing triangle */}
-      </button>
-    </div>
     </div>
   );
 };
