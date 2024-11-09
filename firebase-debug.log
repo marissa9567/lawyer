@@ -1,0 +1,46 @@
+[debug] [2024-10-08T23:52:39.678Z] ----------------------------------------------------------------------
+[debug] [2024-10-08T23:52:39.682Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\maris\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2024-10-08T23:52:39.682Z] CLI Version:   13.22.0
+[debug] [2024-10-08T23:52:39.682Z] Platform:      win32
+[debug] [2024-10-08T23:52:39.682Z] Node Version:  v20.11.0
+[debug] [2024-10-08T23:52:39.682Z] Time:          Tue Oct 08 2024 16:52:39 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-10-08T23:52:39.683Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-08T23:52:39.688Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-10-08T23:52:39.767Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-08T23:52:39.767Z] > authorizing via signed-in user (marissa@addisonapplications.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\maris\OneDrive\Desktop\Todd\server
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-10-08T23:52:39.887Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2024-10-08T23:52:39.887Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2024-10-08T23:52:50.293Z] Checked if tokens are valid: false, expires at: 1723424860391
+[debug] [2024-10-08T23:52:50.293Z] Checked if tokens are valid: false, expires at: 1723424860391
+[debug] [2024-10-08T23:52:50.294Z] > refreshing access token with scopes: []
+[debug] [2024-10-08T23:52:50.298Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2024-10-08T23:52:50.298Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2024-10-08T23:53:00.399Z] *** [apiv2] error from fetch(https://www.googleapis.com/oauth2/v3/token, {"headers":{},"method":"POST","body":{"_overheadLength":545,"_valueLength":212,"_valuesToMeasure":[],"writable":false,"readable":true,"dataSize":0,"maxDataSize":2097152,"pauseStreams":true,"_released":true,"_streams":[],"_currentStream":null,"_insideLoop":false,"_pendingNext":false,"_boundary":"--------------------------061925472038433025494814","_events":{},"_eventsCount":1}}): FetchError: request to https://www.googleapis.com/oauth2/v3/token failed, reason: Client network socket disconnected before secure TLS connection was established
+[debug] [2024-10-08T23:53:00.399Z] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2024-10-08T23:53:05.410Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\maris\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:268:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.

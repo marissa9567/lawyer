@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2318ccf.css",
-    "main.js": "/static/js/main.996ee05c.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/statueofliberty.jpg": "/static/media/statueofliberty.98d363f9387784c5a257.jpg",
-    "static/media/fallingonstairs.jpg": "/static/media/fallingonstairs.0b4eb5a3da134296765b.jpg",
-    "static/media/lawyer2.png": "/static/media/lawyer2.87f9a4ac19bb6f60a4a0.png",
-    "static/media/rearend-collision.jpg": "/static/media/rearend-collision.c8b1d9239c0859a79f6f.jpg",
-    "static/media/grocery-slip.jpg": "/static/media/grocery-slip.bab83971b9a73536b299.jpg",
-    "static/media/construction-worker-injured.jpg": "/static/media/construction-worker-injured.c5f1b9bffe95b238ec76.jpg",
-    "static/media/Robert.jpg": "/static/media/Robert.8c07de3ce3b9f0f2c3ce.jpg",
+    "main.css": "/static/css/main.81c1a12b.css",
+    "main.js": "/static/js/main.0a6a196d.js",
+    "static/media/redtexture.png": "/static/media/redtexture.91512a36ed29e4c96069.png",
+    "static/media/stars.jpg": "/static/media/stars.a79cd4ff1be72d1781fe.jpg",
+    "static/media/hobbies.jpg": "/static/media/hobbies.4bf7083a241452ab9bd3.jpg",
+    "static/media/greenlight.png": "/static/media/greenlight.420ecf4f2da1b9c28043.png",
+    "static/media/retrobackground.jpg": "/static/media/retrobackground.35db99388cbccd518d4f.jpg",
+    "static/media/yellowdots.jpg": "/static/media/yellowdots.5253be26e80741ce6a58.jpg",
+    "static/media/wisemen.jpg": "/static/media/wisemen.4bf11576f5056b78f6f8.jpg",
+    "static/media/wood.jpg": "/static/media/wood.3b8ca3c74c724921b520.jpg",
+    "static/media/coloreddots.jpg": "/static/media/coloreddots.7e23d6b68cbb739037d8.jpg",
+    "static/media/political.jpg": "/static/media/political.fd47d16d806aafb3a627.jpg",
+    "static/media/night.jpg": "/static/media/night.968e5eae79bb07fbe3f3.jpg",
+    "static/media/political1.jpg": "/static/media/political1.cac289bc814b9c08fb94.jpg",
+    "static/media/flag.jpg": "/static/media/flag.feeaca816647f03ecade.jpg",
     "index.html": "/index.html",
-    "main.b2318ccf.css.map": "/static/css/main.b2318ccf.css.map",
-    "main.996ee05c.js.map": "/static/js/main.996ee05c.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.81c1a12b.css.map": "/static/css/main.81c1a12b.css.map",
+    "main.0a6a196d.js.map": "/static/js/main.0a6a196d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2318ccf.css",
-    "static/js/main.996ee05c.js"
+    "static/css/main.81c1a12b.css",
+    "static/js/main.0a6a196d.js"
   ]
 }
