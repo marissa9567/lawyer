@@ -1,0 +1,2708 @@
+/* Post.css */
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 16px; /* Space between posts */
+  padding: 20px; /* Padding around the grid */
+}
+
+.post-container-home {
+  background-color: white; /* Optional: Set a background color for posts */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  padding: 10px; /* Inner padding for the post */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+  overflow: hidden; /* Prevent content overflow */
+}
+.searchbarinput{
+  align-items: center;
+  width: 15vw;
+
+  position: absolute;
+  margin-top: -20vh;
+  margin-left: 10vw;
+}
+.searchbarcontainer{
+  width: 30vw;
+  position: absolute;
+  margin-left: 30vw;
+  margin-top: 20vh;
+}
+.post-backgroundcolor-button{
+position: absolute;
+
+}
+.color-input-background-container{
+  margin-left: 50vw;
+}
+.color-background-input{
+  background-color:black;
+}
+.category-dropdown{
+  width: 15vw;
+  margin-left: 23vw;
+}
+.blog-post-title{
+  margin-left: 40vw;
+  font-size: 3vw;
+}
+@media (min-width: 320px) {
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+.home-container{
+  width: 96.7vw;
+  height: auto;
+}
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 16px; /* Space between posts */
+  padding: 20px; /* Padding around the grid */
+}
+
+.post-container-home {
+  background-color: white; /* Optional: Set a background color for posts */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  padding: 10px; /* Inner padding for the post */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+  overflow: hidden; /* Prevent content overflow */
+}
+.searchbarinput{
+  align-items: center;
+  width: 15vw;
+
+  position: absolute;
+  margin-top: -20vh;
+  margin-left: 10vw;
+}
+.searchbarcontainer{
+  width: 30vw;
+  position: absolute;
+  margin-left: 30vw;
+  margin-top: 20vh;
+}
+.post-backgroundcolor-button{
+position: absolute;
+
+}
+.category-dropdown{
+
+}
+.category-option{
+
+}
+.category-container{
+  
+
+}
+.category-option-all{
+
+}
+.color-input-background-container{
+  margin-left: 73vw;
+  margin-top: -15vh;
+  position: absolute;
+  width: 20%;
+}
+.color-background-input{
+  background-color:black;
+}
+.category-dropdown{
+  width: 15vw;
+  margin-left: 23vw;
+}
+.blog-post-title{
+  margin-left: 40vw;
+  font-size: 3vw;
+}
+
+
+} 
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+  .home-container{
+    width: 96.7vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -12vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  .home-container{
+    width: 96.7vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+  .home-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+    height:max-content;
+    padding-bottom: 15vh;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+
+
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+
+  .home-container{
+    width: 97vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  .home-container{
+    width: 98vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+  .home-container{
+    width: 98vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  .ul-footer{
+    margin-top: 0vh;
+  }
+
+}
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+
+  .home-container{
+    width: 98vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -10vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .home-container{
+    width: 98vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+  
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top: -5vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .home-container{
+      width: 99vw;
+      height: auto;
+    }
+    .posts-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* Two columns */
+      gap: 16px; /* Space between posts */
+      padding: 20px; /* Padding around the grid */
+    }
+    .ul-footer{
+      margin-top: -3vh;
+    }
+    .post-container-home  {
+      background-color: white; /* Optional: Set a background color for posts */
+      border-radius: 8px; /* Optional: Add rounded corners */
+      padding: 10px; /* Inner padding for the post */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+      overflow: hidden; /* Prevent content overflow */
+    }
+    .searchbarinput{
+      align-items: center;
+      width: 15vw;
+    
+      position: absolute;
+      margin-top: -20vh;
+      margin-left: 10vw;
+    }
+    .searchbarcontainer{
+      width: 30vw;
+      position: absolute;
+      margin-left: 30vw;
+      margin-top: 20vh;
+    }
+    .post-backgroundcolor-button{
+    position: absolute;
+    
+    }
+    .category-dropdown{
+    
+    }
+    .category-option{
+    
+    }
+    .category-container{
+      
+    
+    }
+    .category-option-all{
+    
+    }
+    .color-input-background-container{
+      margin-left: 73vw;
+      margin-top:0vh;
+      position: absolute;
+      width: 20%;
+    }
+    .color-background-input{
+      background-color:black;
+    }
+    .category-dropdown{
+      width: 15vw;
+      margin-left: 23vw;
+    }
+    .blog-post-title{
+      margin-left: 40vw;
+      font-size: 3vw;
+    }
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+  .home-container{
+    width: 99vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color: white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .home-container{
+    width: 100.5vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+  .home-container{
+    width: 101vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .home-container{
+    width: 101vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+  .home-container{
+    width: 101vw;
+    height: auto;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Two columns */
+    gap: 16px; /* Space between posts */
+    padding: 20px; /* Padding around the grid */
+  }
+  
+  .post-container-home  {
+    background-color:white; /* Optional: Set a background color for posts */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    padding: 10px; /* Inner padding for the post */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    overflow: hidden; /* Prevent content overflow */
+    width:70%;
+  }
+  .searchbarinput{
+    align-items: center;
+    width: 15vw;
+  
+    position: absolute;
+    margin-top: -20vh;
+    margin-left: 10vw;
+  }
+  .searchbarcontainer{
+    width: 30vw;
+    position: absolute;
+    margin-left: 30vw;
+    margin-top: 20vh;
+  }
+  .post-backgroundcolor-button{
+  position: absolute;
+  
+  }
+  .category-dropdown{
+  
+  }
+  .category-option{
+  
+  }
+  .category-container{
+    
+  
+  }
+  .category-option-all{
+  
+  }
+  .color-input-background-container{
+    margin-left: 73vw;
+    margin-top:0vh;
+    position: absolute;
+    width: 20%;
+  }
+  .color-background-input{
+    background-color:black;
+  }
+  .category-dropdown{
+    width: 15vw;
+    margin-left: 23vw;
+  }
+  .blog-post-title{
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

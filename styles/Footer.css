@@ -1,0 +1,4018 @@
+
+@media (min-width: 320px) {
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 97vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -5vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -25vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 97vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -5vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -25vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 97vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -5vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -20vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+    .footer {
+        position: absolute;
+        background-color: black;
+        width: 97%;
+        height: 40%;
+        margin-left: 0.3vw;
+        margin-top: .3vh;
+    
+    }
+    
+    .footer a {
+        color: white; /* Default link color */
+        text-decoration: none; /* Remove underline */
+        list-style: none;
+    }
+    .font{
+        color: aqua;
+        position: absolute;
+    }
+    .footer-links-home a,
+    .footer-links-about a,
+    .footer-links-shophomepage a,
+    .footer-links-tracking a,
+    .footer-links-contact a,
+    .footer-links-terms a {
+        color: white; /* Ensure links are white */
+        list-style: none;
+    }
+    
+    .footer-links-contact a,
+    .footer-links-about a {
+        
+    }
+    .category1-footer{
+        text-align: center;
+        margin-left: 0vw;
+        font-size: 1.5vw;
+        margin-top: 5vh;
+        position: absolute;
+      
+        list-style: none;
+    }
+    .category2-footer {
+        text-align: center;
+        margin-left: 80vw;
+        font-size: 1.5vw;
+        margin-top: 5vh;
+        position: absolute;
+      
+        list-style: none;
+      
+    }
+    .privacyterms{
+        font-size:1.5vw ;
+        margin-left: -12vw;
+        width: 30vw;
+        position:absolute ;
+    }
+    .footer-links-tracking,.footer-links-contact,.footer-links-terms{
+        margin-top: 3vh;
+        list-style: none;
+        font-size: 1.5vw;
+        margin-left: -20vw;
+    }
+    .footer-links-about,.footer-links-home,.footer-links-shophomepage{
+        margin-top: 3vh;
+        list-style: none;
+        font-size: 1.5vw;
+        
+    }
+    .title-input-form {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        position: absolute;
+      
+    }
+    
+    
+    .font-size-selector {
+        margin-left: 25vw;
+        padding: 5px;
+        width: 10vw;
+        margin-top: -10vh;
+        position: absolute;
+    }
+    
+    .submit-button-footer {
+      
+        background-color: white;
+        color: black;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 5vw;
+        margin-left: 20vw;
+        margin-top: 25vh;
+        position: absolute;
+    }
+    
+    .submit-button:hover {
+        background-color: lightgray;
+    }
+    .submitted-titles{
+        margin-top: 45vh;
+       
+        list-style: none;
+        margin-left: 35vw;
+        position: absolute;
+        height: 5vh;
+    
+      
+    }
+    .ul-footer{
+        z-index: 300;
+        margin-top: -30vh;
+        list-style: none;
+        position: absolute;
+    }
+    .delete-button-footer{
+        margin-left: 20vw;
+        list-style: none;
+        position: absolute;
+        margin-top: 0vh;
+        background-color: coral;
+        width:3vw;
+        height: 6vh;
+    }
+    
+    .footer-components-container{
+       
+        position: absolute;
+        margin-top: 0vh;
+        height: 8vh;
+        width: 100%;
+    }
+    .collapsible-button{
+        background-color: aqua;
+    }
+    
+    
+    
+    
+    .input-one-fontsize{
+    
+        position: absolute;
+        height: 30vh;
+        margin-top: -3vh;
+        margin-left: -20vw;
+    
+    }
+    .input-one-fontstyle{
+       
+        position: absolute;
+        height: 30vh;
+        margin-top: -3vh;
+        margin-left: -12vw;
+    }
+    .input-one-font-color{
+    
+        position: absolute;
+        height: 30vh;
+        margin-top: -3vh;
+        margin-left: 0vw;
+    }
+    .title-input-one {
+        padding: 10px;
+        margin-right: 10px;
+        border: none;
+        border-radius: 4px;
+      
+        width: 10vw;
+        margin-top: -2vh;
+        margin-left: 30vw;
+        position: absolute;
+    }
+    
+    .title-input-two {
+        padding: 10px;
+        margin-right: 10px;
+        border: none;
+        border-radius: 4px;
+       
+        width: 10vw;
+        margin-top: 3vh;
+        margin-left: 20vw;
+        position: absolute;
+    }
+    
+    .input-two-size{
+    
+        position: absolute;
+        height: 30vh;
+        margin-top: 3vh;
+        margin-left: -20vw;
+    
+    }
+    .input-two-fontstyle{
+       
+        position: absolute;
+        height: 30vh;
+        margin-top: 3vh;
+        margin-left: -12vw;
+      
+    }
+    .input-two-fontcolor{
+    
+        position: absolute;
+        height: 30vh;
+        margin-top: 3vh;
+        margin-left: 0vw;
+    }
+    .previewone{
+        margin-left: 40vw;
+        margin-top: 10vh;
+        width: 30vw;
+        z-index: 200;
+        position: absolute;
+      
+    }
+    .previewtwo{
+        margin-left: 40vw;
+        margin-top: 13vh;
+        width: 30vw;
+    
+        position: absolute;
+     
+    }
+    .submitted-titles{
+        margin-left: 37vw;
+        margin-top: 40vh;
+        width: 30vw;
+    
+        position: absolute;
+    }
+    
+
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 97vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -5vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -20vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+  
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 98vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -20vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 98vw;
+        margin-top: -3vh;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -10vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -20vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 98vw;
+        margin-top: -3vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -7vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 10vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -20vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -5vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -7vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 98vw;
+        margin-top:-1.4vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 5vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -13vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-2vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -6vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -1vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -13vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 150px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-2vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -1vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -13vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 160px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1.4vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -1vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -13vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 160px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1.4vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -1vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -13vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 160px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -10vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 7vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 170px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -10vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 5vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 170px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -10vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 5vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 170px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -10vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: -2vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    
+}
+.leftside{
+    margin-top: 2vw;
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 5vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -3vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 190px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -3.5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 4vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.leftside{
+    margin-top: 2vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 190px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-0.3vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -2vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 2vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 1vh;
+    margin-top: -1vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.leftside{
+    margin-top: 2vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 190px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99.5vw;
+        margin-top:-1vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -6vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 1vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.leftside{
+    margin-top: 2vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 200px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99.5vw;
+        margin-top:-0.8vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -6vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 1vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.leftside{
+    margin-top: 2vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1.5vw;
+    
+}
+.rightside{
+    margin-top: 2vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 200px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-1.3vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -7vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 1vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -4vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 200px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-0.8vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -7vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 1vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -4vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 200px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-0.8vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -6vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -2vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 200px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 99vw;
+        margin-top:-0.8vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 2vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -2vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.8vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1.5vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -2vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1.5vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -2vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1.5vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 6vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -2vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.3vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -3vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 3vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1.5vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1.5vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.7vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -4.5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 3vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.7vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -4.5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 3vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 220px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 100.5vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: 1vw;
+        width: 15vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -4vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 3vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: 1vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: 1vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: 1vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 240px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 101vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: .5vw;
+        width: 10vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 5vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: .5vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: .5vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 240px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 101vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: .5vw;
+        width: 10vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -5vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 5vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: .5vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: .5vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+    .footer {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        position: relative;
+        height: 240px; /* Set a fixed height for the footer */
+        background-color: black; /* Optional: Change the background color */
+        width: 101vw;
+        margin-top:-0.5vh;
+        margin-left: 0vw;
+    }
+    .select-text-shadow,.select-text-decoration,.select-text-style,.select-text-size{
+        font-size: .5vw;
+        width: 10vw;
+    }
+.font-color-input{
+width: 2vw;
+}
+
+.add-title-footer{
+    font-size: 1vw;
+    color: white;
+    margin-top: -4vh;
+    position: absolute;
+    background-color: yellow;
+
+ 
+}
+.title-container{
+   background-color: aqua;
+   margin-top: 5vh;
+   position: absolute;
+}
+.footer-title-input{
+    position: absolute;
+    font-size: 2vw;
+    background-color: chartreuse;
+    width: 20vw !important;
+    height: 2vh;
+    margin-top: -2vh;
+}
+
+.footer-toggle-button {
+    background-color: #007BFF; /* Blue background */
+    color: white;              /* White text */
+    border: none;              /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    padding: 10px 15px;       /* Padding */
+    font-size: .5vw;          /* Font size */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Transition effect */
+    z-index: 9000;
+    margin-left: -85vw;
+    margin-top: -5vh;
+    position: absolute;
+}
+.footer-submit{
+    font-size: .5vw;
+}
+.footer-delete{
+    font-size: 1vw;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 0vh;
+    margin-left: -2vw;
+
+}
+.footer-leftside{
+    position: absolute;
+    margin-left: -50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.leftside{
+    margin-top: 1vw;
+    
+}
+.footer-rightside{
+    position: absolute;
+    margin-left: 50vw;
+    flex-direction: column;
+    font-size: .5vw;
+    
+}
+.rightside{
+    margin-top: 1vw;
+}
+.titles-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Space between each title item */
+    margin-top: 2vh;
+}
+.title-item {
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+.wave {
+    text-decoration: underline;
+    text-decoration-style: wavy; /* Wavy decoration style */
+    text-decoration-color: currentColor; /* Makes the wavy underline match the text color */
+}
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

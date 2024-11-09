@@ -1,0 +1,26 @@
+/* Rightdrawer.css */
+.right-drawer {
+    position: fixed;
+    top: 0;
+    right: -300px; /* Hidden by default */
+    width: 300px;
+    height: 100%; /* Full height */
+    background-color: #fff;
+    transition: right 0.3s ease;
+    overflow-y: auto; /* Enable vertical scrolling */
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5); /* Optional: shadow for depth */
+}
+
+.right-drawer.open {
+    right: 0; /* Slide into view */
+}
+
+.close-button-right {
+    /* Your button styles */
+    cursor: pointer;
+}
+
+/* Optional: Style for navigation */
+nav {
+    padding: 20px; /* Add some padding */
+}

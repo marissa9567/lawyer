@@ -1,0 +1,3683 @@
+.nav {
+    background-color: black;
+    width: 100%;
+    margin-top: -2vh;
+    height:10vh;
+    padding: 1vw;
+    margin-left: 0vw;
+}
+
+.navbarlink {
+    color: white;
+    display: inline-block;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    list-style: none;
+    gap: 3vw;
+    align-items: center;
+}
+
+.home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+.navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+.navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+.logout-button, .loginlink,.logged-on {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5vw;
+}
+
+.logout-button {
+    margin-left: 42vw;
+    position: absolute;
+    margin-top: -3vh;
+  
+}
+
+.logged-on {
+    margin-left: 35vw;
+    width: 10vw;
+    position: absolute;
+    color: red;
+    margin-top: -2vh;
+}
+
+
+
+.edit-link-nav {
+    color: grey;
+    margin-left: 4vw;
+    margin-top: -2vh !important;
+    position: absolute;
+}
+
+.addpostnav {
+    color: grey;
+    margin-left: 15vw;
+    width: 8vw;
+    margin-top: -2vh;
+    position: absolute;
+}
+.toggle-tracker-button{
+    background-color: darkgreen;
+    z-index: 5000;
+    }
+    .toggle-shop-button{
+        background-color: darkgreen;
+    z-index: 5000;
+    }
+.contact-nav-link{
+    margin-left: -5vw;
+    position: absolute;
+    font-size: 1.5vw;
+    margin-top: -2vh;
+    color: grey;
+}
+.faq{
+    margin-left: -7vw;
+    position: absolute;
+    font-size: 1.5vw;
+    margin-top: -2vh;
+    color: grey;
+}
+    
+@media (min-width: 320px) {
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -6vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+   
+        margin-top: 14vh;
+        position: absolute;
+        margin-left: -17vw;
+        background-color: black;
+        color: white;
+        opacity: 0.7; /* 70% opaque */
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 1.5vw;
+        }
+        .toggle-shop-button{
+            background-color: black;
+            color: white;
+            opacity: 0.7; /* 70% opaque */
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1.5vw;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+} 
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -6vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 12vh;
+        position: absolute;
+        margin-left: -17vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -4vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 12vh;
+        position: absolute;
+        margin-left: -17vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 4vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -4vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -15vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -4vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -15vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -6vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 17vh;
+        position: absolute;
+        margin-left: -13vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -6vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 17vh;
+        position: absolute;
+        margin-left: -13vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:10vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 17vh;
+        position: absolute;
+        margin-left: -13vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 4vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:7vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -12vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:7vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -10vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:7vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -10vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:7vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:7vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 15vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:5vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 13vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:5vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 13vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:5vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 13vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:5vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: -3vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: -2vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: -2vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: -2vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 13vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 6vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: -2vh;
+        color: grey;
+    }
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 6vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 2vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 2.5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 2.5vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 2.5vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:4vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 2.5vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:2.5vh;
+        color: grey;
+    }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+
+ .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 6vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 2vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 2.5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 2.5vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 2.5vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:4vh;
+        position: absolute;
+        margin-left: -9vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 2.5vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:2.5vh;
+        color: grey;
+    }
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: .5vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 1vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 1vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:8vh;
+        position: absolute;
+        margin-left: -8vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 1vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: .5vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 1vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 1vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:7vh;
+        position: absolute;
+        margin-left: -8vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 1vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 0vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:8vh;
+        position: absolute;
+        margin-left: -7vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:0vh;
+        color: grey;
+    }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 0vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh !important;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:8vh;
+        position: absolute;
+        margin-left: -7vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:0vh;
+        color: grey;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 0vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:7vh;
+        position: absolute;
+        margin-left: -7vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:1vh !important;
+}
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: .5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:7vh;
+        position: absolute;
+        margin-left: -7vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:1.5vh !important;
+}
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: .5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:7vh;
+        position: absolute;
+        margin-left: -5vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:1.5vh !important;
+}
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: .5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:7vh;
+        position: absolute;
+        margin-left: -5vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:1.5vh !important;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 5vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: .5vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:5vh;
+        position: absolute;
+        margin-left: -5vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:1.5vh !important;
+}
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:4vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 6vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:4vh;
+        position: absolute;
+        margin-left: -5vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+}
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:6vh;
+        position: absolute;
+        margin-left: -4.4vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:6vh;
+        position: absolute;
+        margin-left: -4.4vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:6vh;
+        position: absolute;
+        margin-left: -4.4vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:6vh;
+        position: absolute;
+        margin-left: -4.4vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:5vh;
+        position: absolute;
+        margin-left: -3.2vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 2vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+    .nav {
+        background-color: black;
+        width: 100%;
+        margin-top: -2vh;
+        height:6vh;
+        padding: 1vw;
+        margin-left: 0vw;
+    }
+    
+    .navbarlink {
+        color: white;
+        display: inline-block;
+        margin-top: 7vh;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        color: white;
+        list-style: none;
+        gap: 3vw;
+        align-items: center;
+        margin-top: -4vh;
+    }
+    
+    .home, .about, .contact-navbar, .footer-navbar, .track-navbar, 
+    .navbar-shophomepage, .navbar-cart, .navbar-checkout, .logged, 
+    .navloginbutton, .edit-shop-button, .logout-button, .addpost-button, 
+    .logout-button, .loginlink,.logged-on {
+        color: white;
+        text-decoration: none;
+        font-size: 1vw;
+    }
+    
+    .logout-button {
+        margin-left: 40vw;
+        position: absolute;
+        margin-top: 0vh;
+        width: 6vw;
+        font-size: 1vw;
+      
+    }
+    
+    .logged-on {
+        margin-left: 35vw;
+        width: 10vw;
+        position: absolute;
+        color: red;
+        margin-top: 1vh;
+    }
+    
+    
+    
+    .edit-link-nav {
+        color: grey;
+        margin-left: 4vw;
+        margin-top: 0vh ;
+        position: absolute;
+    }
+    
+    .addpostnav {
+        color: grey;
+        margin-left: 15vw;
+        width: 8vw;
+        margin-top: 0vh;
+        position: absolute;
+    }
+    .toggle-tracker-button{
+        background-color: darkgreen;
+        z-index: 5000;
+        margin-top:5vh;
+        position: absolute;
+        margin-left: -3.2vw;
+        }
+        .toggle-shop-button{
+            background-color: darkgreen;
+        z-index: 5000;
+        margin-top: 3vh;
+        }
+    .contact-nav-link{
+        margin-left: -5vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top: 0vh;
+        color: grey;
+    }
+    .faq{
+        margin-left: -7vw;
+        position: absolute;
+        font-size: 1.5vw;
+        margin-top:1vh;
+        color: grey;
+    }
+.faq,.contact-nav-link,.addpostnav,.edit-link-nav,.logged,.logout-button{
+    margin-top:2.2vh !important;
+    font-size: 1vw;
+}
+
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+
+
+

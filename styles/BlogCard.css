@@ -1,0 +1,26 @@
+.blog-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.blog-card:hover {
+    transform: scale(1.05);
+}
+
+.blog-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.blog-title {
+    font-size: 1.5em;
+}
+
+.blog-description {
+    color: #555;
+}

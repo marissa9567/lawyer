@@ -1,0 +1,4733 @@
+
+  @media (min-width: 320px) {
+
+
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 375px) and (min-height: 650px) {
+   
+  
+  
+   
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 375px) and (min-height: 800px) {
+  
+  }
+  /******************************************************************************************************/
+  @media screen and (min-width: 375px) and (min-height: 950px) {
+  
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 390px) and (min-height: 750px) {
+  
+  
+  
+  }
+  /********************************************************************************************************/
+  @media screen and (min-width: 390px) and (min-height: 800px) {
+  
+  
+  
+  }
+  
+  /*********************************************************************************************************************/
+  @media screen and (min-width: 412px) and (min-height: 700px) {
+  
+  }
+  
+  
+  
+  
+  
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 412px) and (min-height: 800px) {
+  
+  
+  
+  }
+  /*******************************************************************************************************/
+  @media screen and (min-width: 412px) and (min-height: 900px) {
+  
+  }
+  
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 428px) and (min-height: 800px) {
+  
+  
+  }
+  
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 428px) and (min-height: 900px) {
+  
+  
+  }
+  /*******************************************************************************************************************/
+  @media screen and (min-width: 480px) and (min-height: 800px) {
+  
+  
+  }
+  
+  /***********************************************************************************************************************/
+  @media screen and (min-width: 480px) and (min-height: 900px) {
+  
+  
+  }
+  /*****************************************************************************************************/
+  @media screen and (min-width: 480px) and (min-height: 1000px) {
+  
+  }
+  
+  
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 800px) {
+  
+  
+  }
+  /************************************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 900px) {
+  
+  
+  }
+  /**************************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 1000px) {
+  
+  }
+  /*************************************************************************************************************/
+  @media screen and (min-width: 600px) and (min-height: 1200px) {
+  
+  }
+  
+  
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 768px) and (min-height: 300px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 2vw;
+      width: 25%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  } 
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 768px) and (min-height: 400px) {
+  
+  
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 2vw;
+      width: 25%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 768px) and (min-height: 541px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 2vw;
+      width: 25%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+     padding-bottom: 3vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+
+  }
+  }
+  
+  /****************************************************************************************************/
+  @media screen and (min-width: 800px) and (min-height: 350px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 2vw;
+      width: 25%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /************************************************************************************************************/
+  @media screen and (min-width: 800px) and (min-height: 450px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 2vw;
+      width: 30%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1024px) and (min-height: 300px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1024px) and (min-height: 400px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1024px) and (min-height: 530px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1080px) and (min-height: 800px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1280px) and (min-height: 550px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1280px) and (min-height: 800px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1366px) and (min-height: 768px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1366px) and (min-height: 850px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+   /***************************************************************************************************/ 
+  @media screen and (min-width: 1366px) and (min-height: 1000px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+  
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+    /***************************************************************************************************/
+  @media screen and (min-width: 1366px) and (min-height: 1024px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 900px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  
+  /********************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /****************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  
+  
+    /***************************************************************************************************/
+    @media screen and (min-width: 1440px) and (min-height: 2900px) {
+      .checkout-form {
+        max-width: 500px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+      }
+      
+      .checkout-title {
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+      
+      .checkout-items-container {
+        margin-bottom: 20px;
+      }
+      
+      .checkout-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 10px;
+        background-color: #fff;
+      }
+      
+      .checkout-img {
+        width: 80px;
+        height: auto;
+        margin-right: 15px;
+        border-radius: 5px;
+      }
+      
+      .checkout-item-info {
+        flex: 1;
+      }
+      
+      .checkout-item-title {
+        font-size: 18px;
+        margin: 0;
+      }
+      
+      .checkout-item-price {
+        color: #888;
+      }
+      
+      .checkout-delete {
+        background-color: #ff4d4d;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      .checkout-total {
+        text-align: right;
+        font-size: 20px;
+        margin-top: 10px;
+      }
+      
+      .checkout-user-info {
+        margin: 20px 0;
+      }
+      
+      .checkout-user-info label {
+        display: block;
+        margin-bottom: 10px;
+      }
+      
+      .checkout-user-info input {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      
+      .checkout-card-element {
+        margin: 20px 0;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+      }
+      
+      .checkout-submit-button {
+        width: 100%;
+        padding: 10px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+      
+      .checkout-submit-button:disabled {
+        background-color: #ccc;
+      }
+      
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  
+  }
+  /***************************************************************************************************/  
+  @media screen and (min-width: 1536px) and (min-height: 800px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }  
+  /***************************************************************************************************/
+  @media screen and (min-width: 1536px) and (min-height: 1200px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1920px) and (min-height: 800px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1920px) and (min-height: 1000px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 1920px) and (min-height: 1200px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /********************************************************************************************************/
+  @media screen and (min-width: 1920px) and (min-height: 1450px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1.5vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /*********************************************************************************************************/
+  @media screen and (min-width: 2500px) and (min-height: 1440px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  
+  
+  /****************************************************************************************************/
+  @media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***********************************************************************************************************/
+  @media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  /***************************************************************************************************/
+  @media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: 1vw;
+      width: 20%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 40%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 42vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: .5vw;
+      width: 10%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 45%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 48vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: .5vw;
+      width: 10%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 45%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 48vw;
+
+  }
+  }
+  
+  /***************************************************************************************************/
+  @media screen and (min-width: 3840px) and (min-height: 2400px) {
+  
+    .checkout-form {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .checkout-items-container {
+      margin-bottom: 20px;
+    }
+    
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #fff;
+    }
+    
+    .checkout-img {
+      width: 80px;
+      height: auto;
+      margin-right: 15px;
+      border-radius: 5px;
+    }
+    
+    .checkout-item-info {
+      flex: 1;
+    }
+    
+    .checkout-item-title {
+      font-size: 18px;
+      margin: 0;
+    }
+    
+    .checkout-item-price {
+      color: #888;
+    }
+    
+    .checkout-delete {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .checkout-total {
+      text-align: right;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    
+    .checkout-user-info {
+      margin: 20px 0;
+    }
+    
+    .checkout-user-info label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .checkout-user-info input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .checkout-card-element {
+      margin: 20px 0;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+    }
+    
+    .checkout-submit-button {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .checkout-submit-button:disabled {
+      background-color: #ccc;
+    }
+    .receipt{
+      margin-left: 40vw;
+      font-size: 3vw;
+       border-color: black;
+       border-width: 1px;
+       border-style: solid;
+ 
+      width: 20%;
+      height:20vh;
+    }
+    .pre{
+      font-size: .5vw;
+      width: 10%;
+      height:20%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+      margin-left: 45%;
+      padding: 1vw;
+   
+    }
+  .receit-title{
+margin-left: 48vw;
+
+  }
+  }
+  /***************************************************************************************************/ 
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+   
+   
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+  
+  
+   
+   
+  
+  
+   
+  
+   
+  
+  
+   
+  
+  

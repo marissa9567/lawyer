@@ -1,0 +1,28 @@
+/* ProductList.css */
+.product-list {
+    display: flex;               /* Use flexbox */
+    flex-wrap: wrap;            /* Allow wrapping of items */
+    justify-content: space-between; /* Space out items evenly */
+  }
+  /*shop*/
+  .product-card {
+    margin: 10px;               /* Space between cards */
+    flex: 1 1 30%;              /* Grow to fill space, allow shrink, base size 30% */
+    max-width: 220px;           /* Limit maximum width */
+  }
+.wholeaddinproductdisplay{
+ gap: 3vw;
+  display: flex;
+}  
+.search-input {
+  padding: 10px;
+  margin: 20vw;
+  height: 2vh;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: chartreuse;
+  margin-top: -10vh;
+  margin-left: 70vw;
+  position: absolute;
+}

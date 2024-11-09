@@ -1,0 +1,3223 @@
+
+
+@media (min-width: 320px) {
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+  .product-card-1 {
+    border: 1px solid #e3e6e8;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: green;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+      transition: box-shadow 0.3s ease, transform 0.3s ease;
+      font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+
+    height: 110vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-productcard {
+    width: 100%; /* or specify a percentage of the container width */
+    height: 200px; /* set a fixed height to see the image size change */
+    object-fit: cover; /* keeps the image from stretching and fills the area */
+    border-radius: 4px; /* optional: rounds the corners */
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+    margin-top: -10vh;
+
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+   
+    border: 1px solid #e3e6e8;
+    padding: 20px;
+    border-radius: 8px;
+
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+      transition: box-shadow 0.3s ease, transform 0.3s ease;
+      font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+} 
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+.product-card-1 {
+  border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: 8px ;
+    transition: box-shadow 0.3s;
+    height: 93vh;
+    width: 16vw;
+ 
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-productcard {
+    width: 100%; /* or specify a percentage of the container width */
+    height: 200px; /* set a fixed height to see the image size change */
+    object-fit: cover; /* keeps the image from stretching and fills the area */
+    border-radius: 4px; /* optional: rounds the corners */
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: 8px ;
+    transition: box-shadow 0.3s;
+    height: 70vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-productcard {
+    width: 100%; /* or specify a percentage of the container width */
+    height: 200px; /* set a fixed height to see the image size change */
+    object-fit: cover; /* keeps the image from stretching and fills the area */
+    border-radius: 4px; /* optional: rounds the corners */
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: 8px ;
+    transition: box-shadow 0.3s;
+    height: 105vh;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-productcard {
+    width: 100%; /* or specify a percentage of the container width */
+    height: 200px; /* set a fixed height to see the image size change */
+    object-fit: cover; /* keeps the image from stretching and fills the area */
+    border-radius: 4px; /* optional: rounds the corners */
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 90vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 130vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 100vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 80vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 60vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+     margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 70vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 60vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 55vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 45vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 40vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 40vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+  .product-card {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 40vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 40vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height: 17vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .product-card-1 {
+      border: 2px solid lightgray !important;
+      border-radius: 2vw;
+      padding: 10px;
+      margin: 10px;
+      text-align: center;
+      background-color: #fff;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: box-shadow 0.3s;
+      height: 16vh;
+      width: 17vw;
+    }
+    
+    .product-card:hover {
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+    
+    .product-images-card {
+      max-width: 100%;
+      height: 2vh;
+    }
+    
+    .product-title {
+      font-size: 1.2em;
+      margin: 10px 0;
+      color: #333;
+    }
+    
+    .product-description {
+      font-size: 0.9em;
+      color: #555;
+      margin-left: 4vw;
+      width: 10vw;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+    }
+    
+    .product-price {
+      font-size: 1.1em;
+      font-weight: bold;
+      color: #b12704; /* Amazon red */
+    }
+    
+    .add-to-cart-button{
+      background-color: #ffa41c; /* Amazon orange */
+      color: white;
+      border: none;
+      padding: 10px;
+      margin-top: 0px;
+      cursor: pointer;
+      border-radius: 3px;
+      transition: background-color 0.3s;
+      border-top-left-radius: 8vw;
+      border-top-right-radius: 8vw;
+      border-bottom-left-radius: 8vw;
+      border-bottom-right-radius: 8vw;
+      font-size: 1.3vw;
+      color: #333;
+    }
+    .delete-button {
+      background-color: #ffa41c; /* Amazon orange */
+      color: white;
+      border: none;
+      padding: 10px;
+      margin-top: 10px;
+      cursor: pointer;
+      border-radius: 3px;
+      transition: background-color 0.3s;
+    }
+    
+    .add-to-cart-button:hover,
+    .delete-button:hover {
+      background-color: #ff8c00; /* Darker orange */
+    }
+    
+    .delete-button {
+      background-color: #d9534f; /* Bootstrap danger color */
+    }
+    
+    .delete-button:hover {
+      background-color: #c9302c; /* Darker red */
+    }
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:50vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1.3vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:50vh;
+    margin-left: -5vw !important;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:45vh;
+    margin-left: -5vw !important;
+    width: 17vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 2vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+   margin-left: 4vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: 1vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+  .product-card-1 {
+   
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 5vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:33vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+   margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 7vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:25vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+
+}
+
+
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:20vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 5vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:40vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 7vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 2vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 7vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+     margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 7vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .7vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+   margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 7vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .5vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+  .product-card-1 {
+    border: 2px solid lightgray !important;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-card {
+    max-width: 100%;
+    height: 2vh;
+  }
+  
+  .product-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 0.9em;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 9vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .5vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+
+  .product-card-1 {
+    border: 2px solid lightgray !important;  border: 1px solid #ccc;
+    border-radius: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    height:35vh;
+    margin-left: -5vw !important;
+    width: 15vw;
+    padding-top: 5vh;
+  }
+  
+  .product-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-images-productcard {
+    max-width: 100%;
+    height: 20vh;
+    margin-top: -4vh;
+    
+  }
+  
+  .product-title {
+    font-size: 1.5vw;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-description {
+    font-size: 1vw;
+    color: #555;
+    margin-left: 3vw;
+    width: 10vw;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .product-price {
+    font-size: 1vw;
+    font-weight: bold;
+    color: #b12704; /* Amazon red */
+  }
+  
+  .add-to-cart-button{
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 3vh;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    border-top-left-radius: 8vw;
+    border-top-right-radius: 8vw;
+    border-bottom-left-radius: 8vw;
+    border-bottom-right-radius: 8vw;
+    font-size: .5vw;
+    color: #333;
+  }
+  .delete-button {
+    background-color: #ffa41c; /* Amazon orange */
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover,
+  .delete-button:hover {
+    background-color: #ff8c00; /* Darker orange */
+  }
+  
+  .delete-button {
+    background-color: #d9534f; /* Bootstrap danger color */
+  }
+  
+  .delete-button:hover {
+    background-color: #c9302c; /* Darker red */
+  }
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

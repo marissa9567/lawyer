@@ -1,0 +1,4008 @@
+/* Container for the shop page */
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr); /* Four items per row */
+        gap: 16px; /* Space between the cards */
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -80vw;
+}
+@media (min-width: 320px) {
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 650px) {
+ 
+
+
+ 
+}
+/***************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 800px) {
+
+}
+/******************************************************************************************************/
+@media screen and (min-width: 375px) and (min-height: 950px) {
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 750px) {
+
+
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 390px) and (min-height: 800px) {
+
+
+
+}
+
+/*********************************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 700px) {
+
+}
+
+
+
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 800px) {
+
+
+
+}
+/*******************************************************************************************************/
+@media screen and (min-width: 412px) and (min-height: 900px) {
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 800px) {
+
+
+}
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 428px) and (min-height: 900px) {
+
+
+}
+/*******************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 800px) {
+
+
+}
+
+/***********************************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 900px) {
+
+
+}
+/*****************************************************************************************************/
+@media screen and (min-width: 480px) and (min-height: 1000px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 800px) {
+
+
+}
+/************************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 900px) {
+
+
+}
+/**************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1000px) {
+
+}
+/*************************************************************************************************************/
+@media screen and (min-width: 600px) and (min-height: 1200px) {
+
+}
+
+
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 300px) {
+
+/* Container for the shop page */
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        gap: 16px; /* Space between the cards */
+        column-gap:6vh; /* Space between the cards */
+        row-gap: 0vh;
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+/* Product card styling */
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -75vw;
+    margin-top: -5vh;
+}
+.shopsearchbarcontainer{
+    width:25vw;
+}
+.shop-pagination{
+    margin-top: 60vh;
+}
+
+} 
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 400px) {
+
+
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        gap: 16px; /* Space between the cards */
+        column-gap:5vh; /* Space between the cards */
+        row-gap: 8vh;
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -75vw;
+    margin-top: -5vh;
+}
+.shopsearchbarcontainer{
+    width:25vw;
+}
+.shop-pagination{
+    margin-top: 60vh;
+}
+
+
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 768px) and (min-height: 541px) {
+
+/* Container for the shop page */
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        gap: 10px; /* Space between the cards */
+        column-gap:3vh; /* Space between the cards */
+        row-gap: 0vh;
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+/* Product card styling */
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -75vw;
+    margin-top: -5vh;
+}
+.shopsearchbarcontainer{
+    width:25vw;
+}
+.shop-pagination{
+    margin-top: 60vh;
+}
+
+
+}
+
+/****************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 350px) {
+
+/* Container for the shop page */
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+    height:max-content;
+    padding-bottom: 15vh;
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        column-gap:5vh; /* Space between the cards */
+        row-gap: 10vh;
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -75vw;
+    margin-top: -5vh;
+}
+.shopsearchbarcontainer{
+    width:25vw;
+}
+.shop-pagination{
+    margin-top: 70vh;
+}
+}
+/************************************************************************************************************/
+@media screen and (min-width: 800px) and (min-height: 450px) {
+/* Container for the shop page */
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to the container */
+    background-color: #ffffff; /* Fallback background color */
+    width:92vw;
+    height:max-content;
+    padding-bottom: 15vh;
+}
+
+/* Styling for the search bar */
+.shop-searchbar {
+    margin-bottom: 20px; /* Space between search bar and products */
+}
+
+/* Collapsible price filter */
+.collapsible-price-filter {
+    margin-bottom: 20px; /* Space below the price filter */
+}
+
+/* Product grid styling */
+
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        column-gap:4vh; /* Space between the cards */
+        row-gap: 0vh;
+    }
+
+/* Styling for each product card container */
+.shop-product-cards {
+    width: 100%;
+    max-width: 200px; /* Adjust based on preferred size */
+}
+
+
+
+/* Optional hover effect for cards */
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* Background color picker container */
+.color-picker-div {
+    margin-bottom: 20px; /* Space below the color picker */
+    display: flex; /* Align items in a row */
+    align-items: center; /* Center items vertically */
+}
+
+/* Button styling */
+.color-changer-submit-button {
+    margin-left: 10px; /* Space between color input and button */
+}
+
+/* Styling for price input labels */
+.minprice-label, .maxprice-label {
+    margin-right: 10px; /* Space between labels and inputs */
+}
+/* SearchBar.css */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Center align if needed */
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around */
+
+   
+}
+
+.search-bar input {
+    flex: 1; /* Allow input to take full width */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 4px; /* Rounded corners */
+    
+}
+
+.search-bar button {
+    margin-left: 5px; /* Space between input and button */
+    padding: 10px 15px; /* Padding for the button */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+   
+}
+
+.search-bar button:hover {
+    background-color: #0056b3; /* Darker on hover */
+}
+.shop-searchbar{
+     
+    position: absolute;
+    margin-left: -75vw;
+    margin-top: -5vh;
+}
+.shopsearchbarcontainer{
+    width:25vw;
+}
+.shop-pagination{
+    margin-top: 70vh;
+}
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 300px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:94vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 0vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 70vh;
+    }
+    
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 400px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:94vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 0vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 70vh;
+    }
+    
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1024px) and (min-height: 530px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:94vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 0vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 70vh;
+    }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1080px) and (min-height: 800px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:94vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:7vh; /* Space between the cards */
+            row-gap: 0vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 550px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:15vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1280px) and (min-height: 800px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 768px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:15vh; /* Space between the cards */
+            row-gap: 0vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 850px) {
+
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:14vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+ /***************************************************************************************************/ 
+@media screen and (min-width: 1366px) and (min-height: 1000px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+  
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+  /***************************************************************************************************/
+@media screen and (min-width: 1366px) and (min-height: 1024px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+    /* Product card styling */
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 900px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.3vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:13vh; /* Space between the cards */
+            row-gap: 2vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+
+/********************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 1050px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.3vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 2vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+/****************************************************************************************************/
+@media screen and (min-width: 1440px) and (min-height: 2500px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.3vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:5vh; /* Space between the cards */
+            row-gap: 2vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+
+
+  /***************************************************************************************************/
+  @media screen and (min-width: 1440px) and (min-height: 2900px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.3vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:4vh; /* Space between the cards */
+            row-gap: 2vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************/  
+@media screen and (min-width: 1536px) and (min-height: 800px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.8vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:15vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}  
+/***************************************************************************************************/
+@media screen and (min-width: 1536px) and (min-height: 1200px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:96.8vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 3vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 800px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:98vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:30vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1000px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:98vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+    .shop-product-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Four items per row */
+        column-gap:20vh; /* Space between the cards */
+        row-gap: 5vh;
+    }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+  
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/***************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1200px) {
+
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:98vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:15vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+/********************************************************************************************************/
+@media screen and (min-width: 1920px) and (min-height: 1450px) {
+
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:98vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:13vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+
+}
+/*********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1440px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:20vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+
+
+
+/****************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 1600px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:20vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 2000px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:15vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+/***********************************************************************************************************/
+@media screen and (min-width: 2500px) and (min-height: 3000px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:10vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1234px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:30vh; /* Space between the cards */
+            row-gap: 10vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    }
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1620px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99.2vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:20vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 2880px) and (min-height: 1800px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:99.2vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:20vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+    /* Product card styling */
+
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 1600px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:100vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:38vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+    /* Product card styling */
+   
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2100px) {
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:100vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:27vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+    
+ 
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+
+/***************************************************************************************************/
+@media screen and (min-width: 3840px) and (min-height: 2400px) {
+
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+        padding: 20px; /* Add padding to the container */
+        background-color: #ffffff; /* Fallback background color */
+        width:100vw;
+        height:max-content;
+        padding-bottom: 15vh;
+    }
+    
+    /* Styling for the search bar */
+    .shop-searchbar {
+        margin-bottom: 20px; /* Space between search bar and products */
+    }
+    
+    /* Collapsible price filter */
+    .collapsible-price-filter {
+        margin-bottom: 20px; /* Space below the price filter */
+    }
+    
+    /* Product grid styling */
+    
+        .shop-product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* Four items per row */
+            column-gap:25vh; /* Space between the cards */
+            row-gap: 5vh;
+        }
+    
+    /* Styling for each product card container */
+    .shop-product-cards {
+        width: 100%;
+        max-width: 200px; /* Adjust based on preferred size */
+    }
+
+    
+    /* Optional hover effect for cards */
+    .product-card:hover {
+        transform: scale(1.03);
+    }
+    
+    /* Background color picker container */
+    .color-picker-div {
+        margin-bottom: 20px; /* Space below the color picker */
+        display: flex; /* Align items in a row */
+        align-items: center; /* Center items vertically */
+    }
+    
+    /* Button styling */
+    .color-changer-submit-button {
+        margin-left: 10px; /* Space between color input and button */
+    }
+    
+    /* Styling for price input labels */
+    .minprice-label, .maxprice-label {
+        margin-right: 10px; /* Space between labels and inputs */
+    }
+    /* SearchBar.css */
+    .search-bar {
+        display: flex;
+        justify-content: center; /* Center align if needed */
+        align-items: center;
+        margin: 20px 0; /* Add some spacing around */
+    
+       
+    }
+    
+    .search-bar input {
+        flex: 1; /* Allow input to take full width */
+        padding: 10px; /* Add padding */
+        border: 1px solid #ccc; /* Border styling */
+        border-radius: 4px; /* Rounded corners */
+        
+    }
+    
+    .search-bar button {
+        margin-left: 5px; /* Space between input and button */
+        padding: 10px 15px; /* Padding for the button */
+        border: none; /* Remove default border */
+        background-color: #007bff; /* Button background color */
+        color: white; /* Button text color */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+       
+    }
+    
+    .search-bar button:hover {
+        background-color: #0056b3; /* Darker on hover */
+    }
+    .shop-searchbar{
+         
+        position: absolute;
+        margin-left: -75vw;
+        margin-top: -5vh;
+    }
+    .shopsearchbarcontainer{
+        width:25vw;
+    }
+    .shop-pagination{
+        margin-top: 50vh;
+    }
+}
+/***************************************************************************************************/ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+ 
+

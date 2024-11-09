@@ -1,0 +1,421 @@
+.modal-content11 {
+    position: fixed; /* Position it fixed so it stays in the same place when scrolling */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust to exactly center the modal */
+    width: 80%; /* Make the modal 80% of the viewport width */
+    max-width: 900px; /* Max width to prevent it from being too large .for the large one*/
+    height: 80%; /* Make the modal 80% of the viewport height */
+    max-height: 600px; /* Max height to prevent it from being too tall */
+    background-color: yellow; /* Background color of the modal */
+    z-index: 1000; /* Modal should be above the overlay */
+    border-radius: 10px; /* Rounded corners for the modal */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow for some depth */
+    padding: 20px; /* Space inside the modal */
+    display: flex;
+    flex-direction: column;
+    overflow: auto; /* Allows scrolling inside the modal if the content overflows */
+  }
+.close-modal {
+  background-color: transparent;
+  color: black;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: -3vh;
+  width:5vw !important;
+  margin-left: 75vw;
+
+
+}
+
+.close-modal:hover {
+  background-color: darkred;
+
+}
+.product-modal-title1{
+  width: 15vw !important;
+  position: absolute;
+  margin-left: 13vw;
+  margin-top: -5vh;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(0, 0, 0, .1); 
+  transition: box-shadow 0.3s ease-in-out;
+}
+.product-modal-title1-display{
+  font-size: 24px;              /* Larger font for the title */
+    /* Bold text */
+    color: #111;                  /* Dark color for the title */
+    line-height: 1.2;             /* Adjust line height */
+    margin-bottom: 10px;          /* Space below the title */
+    font-family: 'Amazon Ember', Arial, sans-serif; /* Set font family */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+    padding-bottom: 10px;
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+    margin-left: 17vw;
+    font-weight: bold;  
+    width: 40%; 
+}
+.modal-select-color-input{
+  width: 37%;
+  margin-top: 80vh;
+  margin-left: -22vw;
+  position: absolute;
+  border-bottom: 2px solid #ddd; /* Light gray border */
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+font-size: 16px;               /* Set font size for the description */
+line-height: 1.6;              /* Improve line spacing for readability */
+color: #333;                   /* Set a dark grey color for the description */
+font-family: 'Amazon Ember', Arial, sans-serif; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+    padding-bottom: 10px;
+             /* Space between the text and the line */
+    margin-bottom: 20px;                /* Adds spacing after the heading */
+      
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+             /* Size of the section heading */
+    font-weight: bold; 
+}
+.modal-select-size-input{
+  width: 37%;
+  margin-top: 100vh;
+  margin-left: -22vw;
+  position: absolute;
+  font-size: 16px;               /* Set font size for the description */
+line-height: 1.6;              /* Improve line spacing for readability */
+color: #333;                   /* Set a dark grey color for the description */
+font-family: 'Amazon Ember', Arial, sans-serif; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+    padding-bottom: 10px;
+             /* Space between the text and the line */
+    margin-bottom: 20px;                /* Adds spacing after the heading */
+      
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+             /* Size of the section heading */
+    font-weight: bold; 
+}
+.Productmoduleimageuploader-img{
+  width: 15vw !important;
+  margin-left: -60vw;
+  margin-top: 10vh;
+border-radius: 8px;
+border-bottom: 2px solid #ddd; /* Light gray border */
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+
+}
+.productmodule-images-container{
+  
+  width:75vw;
+}
+.Productmoduleimageuploader-main-container{
+
+  display: flex;
+  flex-direction: column;
+}
+.Productmoduleimageuploader-upload-button{
+  width: 20vw;
+ border-radius: 8vw;
+ font-size: 1.5vw;
+}
+
+
+
+
+.Productmoduleimageuploader-delete-button{
+position: absolute;
+  margin-left: -12vw;
+  background: linear-gradient(135deg, #a87f74, #9c6648,#e81010);
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 1.5vw;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  width: 10vw;
+  margin-top: 60vh;
+  height: 3vh;
+  padding-bottom: 6vh;
+  
+}
+
+.productmodule-description-text{
+  width: 20vw;
+  position: absolute;
+  margin-top: -150vh;
+  margin-left: 10vw;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(0, 0, 0, .1); 
+  transition: box-shadow 0.3s ease-in-out;
+
+}
+.productmodule-details-text{
+  width: 20vw !important;
+  position: absolute;
+  margin-top: -218vh;
+  margin-left: 10vw;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(0, 0, 0, .1); 
+  transition: box-shadow 0.3s ease-in-out; 
+
+}
+.details-display{
+  width: 39% !important;
+  position: absolute;
+  margin-top: -213vh;
+  margin-left: 17vw;
+                 /* Set font size for the description */
+    line-height: 1.6;              /* Improve line spacing for readability */
+    color: #333;                   /* Set a dark grey color for the description */
+    font-family: 'Amazon Ember', Arial, sans-serif; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+ 
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+    padding-bottom: 8px;               /* Size of the section heading */
+    margin-bottom: 20px;                /* Adds spacing after the heading */
+    font-size: 18px;                    /* Size of the section heading */
+    font-weight: bold;   
+}
+.productmodule-price{
+  position: absolute;
+  margin-top: -200vh;
+  width: 20vw !important;
+  margin-left: 10vw;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(0, 0, 0, .1); 
+  transition: box-shadow 0.3s ease-in-out;
+}
+.price-display{
+ position: absolute;
+ margin-top: -195vh;
+ margin-left: 17vw;
+ width: 39%;
+             /* Price font size */
+            /* Bold for emphasis */
+    color: #B12704;               /* Amazon’s typical red for price */
+    margin-right: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+    padding-bottom: 8px;               /* Size of the section heading */
+                 /* Space between the text and the line */
+    margin-bottom: 20px;                /* Adds spacing after the heading */
+    font-size: 18px;                    /* Size of the section heading */
+    font-weight: bold;   
+}
+.category-display{
+position: absolute;
+width: 39% !important;
+margin-top: -178vh;
+margin-left: 17vw;
+font-size: 16px;               /* Set font size for the description */
+line-height: 1.6;              /* Improve line spacing for readability */
+color: #333;                   /* Set a dark grey color for the description */
+font-family: 'Amazon Ember', Arial, sans-serif; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle underline effect */
+    padding-bottom: 10px;
+             /* Space between the text and the line */
+    margin-bottom: 20px;                /* Adds spacing after the heading */
+      
+    border-bottom: 2px solid #b0b0b0; /* Dashed border */
+             /* Size of the section heading */
+    font-weight: bold;   
+}
+.productmodule-category-text{
+position: absolute;
+width: 20vw !important;
+margin-top: -183vh;
+margin-left: 10vw;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 8px 20px rgba(0, 0, 0, 0.08);
+
+
+
+
+
+}
+.save-description-content-button{
+  position: absolute;
+  margin-top: -125vh;
+  margin-left: 10vw;
+  background: linear-gradient(135deg, #88b6dd, #6146a0,#3708df);
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 1.5vw;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.productmodule-addtocart-button{
+  background-color: #ff9900; /* Amazon-like yellow */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.productmodule-additional-info-button{
+  position: absolute;
+  margin-top: -167vh;
+  margin-left: 10vw;
+  background: linear-gradient(135deg, #88b6dd, #6146a0,#3708df);
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 1.5vw;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+.imageslider{
+
+  width: 80vw;
+height: 100vh !important;
+
+
+ 
+}
+
+/* Image Slider Styles */
+.slider {
+  position: relative;
+  width: 100%;
+  height: 200vh !important; /* Set a fixed height for the image slider */
+  overflow: hidden;
+  margin-top: 130vh;
+  margin-left: -15vw;
+}
+
+.slide {
+  width: 30%;
+  height: 40% !important;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+  margin-left: 30vw;
+  margin-top: 0vh;
+}
+
+.no-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10%;
+  color: #888;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #f6f6f6;
+}
+
+/* Navigation Controls */
+
+
+.prev {
+  left: 12vw;
+  right: 20px;
+  color: black;
+  width: 3vw;
+  margin-top: -170vh;
+  position: absolute;
+  height: 10vh;
+  padding-bottom: 8vh;
+  background-color: transparent;
+}
+
+.next {
+  left: 68vw;
+  right: 20px;
+  color: black;
+  width: 3vw;
+  margin-top: -170vh;
+  position: absolute;
+  height: 10vh;
+  padding-bottom: 8vh;
+  background-color: transparent;
+}
+
+/* Hover effects for navigation buttons */
+.nav:hover {
+  transform: scale(1.1); /* Slight zoom-in effect */
+  
+}
+
+/* Image upload form styles */
+.upload-form {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-align: center;
+  width: 20vw;
+  height: 10vh;
+ 
+}
+
+.upload-form input[type="file"] {
+  color: transparent; /* Hides the default file input text */
+  background-color: transparent;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1.5vw;
+  margin-top: -16vh;
+  height: 5vh;
+}
+
+.upload-form input[type="file"]:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+
+}
+.image-thumbnails-1{
+  width: 10vw;
+  margin-top: -290vh;
+
+}
+.thumbnail-pic{
+  width: 50px;
+  height: 50px !important;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  margin-right: 8px;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+
+}
+.image-thumbnails-1.active {
+  border-color: #FF9900 !important; /* Amazon's typical highlight color */
+}
+.delete-btn-imageslider{
+  width: 1vw;
+  margin-left: 8vw;
+  margin-top: -60vh;
+  background-color: transparent;
+
+  
+}
+.thumbnail-container{
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 50vh;
+}
+.description-alert{
+  font-size: 1.5vw;
+  width: 10vw;
+  color: gray;
+  position: absolute;
+  margin-left: 70vw;
+  margin-top: -150vh;
+}
+.delete-btn-description {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
